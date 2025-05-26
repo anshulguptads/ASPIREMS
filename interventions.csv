@@ -1,0 +1,2034 @@
+student_id,teacher_id,date,note
+S0001,T007,2025-01-04,Suggested extra reading
+S0001,T007,2025-01-08,Noted improvement
+S0002,T030,2025-01-03,Discussed weak area
+S0003,T023,2025-04-15,Discussed weak area
+S0004,T019,2025-03-19,Follow-up on Math quiz
+S0005,T005,2025-05-08,Suggested extra reading
+S0006,T029,2025-02-21,Follow-up on Math quiz
+S0006,T029,2025-05-13,Motivational session
+S0007,T019,2024-12-27,Follow-up on Math quiz
+S0007,T019,2025-02-25,Motivational session
+S0007,T019,2025-04-14,Noted improvement
+S0008,T022,2025-03-06,Follow-up on Math quiz
+S0008,T022,2025-04-30,Motivational session
+S0009,T003,2025-04-13,Noted improvement
+S0009,T003,2024-12-26,Discussed weak area
+S0010,T024,2024-12-17,Suggested extra reading
+S0010,T024,2025-04-25,Discussed weak area
+S0010,T024,2025-05-23,Follow-up on Math quiz
+S0011,T021,2025-03-02,Follow-up on Math quiz
+S0011,T021,2025-01-22,Noted improvement
+S0012,T018,2024-12-09,Noted improvement
+S0013,T003,2025-05-11,Motivational session
+S0013,T003,2025-02-22,Follow-up on Math quiz
+S0013,T003,2025-04-03,Motivational session
+S0014,T015,2025-04-27,Motivational session
+S0015,T020,2024-12-05,Noted improvement
+S0016,T014,2025-02-01,Noted improvement
+S0017,T005,2025-04-24,Motivational session
+S0018,T001,2025-05-08,Motivational session
+S0019,T025,2024-12-04,Motivational session
+S0019,T025,2025-02-01,Discussed weak area
+S0019,T025,2025-01-28,Noted improvement
+S0020,T002,2024-12-15,Noted improvement
+S0021,T013,2025-05-05,Noted improvement
+S0022,T003,2025-04-07,Suggested extra reading
+S0022,T003,2024-11-26,Motivational session
+S0022,T003,2024-12-07,Suggested extra reading
+S0023,T021,2024-11-26,Noted improvement
+S0023,T021,2025-02-12,Suggested extra reading
+S0024,T014,2025-04-24,Follow-up on Math quiz
+S0024,T014,2025-03-02,Noted improvement
+S0024,T014,2024-12-25,Discussed weak area
+S0025,T008,2024-12-14,Suggested extra reading
+S0025,T008,2025-03-17,Discussed weak area
+S0026,T013,2025-04-14,Motivational session
+S0026,T013,2025-02-07,Follow-up on Math quiz
+S0027,T001,2025-02-04,Motivational session
+S0027,T001,2025-02-14,Follow-up on Math quiz
+S0027,T001,2024-12-21,Discussed weak area
+S0028,T012,2025-05-05,Motivational session
+S0028,T012,2025-01-10,Discussed weak area
+S0028,T012,2025-03-22,Suggested extra reading
+S0029,T006,2025-03-24,Follow-up on Math quiz
+S0029,T006,2024-12-06,Noted improvement
+S0029,T006,2025-04-21,Suggested extra reading
+S0030,T004,2025-04-19,Noted improvement
+S0030,T004,2025-05-07,Motivational session
+S0030,T004,2024-12-30,Motivational session
+S0031,T009,2024-12-24,Motivational session
+S0032,T007,2025-02-12,Follow-up on Math quiz
+S0032,T007,2025-04-12,Suggested extra reading
+S0033,T023,2025-03-23,Discussed weak area
+S0033,T023,2025-03-22,Motivational session
+S0034,T025,2024-11-24,Noted improvement
+S0034,T025,2025-05-23,Follow-up on Math quiz
+S0035,T023,2025-01-28,Motivational session
+S0035,T023,2025-03-27,Suggested extra reading
+S0036,T002,2025-05-17,Follow-up on Math quiz
+S0036,T002,2024-12-14,Motivational session
+S0036,T002,2025-02-06,Discussed weak area
+S0037,T020,2025-01-05,Suggested extra reading
+S0038,T023,2025-02-07,Suggested extra reading
+S0038,T023,2025-03-07,Suggested extra reading
+S0038,T023,2025-03-13,Suggested extra reading
+S0039,T023,2025-03-10,Follow-up on Math quiz
+S0039,T023,2025-03-26,Noted improvement
+S0039,T023,2024-12-14,Suggested extra reading
+S0040,T021,2024-11-24,Follow-up on Math quiz
+S0040,T021,2025-02-14,Discussed weak area
+S0040,T021,2025-05-25,Discussed weak area
+S0041,T003,2024-12-06,Motivational session
+S0041,T003,2024-12-06,Noted improvement
+S0041,T003,2025-03-26,Noted improvement
+S0042,T030,2024-11-24,Noted improvement
+S0043,T023,2025-05-20,Suggested extra reading
+S0043,T023,2024-12-06,Follow-up on Math quiz
+S0044,T001,2025-04-11,Noted improvement
+S0044,T001,2025-02-08,Suggested extra reading
+S0045,T024,2024-12-08,Suggested extra reading
+S0046,T009,2024-12-28,Noted improvement
+S0046,T009,2025-03-25,Suggested extra reading
+S0047,T023,2025-02-01,Discussed weak area
+S0048,T013,2024-12-14,Noted improvement
+S0049,T015,2025-02-13,Follow-up on Math quiz
+S0049,T015,2025-04-06,Discussed weak area
+S0049,T015,2025-03-08,Suggested extra reading
+S0050,T008,2025-03-07,Discussed weak area
+S0051,T012,2025-03-01,Noted improvement
+S0051,T012,2025-05-23,Follow-up on Math quiz
+S0052,T012,2025-04-11,Discussed weak area
+S0052,T012,2025-01-04,Suggested extra reading
+S0053,T002,2025-01-30,Noted improvement
+S0053,T002,2024-12-14,Follow-up on Math quiz
+S0053,T002,2025-04-25,Suggested extra reading
+S0054,T009,2025-03-14,Suggested extra reading
+S0054,T009,2025-02-16,Suggested extra reading
+S0054,T009,2025-04-30,Suggested extra reading
+S0055,T020,2025-03-08,Motivational session
+S0055,T020,2025-03-15,Noted improvement
+S0056,T004,2025-05-24,Noted improvement
+S0056,T004,2025-02-28,Follow-up on Math quiz
+S0057,T020,2025-01-02,Motivational session
+S0058,T021,2025-03-27,Suggested extra reading
+S0059,T024,2025-05-18,Follow-up on Math quiz
+S0059,T024,2025-03-10,Motivational session
+S0059,T024,2024-12-09,Motivational session
+S0060,T022,2025-03-21,Noted improvement
+S0060,T022,2025-03-12,Noted improvement
+S0061,T026,2025-04-26,Follow-up on Math quiz
+S0061,T026,2025-05-07,Follow-up on Math quiz
+S0062,T013,2025-03-28,Suggested extra reading
+S0063,T015,2025-01-16,Discussed weak area
+S0064,T007,2025-03-27,Noted improvement
+S0064,T007,2025-03-31,Motivational session
+S0064,T007,2025-01-13,Follow-up on Math quiz
+S0065,T001,2024-11-28,Follow-up on Math quiz
+S0065,T001,2025-04-02,Noted improvement
+S0065,T001,2024-12-30,Suggested extra reading
+S0066,T003,2025-03-28,Motivational session
+S0066,T003,2025-02-15,Discussed weak area
+S0067,T020,2025-05-14,Follow-up on Math quiz
+S0067,T020,2025-02-12,Suggested extra reading
+S0067,T020,2025-05-23,Suggested extra reading
+S0068,T015,2025-01-13,Follow-up on Math quiz
+S0068,T015,2024-12-15,Noted improvement
+S0069,T002,2024-12-28,Suggested extra reading
+S0069,T002,2025-02-21,Follow-up on Math quiz
+S0070,T002,2025-02-18,Discussed weak area
+S0070,T002,2025-04-22,Follow-up on Math quiz
+S0071,T003,2025-01-12,Follow-up on Math quiz
+S0072,T028,2025-02-22,Motivational session
+S0072,T028,2024-12-26,Suggested extra reading
+S0072,T028,2025-01-30,Motivational session
+S0073,T008,2024-12-18,Noted improvement
+S0073,T008,2025-04-23,Noted improvement
+S0074,T012,2024-12-07,Discussed weak area
+S0074,T012,2025-03-26,Noted improvement
+S0074,T012,2025-04-17,Follow-up on Math quiz
+S0075,T012,2025-03-20,Suggested extra reading
+S0076,T005,2025-01-05,Follow-up on Math quiz
+S0076,T005,2025-01-18,Motivational session
+S0077,T023,2025-04-23,Suggested extra reading
+S0077,T023,2025-03-17,Follow-up on Math quiz
+S0077,T023,2025-04-19,Discussed weak area
+S0078,T013,2025-04-25,Noted improvement
+S0079,T023,2025-01-29,Suggested extra reading
+S0079,T023,2025-02-14,Discussed weak area
+S0079,T023,2024-12-23,Motivational session
+S0080,T012,2024-12-25,Follow-up on Math quiz
+S0080,T012,2025-02-20,Noted improvement
+S0081,T020,2025-04-13,Follow-up on Math quiz
+S0081,T020,2024-12-23,Suggested extra reading
+S0081,T020,2025-01-03,Motivational session
+S0082,T014,2025-01-14,Discussed weak area
+S0082,T014,2024-12-20,Motivational session
+S0083,T022,2025-03-01,Discussed weak area
+S0083,T022,2025-03-02,Suggested extra reading
+S0084,T007,2024-12-04,Follow-up on Math quiz
+S0084,T007,2025-05-16,Follow-up on Math quiz
+S0085,T030,2024-12-20,Noted improvement
+S0086,T023,2025-02-23,Noted improvement
+S0086,T023,2024-11-29,Discussed weak area
+S0086,T023,2024-12-24,Discussed weak area
+S0087,T002,2025-02-07,Motivational session
+S0087,T002,2025-01-17,Suggested extra reading
+S0087,T002,2025-01-10,Noted improvement
+S0088,T021,2025-03-29,Motivational session
+S0088,T021,2025-03-15,Follow-up on Math quiz
+S0088,T021,2024-12-29,Suggested extra reading
+S0089,T021,2025-02-18,Follow-up on Math quiz
+S0090,T028,2025-05-07,Suggested extra reading
+S0090,T028,2025-03-17,Follow-up on Math quiz
+S0091,T028,2025-03-21,Suggested extra reading
+S0092,T020,2024-12-24,Discussed weak area
+S0092,T020,2025-05-13,Noted improvement
+S0092,T020,2024-12-31,Follow-up on Math quiz
+S0093,T025,2024-12-27,Noted improvement
+S0094,T016,2024-12-05,Suggested extra reading
+S0094,T016,2025-01-02,Motivational session
+S0095,T022,2025-05-06,Follow-up on Math quiz
+S0095,T022,2025-04-05,Suggested extra reading
+S0096,T019,2025-04-01,Noted improvement
+S0096,T019,2025-02-11,Follow-up on Math quiz
+S0096,T019,2025-03-21,Noted improvement
+S0097,T016,2024-12-29,Discussed weak area
+S0097,T016,2025-02-08,Suggested extra reading
+S0097,T016,2025-03-30,Follow-up on Math quiz
+S0098,T016,2025-03-13,Noted improvement
+S0098,T016,2024-12-04,Discussed weak area
+S0098,T016,2024-11-25,Discussed weak area
+S0099,T009,2024-11-24,Noted improvement
+S0099,T009,2025-01-27,Noted improvement
+S0099,T009,2024-12-15,Discussed weak area
+S0100,T006,2025-03-31,Noted improvement
+S0100,T006,2025-04-22,Follow-up on Math quiz
+S0100,T006,2025-05-21,Discussed weak area
+S0101,T024,2025-05-23,Noted improvement
+S0102,T009,2024-12-16,Follow-up on Math quiz
+S0102,T009,2024-12-16,Follow-up on Math quiz
+S0102,T009,2025-05-23,Follow-up on Math quiz
+S0103,T001,2025-04-30,Noted improvement
+S0103,T001,2025-03-25,Noted improvement
+S0104,T030,2024-12-01,Noted improvement
+S0104,T030,2024-12-04,Noted improvement
+S0105,T020,2024-12-26,Noted improvement
+S0106,T016,2025-04-21,Noted improvement
+S0107,T019,2025-05-07,Motivational session
+S0108,T022,2025-05-14,Noted improvement
+S0108,T022,2025-02-14,Suggested extra reading
+S0109,T009,2025-02-16,Follow-up on Math quiz
+S0109,T009,2025-04-06,Noted improvement
+S0109,T009,2025-04-14,Discussed weak area
+S0110,T007,2024-12-22,Suggested extra reading
+S0110,T007,2025-03-18,Discussed weak area
+S0111,T029,2025-05-01,Noted improvement
+S0112,T023,2025-01-26,Follow-up on Math quiz
+S0112,T023,2024-12-16,Follow-up on Math quiz
+S0113,T002,2025-04-13,Motivational session
+S0113,T002,2025-02-22,Suggested extra reading
+S0113,T002,2025-04-23,Noted improvement
+S0114,T018,2024-12-08,Suggested extra reading
+S0114,T018,2024-12-10,Discussed weak area
+S0115,T019,2025-05-04,Motivational session
+S0115,T019,2025-03-24,Suggested extra reading
+S0116,T006,2024-12-16,Noted improvement
+S0117,T002,2025-04-07,Discussed weak area
+S0117,T002,2024-12-31,Motivational session
+S0117,T002,2025-03-10,Follow-up on Math quiz
+S0118,T007,2025-04-01,Suggested extra reading
+S0118,T007,2025-03-04,Suggested extra reading
+S0118,T007,2025-03-10,Follow-up on Math quiz
+S0119,T002,2025-02-08,Follow-up on Math quiz
+S0119,T002,2025-04-19,Discussed weak area
+S0119,T002,2025-03-08,Noted improvement
+S0120,T007,2025-04-29,Motivational session
+S0120,T007,2025-03-26,Follow-up on Math quiz
+S0120,T007,2025-01-07,Noted improvement
+S0121,T025,2025-04-20,Follow-up on Math quiz
+S0122,T005,2025-01-05,Discussed weak area
+S0122,T005,2025-04-16,Suggested extra reading
+S0123,T018,2025-01-21,Suggested extra reading
+S0123,T018,2024-11-24,Discussed weak area
+S0123,T018,2025-05-03,Noted improvement
+S0124,T006,2025-05-23,Noted improvement
+S0124,T006,2025-01-05,Suggested extra reading
+S0124,T006,2025-04-19,Discussed weak area
+S0125,T028,2025-04-19,Suggested extra reading
+S0125,T028,2025-03-27,Discussed weak area
+S0126,T013,2024-12-13,Follow-up on Math quiz
+S0126,T013,2025-05-22,Motivational session
+S0127,T026,2025-04-05,Discussed weak area
+S0127,T026,2025-02-27,Noted improvement
+S0127,T026,2024-12-24,Discussed weak area
+S0128,T014,2025-03-06,Noted improvement
+S0128,T014,2025-03-29,Suggested extra reading
+S0128,T014,2025-04-18,Discussed weak area
+S0129,T010,2025-01-23,Follow-up on Math quiz
+S0129,T010,2025-04-15,Discussed weak area
+S0130,T028,2025-03-17,Discussed weak area
+S0131,T015,2025-01-26,Motivational session
+S0131,T015,2025-04-29,Suggested extra reading
+S0132,T019,2025-05-02,Motivational session
+S0132,T019,2024-12-23,Suggested extra reading
+S0133,T014,2025-02-14,Noted improvement
+S0133,T014,2025-02-12,Noted improvement
+S0133,T014,2025-02-19,Follow-up on Math quiz
+S0134,T027,2025-05-19,Motivational session
+S0134,T027,2024-12-23,Follow-up on Math quiz
+S0135,T025,2024-12-08,Suggested extra reading
+S0135,T025,2025-02-10,Follow-up on Math quiz
+S0135,T025,2025-04-29,Motivational session
+S0136,T004,2025-03-26,Noted improvement
+S0136,T004,2025-03-27,Suggested extra reading
+S0136,T004,2025-02-09,Motivational session
+S0137,T017,2025-02-01,Follow-up on Math quiz
+S0138,T026,2025-02-14,Motivational session
+S0138,T026,2025-03-05,Discussed weak area
+S0139,T011,2025-03-12,Noted improvement
+S0139,T011,2025-02-05,Noted improvement
+S0140,T030,2025-01-30,Suggested extra reading
+S0140,T030,2025-02-10,Motivational session
+S0141,T008,2025-05-11,Discussed weak area
+S0141,T008,2025-01-19,Discussed weak area
+S0141,T008,2025-01-09,Follow-up on Math quiz
+S0142,T022,2025-01-16,Suggested extra reading
+S0143,T008,2025-04-11,Discussed weak area
+S0144,T020,2025-05-04,Noted improvement
+S0144,T020,2025-05-04,Suggested extra reading
+S0144,T020,2024-11-27,Suggested extra reading
+S0145,T002,2025-04-04,Motivational session
+S0146,T027,2025-05-14,Discussed weak area
+S0147,T006,2025-02-17,Noted improvement
+S0147,T006,2025-04-23,Suggested extra reading
+S0147,T006,2025-03-30,Motivational session
+S0148,T016,2025-01-02,Noted improvement
+S0148,T016,2025-04-20,Suggested extra reading
+S0149,T030,2024-12-28,Discussed weak area
+S0149,T030,2025-05-13,Suggested extra reading
+S0150,T025,2025-04-19,Follow-up on Math quiz
+S0150,T025,2024-12-10,Noted improvement
+S0151,T001,2025-03-16,Noted improvement
+S0152,T029,2025-03-11,Suggested extra reading
+S0152,T029,2025-05-14,Follow-up on Math quiz
+S0152,T029,2025-04-19,Noted improvement
+S0153,T015,2024-12-08,Motivational session
+S0153,T015,2025-05-23,Follow-up on Math quiz
+S0154,T003,2025-02-21,Discussed weak area
+S0155,T018,2025-03-18,Noted improvement
+S0155,T018,2025-03-06,Discussed weak area
+S0155,T018,2025-02-20,Noted improvement
+S0156,T021,2025-04-23,Noted improvement
+S0157,T029,2024-12-20,Suggested extra reading
+S0158,T018,2025-03-17,Motivational session
+S0158,T018,2025-01-11,Noted improvement
+S0159,T009,2025-05-14,Motivational session
+S0159,T009,2024-12-24,Noted improvement
+S0159,T009,2025-05-16,Noted improvement
+S0160,T006,2025-04-19,Suggested extra reading
+S0160,T006,2025-01-27,Discussed weak area
+S0161,T030,2025-03-02,Suggested extra reading
+S0162,T030,2025-02-21,Discussed weak area
+S0162,T030,2024-12-14,Follow-up on Math quiz
+S0162,T030,2025-05-25,Noted improvement
+S0163,T003,2025-04-28,Discussed weak area
+S0163,T003,2025-01-17,Noted improvement
+S0164,T014,2024-12-30,Noted improvement
+S0164,T014,2025-05-19,Follow-up on Math quiz
+S0164,T014,2025-03-23,Follow-up on Math quiz
+S0165,T003,2025-02-05,Suggested extra reading
+S0165,T003,2025-01-11,Motivational session
+S0165,T003,2024-12-20,Discussed weak area
+S0166,T007,2025-02-10,Noted improvement
+S0166,T007,2025-04-30,Suggested extra reading
+S0166,T007,2025-05-25,Motivational session
+S0167,T016,2024-11-27,Suggested extra reading
+S0167,T016,2025-02-28,Follow-up on Math quiz
+S0167,T016,2025-02-18,Discussed weak area
+S0168,T015,2025-04-18,Suggested extra reading
+S0168,T015,2025-01-03,Noted improvement
+S0169,T027,2025-03-03,Discussed weak area
+S0169,T027,2025-03-04,Follow-up on Math quiz
+S0169,T027,2024-12-02,Motivational session
+S0170,T026,2025-03-09,Suggested extra reading
+S0171,T030,2025-04-21,Follow-up on Math quiz
+S0171,T030,2024-12-14,Suggested extra reading
+S0171,T030,2024-12-19,Follow-up on Math quiz
+S0172,T016,2025-05-19,Discussed weak area
+S0173,T027,2024-12-20,Noted improvement
+S0173,T027,2025-02-02,Discussed weak area
+S0174,T006,2025-03-03,Noted improvement
+S0174,T006,2024-11-28,Noted improvement
+S0174,T006,2025-01-25,Motivational session
+S0175,T021,2025-03-21,Follow-up on Math quiz
+S0175,T021,2025-02-17,Discussed weak area
+S0176,T019,2025-02-07,Suggested extra reading
+S0176,T019,2025-05-10,Noted improvement
+S0176,T019,2025-05-12,Suggested extra reading
+S0177,T015,2025-03-30,Follow-up on Math quiz
+S0178,T028,2025-05-04,Discussed weak area
+S0178,T028,2025-05-10,Follow-up on Math quiz
+S0178,T028,2025-01-19,Follow-up on Math quiz
+S0179,T002,2025-04-20,Follow-up on Math quiz
+S0179,T002,2025-01-22,Follow-up on Math quiz
+S0179,T002,2025-04-29,Noted improvement
+S0180,T028,2025-03-10,Follow-up on Math quiz
+S0180,T028,2025-01-24,Follow-up on Math quiz
+S0181,T010,2024-12-08,Discussed weak area
+S0181,T010,2024-12-23,Suggested extra reading
+S0181,T010,2024-12-10,Discussed weak area
+S0182,T025,2024-12-07,Follow-up on Math quiz
+S0182,T025,2025-03-02,Discussed weak area
+S0183,T022,2025-04-21,Noted improvement
+S0184,T011,2025-04-23,Discussed weak area
+S0184,T011,2025-05-13,Suggested extra reading
+S0184,T011,2024-12-21,Discussed weak area
+S0185,T020,2025-04-10,Noted improvement
+S0185,T020,2025-05-14,Follow-up on Math quiz
+S0185,T020,2025-01-07,Noted improvement
+S0186,T009,2025-01-20,Motivational session
+S0186,T009,2025-02-11,Follow-up on Math quiz
+S0186,T009,2024-12-30,Noted improvement
+S0187,T030,2025-04-09,Suggested extra reading
+S0187,T030,2025-03-17,Suggested extra reading
+S0188,T010,2024-12-02,Motivational session
+S0188,T010,2024-12-12,Motivational session
+S0188,T010,2025-05-07,Discussed weak area
+S0189,T012,2025-03-31,Motivational session
+S0189,T012,2025-01-15,Follow-up on Math quiz
+S0189,T012,2025-03-26,Noted improvement
+S0190,T028,2025-02-10,Discussed weak area
+S0191,T028,2025-01-11,Noted improvement
+S0192,T003,2025-02-14,Discussed weak area
+S0193,T001,2024-12-08,Motivational session
+S0193,T001,2025-04-26,Motivational session
+S0194,T028,2025-02-19,Noted improvement
+S0194,T028,2025-01-13,Discussed weak area
+S0195,T027,2025-01-19,Discussed weak area
+S0195,T027,2025-02-03,Discussed weak area
+S0195,T027,2025-01-22,Noted improvement
+S0196,T017,2025-02-07,Discussed weak area
+S0196,T017,2025-05-18,Suggested extra reading
+S0197,T025,2025-01-14,Noted improvement
+S0197,T025,2025-04-11,Suggested extra reading
+S0198,T010,2025-02-08,Motivational session
+S0198,T010,2025-02-09,Noted improvement
+S0198,T010,2025-01-18,Discussed weak area
+S0199,T022,2025-01-05,Suggested extra reading
+S0199,T022,2025-02-26,Noted improvement
+S0199,T022,2024-12-08,Noted improvement
+S0200,T008,2025-04-22,Discussed weak area
+S0201,T010,2024-12-12,Suggested extra reading
+S0201,T010,2025-03-05,Follow-up on Math quiz
+S0202,T002,2024-12-27,Noted improvement
+S0202,T002,2025-01-29,Motivational session
+S0203,T012,2025-03-24,Motivational session
+S0203,T012,2025-04-17,Discussed weak area
+S0203,T012,2025-05-18,Noted improvement
+S0204,T008,2025-04-03,Follow-up on Math quiz
+S0204,T008,2025-03-29,Suggested extra reading
+S0204,T008,2025-02-07,Discussed weak area
+S0205,T004,2024-11-25,Motivational session
+S0205,T004,2025-01-25,Follow-up on Math quiz
+S0206,T026,2025-04-15,Suggested extra reading
+S0206,T026,2025-02-10,Follow-up on Math quiz
+S0207,T017,2025-02-16,Noted improvement
+S0208,T026,2025-02-03,Noted improvement
+S0208,T026,2025-03-11,Suggested extra reading
+S0209,T006,2025-05-17,Motivational session
+S0209,T006,2024-12-02,Motivational session
+S0209,T006,2025-05-14,Noted improvement
+S0210,T011,2025-01-23,Suggested extra reading
+S0210,T011,2025-04-02,Suggested extra reading
+S0210,T011,2025-04-22,Follow-up on Math quiz
+S0211,T008,2025-01-28,Discussed weak area
+S0211,T008,2025-03-20,Noted improvement
+S0211,T008,2025-03-18,Noted improvement
+S0212,T029,2024-12-22,Motivational session
+S0212,T029,2025-05-16,Follow-up on Math quiz
+S0212,T029,2025-02-11,Discussed weak area
+S0213,T013,2025-02-17,Noted improvement
+S0213,T013,2025-04-28,Follow-up on Math quiz
+S0214,T022,2025-02-21,Suggested extra reading
+S0214,T022,2025-01-09,Motivational session
+S0214,T022,2025-04-04,Suggested extra reading
+S0215,T019,2024-12-24,Follow-up on Math quiz
+S0215,T019,2025-03-12,Suggested extra reading
+S0216,T012,2025-02-28,Noted improvement
+S0217,T019,2024-12-02,Suggested extra reading
+S0218,T026,2025-03-30,Discussed weak area
+S0219,T006,2024-12-11,Suggested extra reading
+S0219,T006,2025-05-19,Suggested extra reading
+S0220,T013,2025-04-14,Suggested extra reading
+S0220,T013,2025-05-20,Noted improvement
+S0221,T007,2025-05-14,Discussed weak area
+S0222,T012,2025-02-07,Noted improvement
+S0222,T012,2025-02-02,Discussed weak area
+S0223,T001,2025-04-05,Noted improvement
+S0224,T007,2025-04-13,Motivational session
+S0224,T007,2024-11-29,Suggested extra reading
+S0225,T001,2025-02-06,Motivational session
+S0225,T001,2025-01-21,Noted improvement
+S0225,T001,2024-12-20,Suggested extra reading
+S0226,T004,2025-01-28,Follow-up on Math quiz
+S0227,T008,2025-03-04,Motivational session
+S0227,T008,2025-04-26,Suggested extra reading
+S0228,T024,2025-03-03,Suggested extra reading
+S0229,T028,2024-12-18,Discussed weak area
+S0229,T028,2025-02-13,Follow-up on Math quiz
+S0230,T022,2024-12-19,Motivational session
+S0230,T022,2025-01-08,Follow-up on Math quiz
+S0231,T011,2025-02-01,Discussed weak area
+S0231,T011,2025-03-04,Motivational session
+S0231,T011,2025-04-16,Motivational session
+S0232,T028,2025-02-20,Discussed weak area
+S0233,T002,2025-02-28,Follow-up on Math quiz
+S0234,T022,2025-02-08,Noted improvement
+S0234,T022,2025-01-16,Motivational session
+S0235,T021,2024-11-26,Motivational session
+S0236,T030,2024-12-24,Motivational session
+S0236,T030,2024-12-05,Discussed weak area
+S0236,T030,2025-01-10,Motivational session
+S0237,T027,2025-03-28,Motivational session
+S0237,T027,2025-02-18,Discussed weak area
+S0238,T010,2025-04-02,Suggested extra reading
+S0238,T010,2025-04-05,Follow-up on Math quiz
+S0238,T010,2025-02-06,Suggested extra reading
+S0239,T016,2025-03-14,Suggested extra reading
+S0239,T016,2025-01-29,Discussed weak area
+S0239,T016,2024-12-16,Motivational session
+S0240,T008,2025-01-26,Discussed weak area
+S0240,T008,2025-03-11,Suggested extra reading
+S0241,T018,2025-01-17,Follow-up on Math quiz
+S0242,T011,2025-02-13,Suggested extra reading
+S0242,T011,2024-12-09,Suggested extra reading
+S0243,T004,2025-03-07,Motivational session
+S0244,T001,2025-01-22,Suggested extra reading
+S0244,T001,2025-03-20,Noted improvement
+S0244,T001,2025-03-14,Follow-up on Math quiz
+S0245,T025,2024-11-28,Motivational session
+S0245,T025,2025-04-03,Motivational session
+S0245,T025,2024-12-24,Follow-up on Math quiz
+S0246,T015,2024-11-28,Follow-up on Math quiz
+S0246,T015,2025-04-03,Discussed weak area
+S0247,T015,2025-04-17,Suggested extra reading
+S0248,T004,2025-05-12,Motivational session
+S0249,T023,2025-03-16,Follow-up on Math quiz
+S0249,T023,2025-03-20,Follow-up on Math quiz
+S0250,T024,2025-01-09,Noted improvement
+S0250,T024,2025-05-11,Suggested extra reading
+S0250,T024,2024-11-27,Follow-up on Math quiz
+S0251,T018,2025-02-08,Noted improvement
+S0251,T018,2024-12-09,Motivational session
+S0251,T018,2025-04-19,Follow-up on Math quiz
+S0252,T009,2025-01-02,Motivational session
+S0252,T009,2025-05-03,Suggested extra reading
+S0252,T009,2025-02-14,Suggested extra reading
+S0253,T030,2025-05-17,Follow-up on Math quiz
+S0254,T006,2025-05-17,Follow-up on Math quiz
+S0255,T011,2025-02-17,Suggested extra reading
+S0255,T011,2025-05-06,Follow-up on Math quiz
+S0256,T024,2025-02-06,Suggested extra reading
+S0257,T014,2025-01-05,Discussed weak area
+S0258,T008,2025-04-08,Noted improvement
+S0259,T007,2024-11-29,Motivational session
+S0260,T022,2025-04-08,Discussed weak area
+S0260,T022,2025-04-18,Follow-up on Math quiz
+S0260,T022,2025-04-09,Noted improvement
+S0261,T010,2025-03-12,Suggested extra reading
+S0261,T010,2025-03-13,Noted improvement
+S0261,T010,2024-12-24,Motivational session
+S0262,T013,2024-12-31,Follow-up on Math quiz
+S0262,T013,2025-02-21,Motivational session
+S0262,T013,2025-01-08,Suggested extra reading
+S0263,T023,2025-02-11,Suggested extra reading
+S0263,T023,2024-12-08,Motivational session
+S0263,T023,2025-02-02,Suggested extra reading
+S0264,T029,2025-03-06,Motivational session
+S0265,T016,2025-05-21,Suggested extra reading
+S0266,T030,2024-11-28,Motivational session
+S0266,T030,2025-04-09,Discussed weak area
+S0266,T030,2025-05-13,Follow-up on Math quiz
+S0267,T002,2025-05-16,Discussed weak area
+S0268,T015,2025-03-11,Follow-up on Math quiz
+S0268,T015,2024-12-25,Follow-up on Math quiz
+S0268,T015,2025-01-16,Motivational session
+S0269,T030,2025-02-28,Discussed weak area
+S0269,T030,2025-01-31,Motivational session
+S0269,T030,2025-04-25,Noted improvement
+S0270,T006,2024-12-07,Suggested extra reading
+S0271,T001,2024-12-15,Suggested extra reading
+S0271,T001,2025-03-06,Motivational session
+S0272,T002,2025-04-16,Follow-up on Math quiz
+S0272,T002,2025-01-02,Discussed weak area
+S0273,T030,2025-05-05,Noted improvement
+S0273,T030,2024-12-27,Follow-up on Math quiz
+S0274,T020,2024-11-29,Discussed weak area
+S0275,T008,2024-12-31,Noted improvement
+S0275,T008,2024-12-22,Suggested extra reading
+S0275,T008,2025-03-20,Suggested extra reading
+S0276,T003,2025-01-07,Discussed weak area
+S0276,T003,2025-03-03,Noted improvement
+S0276,T003,2025-04-24,Suggested extra reading
+S0277,T021,2025-02-05,Discussed weak area
+S0277,T021,2025-05-09,Motivational session
+S0277,T021,2025-01-11,Motivational session
+S0278,T013,2025-03-19,Noted improvement
+S0279,T010,2025-04-25,Noted improvement
+S0279,T010,2025-03-16,Suggested extra reading
+S0280,T028,2025-01-07,Motivational session
+S0281,T022,2024-12-24,Follow-up on Math quiz
+S0282,T004,2025-01-22,Follow-up on Math quiz
+S0282,T004,2025-03-01,Suggested extra reading
+S0282,T004,2025-01-11,Discussed weak area
+S0283,T013,2025-04-27,Discussed weak area
+S0284,T023,2025-01-02,Motivational session
+S0284,T023,2025-01-28,Motivational session
+S0284,T023,2025-04-10,Noted improvement
+S0285,T006,2024-11-29,Noted improvement
+S0286,T007,2024-11-25,Suggested extra reading
+S0286,T007,2025-03-02,Follow-up on Math quiz
+S0287,T022,2025-02-17,Noted improvement
+S0288,T010,2025-03-01,Follow-up on Math quiz
+S0288,T010,2025-03-19,Discussed weak area
+S0288,T010,2024-12-24,Discussed weak area
+S0289,T008,2025-01-30,Follow-up on Math quiz
+S0289,T008,2024-12-26,Suggested extra reading
+S0290,T001,2024-12-02,Motivational session
+S0291,T008,2025-02-16,Follow-up on Math quiz
+S0291,T008,2024-12-06,Motivational session
+S0291,T008,2025-01-24,Discussed weak area
+S0292,T028,2025-05-01,Discussed weak area
+S0292,T028,2025-02-02,Noted improvement
+S0293,T017,2025-05-03,Noted improvement
+S0294,T020,2025-04-23,Discussed weak area
+S0295,T023,2025-04-01,Noted improvement
+S0296,T027,2025-01-10,Discussed weak area
+S0296,T027,2025-05-21,Suggested extra reading
+S0296,T027,2025-05-11,Follow-up on Math quiz
+S0297,T015,2025-02-27,Discussed weak area
+S0298,T024,2025-02-02,Noted improvement
+S0298,T024,2025-01-18,Suggested extra reading
+S0299,T002,2025-01-26,Motivational session
+S0299,T002,2025-02-12,Suggested extra reading
+S0300,T022,2024-12-30,Follow-up on Math quiz
+S0300,T022,2025-01-04,Noted improvement
+S0300,T022,2024-12-25,Suggested extra reading
+S0301,T005,2025-01-27,Follow-up on Math quiz
+S0302,T029,2025-03-15,Follow-up on Math quiz
+S0302,T029,2024-12-19,Suggested extra reading
+S0302,T029,2025-01-17,Motivational session
+S0303,T002,2025-03-01,Discussed weak area
+S0303,T002,2025-02-15,Discussed weak area
+S0304,T015,2024-11-30,Suggested extra reading
+S0305,T024,2025-02-27,Discussed weak area
+S0305,T024,2025-05-15,Noted improvement
+S0305,T024,2025-04-03,Motivational session
+S0306,T001,2025-05-11,Motivational session
+S0306,T001,2025-01-22,Motivational session
+S0307,T011,2024-12-28,Motivational session
+S0308,T026,2024-12-02,Noted improvement
+S0309,T015,2025-02-01,Suggested extra reading
+S0309,T015,2025-01-18,Noted improvement
+S0309,T015,2024-11-30,Noted improvement
+S0310,T009,2025-03-10,Discussed weak area
+S0310,T009,2025-04-15,Suggested extra reading
+S0311,T030,2025-05-21,Motivational session
+S0311,T030,2025-04-02,Follow-up on Math quiz
+S0311,T030,2025-04-15,Noted improvement
+S0312,T024,2025-01-13,Motivational session
+S0312,T024,2025-01-01,Discussed weak area
+S0312,T024,2025-04-20,Noted improvement
+S0313,T009,2025-01-03,Motivational session
+S0314,T003,2025-03-19,Motivational session
+S0314,T003,2024-12-22,Discussed weak area
+S0314,T003,2025-02-09,Follow-up on Math quiz
+S0315,T016,2024-12-22,Discussed weak area
+S0315,T016,2025-04-01,Suggested extra reading
+S0315,T016,2024-12-13,Follow-up on Math quiz
+S0316,T023,2024-12-06,Discussed weak area
+S0316,T023,2025-05-07,Noted improvement
+S0317,T023,2025-02-15,Discussed weak area
+S0318,T004,2025-03-31,Motivational session
+S0319,T027,2025-04-01,Discussed weak area
+S0320,T021,2024-12-12,Suggested extra reading
+S0320,T021,2025-03-06,Suggested extra reading
+S0320,T021,2025-02-08,Suggested extra reading
+S0321,T026,2025-05-24,Suggested extra reading
+S0321,T026,2025-05-06,Discussed weak area
+S0321,T026,2025-03-15,Discussed weak area
+S0322,T006,2025-02-26,Suggested extra reading
+S0322,T006,2025-02-24,Noted improvement
+S0322,T006,2025-01-03,Follow-up on Math quiz
+S0323,T006,2025-01-24,Follow-up on Math quiz
+S0323,T006,2025-01-26,Follow-up on Math quiz
+S0323,T006,2025-03-08,Follow-up on Math quiz
+S0324,T016,2025-01-14,Motivational session
+S0325,T028,2025-03-15,Suggested extra reading
+S0325,T028,2025-05-14,Noted improvement
+S0326,T012,2025-03-02,Follow-up on Math quiz
+S0326,T012,2024-12-15,Discussed weak area
+S0326,T012,2025-04-04,Motivational session
+S0327,T003,2024-12-07,Discussed weak area
+S0327,T003,2025-05-11,Discussed weak area
+S0328,T010,2025-05-11,Noted improvement
+S0329,T001,2025-03-23,Follow-up on Math quiz
+S0330,T002,2024-11-26,Suggested extra reading
+S0331,T004,2025-04-24,Follow-up on Math quiz
+S0331,T004,2024-12-28,Follow-up on Math quiz
+S0332,T006,2025-05-15,Follow-up on Math quiz
+S0332,T006,2025-01-07,Noted improvement
+S0333,T024,2025-04-19,Follow-up on Math quiz
+S0333,T024,2025-01-06,Suggested extra reading
+S0333,T024,2025-01-01,Suggested extra reading
+S0334,T022,2024-12-21,Discussed weak area
+S0334,T022,2025-01-04,Follow-up on Math quiz
+S0334,T022,2025-01-13,Suggested extra reading
+S0335,T019,2024-12-04,Suggested extra reading
+S0335,T019,2025-02-02,Follow-up on Math quiz
+S0335,T019,2025-02-04,Noted improvement
+S0336,T016,2024-11-24,Follow-up on Math quiz
+S0336,T016,2024-11-28,Follow-up on Math quiz
+S0336,T016,2025-05-09,Suggested extra reading
+S0337,T018,2025-03-28,Noted improvement
+S0337,T018,2025-05-08,Motivational session
+S0337,T018,2024-12-24,Follow-up on Math quiz
+S0338,T012,2025-04-08,Discussed weak area
+S0338,T012,2024-12-16,Motivational session
+S0339,T028,2025-01-25,Motivational session
+S0339,T028,2025-05-14,Suggested extra reading
+S0339,T028,2025-04-04,Motivational session
+S0340,T009,2025-03-11,Follow-up on Math quiz
+S0340,T009,2025-02-20,Motivational session
+S0341,T026,2024-12-25,Discussed weak area
+S0341,T026,2024-12-24,Follow-up on Math quiz
+S0342,T022,2025-01-26,Motivational session
+S0342,T022,2025-04-11,Follow-up on Math quiz
+S0342,T022,2024-12-24,Follow-up on Math quiz
+S0343,T016,2024-12-27,Follow-up on Math quiz
+S0343,T016,2025-04-17,Noted improvement
+S0343,T016,2025-02-10,Discussed weak area
+S0344,T002,2025-01-17,Discussed weak area
+S0344,T002,2025-05-25,Noted improvement
+S0345,T019,2025-04-30,Suggested extra reading
+S0345,T019,2025-02-05,Follow-up on Math quiz
+S0346,T028,2025-02-07,Motivational session
+S0346,T028,2025-05-23,Discussed weak area
+S0346,T028,2025-01-08,Noted improvement
+S0347,T003,2024-12-08,Discussed weak area
+S0348,T027,2025-04-26,Discussed weak area
+S0348,T027,2025-05-03,Noted improvement
+S0348,T027,2025-01-01,Follow-up on Math quiz
+S0349,T009,2024-12-08,Noted improvement
+S0350,T026,2025-05-13,Discussed weak area
+S0351,T017,2025-02-13,Discussed weak area
+S0351,T017,2025-04-01,Noted improvement
+S0351,T017,2025-04-15,Noted improvement
+S0352,T002,2024-12-12,Motivational session
+S0353,T018,2025-04-26,Follow-up on Math quiz
+S0354,T002,2024-12-11,Noted improvement
+S0355,T021,2025-04-03,Suggested extra reading
+S0355,T021,2025-03-16,Noted improvement
+S0355,T021,2025-05-24,Motivational session
+S0356,T005,2025-04-19,Follow-up on Math quiz
+S0356,T005,2025-04-26,Suggested extra reading
+S0356,T005,2025-04-11,Motivational session
+S0357,T028,2024-11-26,Noted improvement
+S0357,T028,2025-01-29,Suggested extra reading
+S0358,T028,2025-03-11,Motivational session
+S0358,T028,2025-05-11,Motivational session
+S0358,T028,2025-04-16,Suggested extra reading
+S0359,T030,2025-02-28,Suggested extra reading
+S0360,T011,2025-04-25,Follow-up on Math quiz
+S0360,T011,2024-11-27,Follow-up on Math quiz
+S0361,T011,2025-03-28,Follow-up on Math quiz
+S0361,T011,2025-02-02,Motivational session
+S0361,T011,2025-02-09,Discussed weak area
+S0362,T014,2025-04-15,Motivational session
+S0363,T012,2025-02-24,Discussed weak area
+S0363,T012,2025-01-18,Noted improvement
+S0364,T030,2025-05-02,Noted improvement
+S0364,T030,2025-04-27,Suggested extra reading
+S0365,T020,2025-05-11,Discussed weak area
+S0365,T020,2025-01-09,Discussed weak area
+S0365,T020,2025-04-17,Motivational session
+S0366,T025,2025-01-04,Discussed weak area
+S0367,T012,2025-05-12,Noted improvement
+S0367,T012,2025-04-22,Motivational session
+S0368,T022,2025-03-15,Discussed weak area
+S0368,T022,2025-03-08,Suggested extra reading
+S0369,T017,2025-01-01,Motivational session
+S0369,T017,2025-05-22,Follow-up on Math quiz
+S0370,T014,2025-04-13,Suggested extra reading
+S0370,T014,2025-02-08,Motivational session
+S0371,T016,2024-12-12,Discussed weak area
+S0371,T016,2024-12-05,Discussed weak area
+S0371,T016,2025-03-14,Noted improvement
+S0372,T021,2024-11-29,Suggested extra reading
+S0372,T021,2025-05-14,Follow-up on Math quiz
+S0373,T019,2024-12-15,Noted improvement
+S0373,T019,2025-01-08,Suggested extra reading
+S0374,T001,2025-05-16,Discussed weak area
+S0375,T008,2024-12-31,Suggested extra reading
+S0376,T016,2025-03-24,Motivational session
+S0377,T018,2025-03-12,Motivational session
+S0378,T004,2024-12-24,Suggested extra reading
+S0378,T004,2024-12-21,Motivational session
+S0379,T026,2024-12-17,Discussed weak area
+S0380,T028,2025-02-08,Follow-up on Math quiz
+S0381,T029,2025-04-30,Follow-up on Math quiz
+S0382,T007,2025-05-25,Suggested extra reading
+S0382,T007,2024-12-28,Discussed weak area
+S0382,T007,2025-01-08,Noted improvement
+S0383,T017,2025-01-05,Follow-up on Math quiz
+S0383,T017,2025-04-23,Suggested extra reading
+S0384,T026,2025-04-08,Motivational session
+S0385,T012,2024-12-20,Noted improvement
+S0385,T012,2025-03-17,Suggested extra reading
+S0385,T012,2024-12-20,Noted improvement
+S0386,T002,2024-12-05,Noted improvement
+S0387,T005,2025-03-29,Suggested extra reading
+S0387,T005,2025-04-12,Discussed weak area
+S0387,T005,2025-02-25,Discussed weak area
+S0388,T024,2025-01-07,Noted improvement
+S0388,T024,2024-12-23,Follow-up on Math quiz
+S0389,T023,2025-03-05,Discussed weak area
+S0389,T023,2025-04-02,Suggested extra reading
+S0390,T008,2025-05-04,Motivational session
+S0391,T005,2024-12-16,Motivational session
+S0392,T009,2025-01-17,Motivational session
+S0392,T009,2025-05-14,Discussed weak area
+S0392,T009,2024-12-04,Follow-up on Math quiz
+S0393,T008,2025-04-26,Discussed weak area
+S0394,T014,2025-03-05,Motivational session
+S0395,T019,2025-03-23,Discussed weak area
+S0396,T015,2025-01-20,Motivational session
+S0396,T015,2025-01-28,Suggested extra reading
+S0396,T015,2025-01-05,Follow-up on Math quiz
+S0397,T004,2024-12-24,Follow-up on Math quiz
+S0397,T004,2025-05-21,Discussed weak area
+S0398,T026,2025-04-22,Follow-up on Math quiz
+S0398,T026,2025-02-27,Suggested extra reading
+S0399,T024,2025-01-01,Discussed weak area
+S0399,T024,2024-12-23,Suggested extra reading
+S0399,T024,2024-12-16,Follow-up on Math quiz
+S0400,T021,2025-03-04,Follow-up on Math quiz
+S0400,T021,2025-01-02,Motivational session
+S0400,T021,2025-02-01,Discussed weak area
+S0401,T029,2025-01-23,Follow-up on Math quiz
+S0401,T029,2025-05-11,Follow-up on Math quiz
+S0402,T016,2024-12-20,Follow-up on Math quiz
+S0402,T016,2025-03-15,Follow-up on Math quiz
+S0403,T023,2025-04-05,Discussed weak area
+S0404,T020,2025-01-03,Noted improvement
+S0405,T009,2025-01-31,Noted improvement
+S0405,T009,2025-04-13,Motivational session
+S0406,T011,2025-01-02,Follow-up on Math quiz
+S0406,T011,2025-05-21,Noted improvement
+S0407,T023,2025-02-25,Follow-up on Math quiz
+S0407,T023,2025-02-26,Motivational session
+S0407,T023,2025-05-12,Motivational session
+S0408,T027,2025-03-11,Noted improvement
+S0409,T006,2025-03-29,Motivational session
+S0410,T026,2024-12-08,Noted improvement
+S0410,T026,2025-01-08,Noted improvement
+S0411,T028,2024-11-27,Suggested extra reading
+S0411,T028,2024-12-27,Discussed weak area
+S0412,T012,2025-01-14,Follow-up on Math quiz
+S0413,T008,2025-04-18,Noted improvement
+S0413,T008,2025-01-15,Follow-up on Math quiz
+S0414,T015,2024-12-02,Discussed weak area
+S0414,T015,2025-04-17,Motivational session
+S0414,T015,2024-12-26,Suggested extra reading
+S0415,T004,2025-03-29,Discussed weak area
+S0416,T012,2025-03-27,Follow-up on Math quiz
+S0416,T012,2025-01-20,Follow-up on Math quiz
+S0416,T012,2025-02-20,Suggested extra reading
+S0417,T023,2025-01-28,Follow-up on Math quiz
+S0417,T023,2025-02-13,Noted improvement
+S0417,T023,2025-02-25,Discussed weak area
+S0418,T011,2025-02-03,Motivational session
+S0418,T011,2024-12-01,Suggested extra reading
+S0419,T015,2025-01-30,Motivational session
+S0419,T015,2025-05-18,Suggested extra reading
+S0420,T003,2024-12-18,Noted improvement
+S0420,T003,2025-05-17,Motivational session
+S0421,T022,2025-02-11,Motivational session
+S0421,T022,2025-02-28,Noted improvement
+S0422,T003,2025-02-12,Suggested extra reading
+S0422,T003,2025-04-19,Follow-up on Math quiz
+S0423,T021,2025-02-22,Motivational session
+S0423,T021,2025-01-02,Follow-up on Math quiz
+S0423,T021,2025-01-04,Follow-up on Math quiz
+S0424,T023,2025-03-13,Motivational session
+S0424,T023,2025-03-28,Discussed weak area
+S0425,T015,2025-01-02,Suggested extra reading
+S0425,T015,2025-05-14,Follow-up on Math quiz
+S0426,T023,2025-01-26,Follow-up on Math quiz
+S0426,T023,2024-12-04,Motivational session
+S0427,T001,2025-02-22,Noted improvement
+S0427,T001,2025-03-10,Follow-up on Math quiz
+S0427,T001,2024-12-28,Follow-up on Math quiz
+S0428,T013,2024-12-22,Suggested extra reading
+S0428,T013,2024-12-12,Suggested extra reading
+S0429,T003,2025-01-31,Noted improvement
+S0429,T003,2025-02-26,Motivational session
+S0430,T030,2024-12-09,Discussed weak area
+S0430,T030,2025-05-15,Noted improvement
+S0431,T007,2025-05-23,Suggested extra reading
+S0432,T023,2025-01-21,Discussed weak area
+S0432,T023,2025-05-16,Suggested extra reading
+S0433,T024,2025-03-19,Follow-up on Math quiz
+S0433,T024,2025-05-21,Follow-up on Math quiz
+S0434,T015,2025-02-24,Follow-up on Math quiz
+S0434,T015,2025-05-19,Noted improvement
+S0434,T015,2025-03-26,Suggested extra reading
+S0435,T013,2025-05-02,Noted improvement
+S0436,T019,2025-03-09,Follow-up on Math quiz
+S0437,T002,2025-04-08,Motivational session
+S0437,T002,2025-03-03,Suggested extra reading
+S0437,T002,2025-04-26,Suggested extra reading
+S0438,T006,2025-01-08,Follow-up on Math quiz
+S0438,T006,2025-02-10,Follow-up on Math quiz
+S0438,T006,2025-04-11,Suggested extra reading
+S0439,T003,2025-04-06,Suggested extra reading
+S0439,T003,2025-03-23,Noted improvement
+S0440,T006,2025-04-29,Discussed weak area
+S0441,T009,2025-03-07,Suggested extra reading
+S0441,T009,2025-02-14,Follow-up on Math quiz
+S0441,T009,2025-04-09,Noted improvement
+S0442,T022,2024-12-11,Suggested extra reading
+S0442,T022,2025-03-20,Follow-up on Math quiz
+S0442,T022,2025-04-08,Motivational session
+S0443,T016,2025-01-22,Discussed weak area
+S0444,T028,2024-12-19,Noted improvement
+S0444,T028,2025-03-03,Noted improvement
+S0445,T022,2025-01-04,Suggested extra reading
+S0445,T022,2024-11-27,Noted improvement
+S0445,T022,2025-05-20,Suggested extra reading
+S0446,T008,2025-04-17,Follow-up on Math quiz
+S0446,T008,2025-02-09,Suggested extra reading
+S0447,T011,2024-12-27,Discussed weak area
+S0447,T011,2025-03-21,Follow-up on Math quiz
+S0447,T011,2024-12-22,Noted improvement
+S0448,T015,2025-02-23,Discussed weak area
+S0449,T021,2025-01-14,Suggested extra reading
+S0449,T021,2025-04-19,Motivational session
+S0450,T014,2025-05-24,Suggested extra reading
+S0451,T015,2025-01-07,Noted improvement
+S0452,T002,2025-05-03,Suggested extra reading
+S0452,T002,2024-12-06,Motivational session
+S0452,T002,2025-04-12,Follow-up on Math quiz
+S0453,T021,2024-12-13,Discussed weak area
+S0453,T021,2025-01-01,Noted improvement
+S0453,T021,2025-05-17,Follow-up on Math quiz
+S0454,T019,2025-02-22,Suggested extra reading
+S0454,T019,2025-02-12,Motivational session
+S0455,T018,2025-03-24,Follow-up on Math quiz
+S0455,T018,2025-03-20,Suggested extra reading
+S0456,T004,2025-02-17,Noted improvement
+S0457,T023,2025-04-08,Discussed weak area
+S0458,T021,2025-04-09,Discussed weak area
+S0458,T021,2025-05-04,Suggested extra reading
+S0459,T026,2024-12-20,Follow-up on Math quiz
+S0459,T026,2025-01-01,Follow-up on Math quiz
+S0459,T026,2025-04-10,Noted improvement
+S0460,T004,2025-03-08,Discussed weak area
+S0461,T006,2024-12-18,Follow-up on Math quiz
+S0461,T006,2025-03-27,Discussed weak area
+S0461,T006,2024-11-25,Discussed weak area
+S0462,T030,2025-04-16,Motivational session
+S0462,T030,2025-04-26,Discussed weak area
+S0462,T030,2025-01-23,Noted improvement
+S0463,T021,2025-01-21,Discussed weak area
+S0464,T030,2025-04-08,Discussed weak area
+S0465,T006,2025-04-08,Noted improvement
+S0465,T006,2025-04-18,Motivational session
+S0465,T006,2024-11-24,Discussed weak area
+S0466,T002,2025-02-27,Discussed weak area
+S0466,T002,2025-01-17,Motivational session
+S0467,T001,2025-02-23,Motivational session
+S0467,T001,2025-03-25,Discussed weak area
+S0467,T001,2025-04-10,Follow-up on Math quiz
+S0468,T023,2025-01-08,Follow-up on Math quiz
+S0469,T023,2025-05-05,Suggested extra reading
+S0469,T023,2024-11-28,Follow-up on Math quiz
+S0470,T016,2025-03-15,Follow-up on Math quiz
+S0470,T016,2025-04-23,Suggested extra reading
+S0470,T016,2025-03-01,Noted improvement
+S0471,T004,2024-12-24,Noted improvement
+S0472,T021,2024-12-13,Suggested extra reading
+S0472,T021,2024-12-06,Noted improvement
+S0473,T022,2025-05-07,Noted improvement
+S0473,T022,2025-03-05,Motivational session
+S0473,T022,2025-03-12,Discussed weak area
+S0474,T024,2025-03-19,Noted improvement
+S0474,T024,2024-12-19,Follow-up on Math quiz
+S0474,T024,2025-02-03,Noted improvement
+S0475,T020,2024-12-29,Follow-up on Math quiz
+S0475,T020,2024-12-10,Follow-up on Math quiz
+S0475,T020,2024-12-28,Motivational session
+S0476,T017,2024-12-23,Suggested extra reading
+S0476,T017,2025-02-07,Discussed weak area
+S0476,T017,2025-03-14,Motivational session
+S0477,T006,2025-01-25,Suggested extra reading
+S0477,T006,2025-05-12,Motivational session
+S0478,T021,2025-02-16,Discussed weak area
+S0478,T021,2025-05-02,Discussed weak area
+S0478,T021,2024-12-07,Suggested extra reading
+S0479,T020,2025-02-18,Noted improvement
+S0480,T009,2025-02-10,Discussed weak area
+S0480,T009,2024-12-23,Follow-up on Math quiz
+S0481,T006,2025-01-16,Discussed weak area
+S0482,T013,2025-02-05,Motivational session
+S0482,T013,2025-03-15,Suggested extra reading
+S0482,T013,2025-02-24,Suggested extra reading
+S0483,T005,2024-12-30,Discussed weak area
+S0483,T005,2025-02-11,Noted improvement
+S0484,T029,2024-12-25,Motivational session
+S0484,T029,2025-05-18,Motivational session
+S0484,T029,2024-11-28,Motivational session
+S0485,T010,2024-12-12,Discussed weak area
+S0485,T010,2025-04-25,Suggested extra reading
+S0485,T010,2025-04-27,Noted improvement
+S0486,T004,2024-12-27,Motivational session
+S0486,T004,2025-03-13,Noted improvement
+S0487,T011,2024-12-25,Noted improvement
+S0487,T011,2024-12-28,Noted improvement
+S0488,T018,2025-04-02,Noted improvement
+S0488,T018,2024-12-08,Motivational session
+S0488,T018,2025-01-17,Follow-up on Math quiz
+S0489,T005,2025-02-12,Suggested extra reading
+S0489,T005,2025-04-23,Follow-up on Math quiz
+S0490,T001,2025-03-01,Discussed weak area
+S0490,T001,2025-04-24,Noted improvement
+S0491,T021,2025-05-25,Discussed weak area
+S0492,T006,2025-02-08,Discussed weak area
+S0492,T006,2025-04-21,Follow-up on Math quiz
+S0492,T006,2025-04-14,Discussed weak area
+S0493,T026,2025-01-12,Noted improvement
+S0493,T026,2025-02-02,Noted improvement
+S0494,T007,2025-04-01,Follow-up on Math quiz
+S0494,T007,2025-04-17,Follow-up on Math quiz
+S0495,T005,2025-01-06,Motivational session
+S0496,T026,2025-02-27,Discussed weak area
+S0496,T026,2025-03-25,Motivational session
+S0497,T004,2025-04-03,Follow-up on Math quiz
+S0497,T004,2025-03-04,Suggested extra reading
+S0498,T025,2025-02-13,Follow-up on Math quiz
+S0498,T025,2025-03-09,Motivational session
+S0498,T025,2025-02-20,Motivational session
+S0499,T009,2025-01-20,Suggested extra reading
+S0499,T009,2025-03-10,Discussed weak area
+S0499,T009,2025-05-20,Suggested extra reading
+S0500,T018,2025-05-17,Discussed weak area
+S0500,T018,2025-03-31,Motivational session
+S0501,T005,2025-03-19,Motivational session
+S0501,T005,2025-01-30,Discussed weak area
+S0501,T005,2024-12-01,Motivational session
+S0502,T003,2025-01-05,Discussed weak area
+S0503,T006,2025-03-12,Follow-up on Math quiz
+S0504,T022,2025-02-23,Follow-up on Math quiz
+S0504,T022,2025-03-19,Motivational session
+S0504,T022,2025-01-28,Motivational session
+S0505,T001,2025-05-15,Follow-up on Math quiz
+S0506,T012,2024-12-29,Suggested extra reading
+S0506,T012,2025-04-14,Suggested extra reading
+S0507,T030,2024-12-25,Motivational session
+S0508,T017,2025-02-24,Noted improvement
+S0508,T017,2025-05-13,Discussed weak area
+S0509,T007,2025-04-12,Suggested extra reading
+S0510,T011,2025-03-06,Discussed weak area
+S0510,T011,2025-01-01,Follow-up on Math quiz
+S0510,T011,2024-12-02,Noted improvement
+S0511,T012,2024-12-16,Suggested extra reading
+S0512,T005,2025-03-08,Motivational session
+S0512,T005,2025-05-23,Discussed weak area
+S0513,T015,2025-01-21,Suggested extra reading
+S0513,T015,2025-02-27,Discussed weak area
+S0514,T018,2025-03-29,Discussed weak area
+S0514,T018,2025-02-14,Suggested extra reading
+S0515,T021,2024-12-13,Follow-up on Math quiz
+S0516,T016,2025-02-21,Follow-up on Math quiz
+S0516,T016,2025-05-20,Motivational session
+S0517,T027,2024-12-08,Motivational session
+S0517,T027,2025-05-16,Motivational session
+S0517,T027,2025-03-15,Follow-up on Math quiz
+S0518,T011,2024-12-01,Noted improvement
+S0519,T011,2025-04-13,Suggested extra reading
+S0520,T019,2025-03-08,Motivational session
+S0521,T018,2025-04-04,Noted improvement
+S0522,T008,2025-02-14,Follow-up on Math quiz
+S0522,T008,2025-02-23,Motivational session
+S0523,T019,2025-05-06,Follow-up on Math quiz
+S0524,T023,2024-12-12,Motivational session
+S0525,T021,2025-04-13,Follow-up on Math quiz
+S0526,T024,2025-04-03,Noted improvement
+S0526,T024,2025-05-09,Follow-up on Math quiz
+S0527,T017,2025-02-04,Motivational session
+S0528,T002,2025-01-07,Discussed weak area
+S0528,T002,2025-01-20,Follow-up on Math quiz
+S0529,T027,2025-04-16,Follow-up on Math quiz
+S0529,T027,2025-02-17,Noted improvement
+S0530,T011,2024-12-31,Suggested extra reading
+S0530,T011,2025-04-03,Suggested extra reading
+S0531,T008,2025-01-11,Follow-up on Math quiz
+S0531,T008,2025-01-19,Noted improvement
+S0531,T008,2025-02-03,Noted improvement
+S0532,T015,2024-12-25,Suggested extra reading
+S0532,T015,2025-01-29,Suggested extra reading
+S0532,T015,2025-04-12,Suggested extra reading
+S0533,T023,2025-02-16,Suggested extra reading
+S0533,T023,2025-02-20,Noted improvement
+S0533,T023,2025-01-26,Suggested extra reading
+S0534,T017,2024-12-24,Follow-up on Math quiz
+S0534,T017,2025-01-06,Follow-up on Math quiz
+S0534,T017,2025-05-05,Follow-up on Math quiz
+S0535,T026,2024-12-16,Noted improvement
+S0535,T026,2025-05-19,Noted improvement
+S0536,T026,2025-01-30,Follow-up on Math quiz
+S0536,T026,2024-11-26,Discussed weak area
+S0537,T020,2025-04-06,Discussed weak area
+S0537,T020,2025-01-28,Motivational session
+S0537,T020,2025-05-19,Noted improvement
+S0538,T017,2025-02-04,Follow-up on Math quiz
+S0538,T017,2025-05-16,Noted improvement
+S0539,T019,2025-02-21,Noted improvement
+S0540,T028,2024-12-20,Motivational session
+S0540,T028,2025-04-29,Motivational session
+S0541,T020,2025-03-04,Motivational session
+S0541,T020,2025-01-31,Suggested extra reading
+S0541,T020,2025-05-02,Discussed weak area
+S0542,T020,2025-03-19,Motivational session
+S0542,T020,2025-03-21,Noted improvement
+S0542,T020,2025-02-15,Discussed weak area
+S0543,T016,2024-12-31,Follow-up on Math quiz
+S0544,T020,2025-02-18,Discussed weak area
+S0545,T021,2024-12-07,Motivational session
+S0545,T021,2025-03-29,Noted improvement
+S0546,T019,2024-12-14,Noted improvement
+S0547,T013,2025-04-20,Follow-up on Math quiz
+S0547,T013,2024-12-10,Follow-up on Math quiz
+S0548,T022,2025-01-15,Suggested extra reading
+S0548,T022,2025-01-08,Follow-up on Math quiz
+S0549,T011,2024-12-04,Suggested extra reading
+S0549,T011,2024-11-30,Discussed weak area
+S0549,T011,2025-04-13,Follow-up on Math quiz
+S0550,T004,2025-02-11,Noted improvement
+S0550,T004,2025-02-05,Follow-up on Math quiz
+S0550,T004,2025-03-02,Noted improvement
+S0551,T017,2025-02-19,Suggested extra reading
+S0552,T019,2025-05-18,Follow-up on Math quiz
+S0552,T019,2025-05-10,Follow-up on Math quiz
+S0553,T002,2025-04-28,Suggested extra reading
+S0553,T002,2025-04-29,Follow-up on Math quiz
+S0554,T011,2025-03-12,Suggested extra reading
+S0554,T011,2025-03-30,Discussed weak area
+S0554,T011,2024-12-21,Noted improvement
+S0555,T020,2025-04-08,Motivational session
+S0555,T020,2025-03-31,Discussed weak area
+S0555,T020,2025-02-28,Discussed weak area
+S0556,T029,2025-02-09,Noted improvement
+S0556,T029,2024-12-16,Discussed weak area
+S0556,T029,2024-12-31,Follow-up on Math quiz
+S0557,T005,2024-11-25,Noted improvement
+S0557,T005,2025-04-04,Noted improvement
+S0557,T005,2025-01-01,Suggested extra reading
+S0558,T002,2025-01-27,Noted improvement
+S0558,T002,2025-01-16,Noted improvement
+S0558,T002,2025-01-19,Motivational session
+S0559,T014,2024-12-25,Noted improvement
+S0559,T014,2025-01-20,Discussed weak area
+S0559,T014,2025-01-31,Suggested extra reading
+S0560,T010,2025-04-25,Noted improvement
+S0560,T010,2025-04-04,Discussed weak area
+S0560,T010,2025-04-13,Follow-up on Math quiz
+S0561,T001,2025-02-25,Follow-up on Math quiz
+S0561,T001,2025-05-18,Suggested extra reading
+S0562,T021,2025-01-02,Discussed weak area
+S0563,T002,2024-11-30,Suggested extra reading
+S0563,T002,2025-03-10,Suggested extra reading
+S0564,T026,2024-11-30,Motivational session
+S0564,T026,2025-04-05,Discussed weak area
+S0564,T026,2025-01-12,Noted improvement
+S0565,T002,2024-12-16,Noted improvement
+S0566,T019,2025-01-22,Suggested extra reading
+S0567,T008,2025-02-05,Discussed weak area
+S0567,T008,2025-02-01,Discussed weak area
+S0567,T008,2025-01-08,Discussed weak area
+S0568,T021,2025-02-26,Noted improvement
+S0568,T021,2025-04-29,Noted improvement
+S0569,T017,2024-11-29,Motivational session
+S0569,T017,2025-03-26,Follow-up on Math quiz
+S0569,T017,2025-04-20,Suggested extra reading
+S0570,T024,2024-12-16,Noted improvement
+S0570,T024,2025-04-13,Follow-up on Math quiz
+S0570,T024,2025-04-30,Discussed weak area
+S0571,T016,2024-11-28,Noted improvement
+S0572,T010,2025-01-12,Suggested extra reading
+S0572,T010,2024-12-30,Suggested extra reading
+S0572,T010,2024-12-28,Discussed weak area
+S0573,T018,2025-02-18,Follow-up on Math quiz
+S0573,T018,2025-01-11,Follow-up on Math quiz
+S0573,T018,2025-03-07,Motivational session
+S0574,T028,2025-01-20,Motivational session
+S0574,T028,2025-01-11,Motivational session
+S0574,T028,2025-01-16,Discussed weak area
+S0575,T026,2025-01-02,Motivational session
+S0575,T026,2025-05-07,Suggested extra reading
+S0575,T026,2025-05-06,Discussed weak area
+S0576,T018,2025-01-08,Follow-up on Math quiz
+S0576,T018,2025-03-24,Discussed weak area
+S0576,T018,2024-11-27,Motivational session
+S0577,T010,2024-12-30,Follow-up on Math quiz
+S0577,T010,2025-04-28,Motivational session
+S0577,T010,2025-05-24,Discussed weak area
+S0578,T022,2025-02-06,Suggested extra reading
+S0578,T022,2024-12-23,Suggested extra reading
+S0578,T022,2025-03-16,Noted improvement
+S0579,T011,2025-05-04,Follow-up on Math quiz
+S0579,T011,2025-03-12,Motivational session
+S0580,T012,2024-12-02,Follow-up on Math quiz
+S0581,T025,2025-04-19,Suggested extra reading
+S0582,T028,2024-12-21,Noted improvement
+S0583,T004,2025-04-28,Motivational session
+S0583,T004,2024-12-09,Follow-up on Math quiz
+S0583,T004,2024-12-29,Follow-up on Math quiz
+S0584,T012,2025-02-15,Motivational session
+S0585,T003,2024-11-24,Motivational session
+S0585,T003,2025-05-01,Suggested extra reading
+S0585,T003,2025-03-11,Motivational session
+S0586,T026,2025-01-15,Motivational session
+S0587,T007,2025-02-26,Motivational session
+S0588,T006,2025-03-31,Motivational session
+S0589,T001,2025-01-05,Noted improvement
+S0589,T001,2025-04-26,Motivational session
+S0590,T030,2025-05-18,Follow-up on Math quiz
+S0590,T030,2024-12-18,Discussed weak area
+S0591,T026,2024-12-17,Discussed weak area
+S0592,T015,2025-05-05,Discussed weak area
+S0592,T015,2024-12-21,Noted improvement
+S0593,T021,2024-12-17,Noted improvement
+S0593,T021,2025-04-30,Suggested extra reading
+S0594,T024,2025-01-20,Noted improvement
+S0594,T024,2024-12-09,Suggested extra reading
+S0594,T024,2025-01-01,Noted improvement
+S0595,T023,2025-03-17,Suggested extra reading
+S0595,T023,2025-01-16,Suggested extra reading
+S0595,T023,2025-03-19,Discussed weak area
+S0596,T004,2025-05-22,Motivational session
+S0597,T022,2025-05-17,Motivational session
+S0597,T022,2025-03-06,Suggested extra reading
+S0597,T022,2025-04-25,Noted improvement
+S0598,T015,2025-01-22,Noted improvement
+S0598,T015,2025-04-22,Noted improvement
+S0599,T008,2024-12-22,Follow-up on Math quiz
+S0599,T008,2025-02-05,Suggested extra reading
+S0600,T003,2025-03-17,Follow-up on Math quiz
+S0601,T018,2025-03-29,Noted improvement
+S0601,T018,2024-12-23,Follow-up on Math quiz
+S0601,T018,2025-04-24,Follow-up on Math quiz
+S0602,T011,2025-04-19,Motivational session
+S0602,T011,2025-04-05,Discussed weak area
+S0602,T011,2025-04-27,Noted improvement
+S0603,T019,2025-01-08,Follow-up on Math quiz
+S0603,T019,2025-03-11,Noted improvement
+S0603,T019,2024-12-25,Motivational session
+S0604,T006,2025-02-12,Noted improvement
+S0604,T006,2025-02-28,Suggested extra reading
+S0604,T006,2025-02-16,Noted improvement
+S0605,T008,2025-03-24,Discussed weak area
+S0605,T008,2025-05-01,Suggested extra reading
+S0606,T025,2025-04-11,Follow-up on Math quiz
+S0607,T012,2025-03-10,Suggested extra reading
+S0608,T027,2025-02-17,Discussed weak area
+S0609,T013,2025-05-16,Follow-up on Math quiz
+S0609,T013,2025-04-24,Discussed weak area
+S0609,T013,2025-02-13,Suggested extra reading
+S0610,T018,2025-01-09,Motivational session
+S0611,T022,2025-03-02,Noted improvement
+S0611,T022,2024-11-26,Noted improvement
+S0612,T013,2025-05-06,Suggested extra reading
+S0612,T013,2025-04-10,Suggested extra reading
+S0613,T024,2024-12-01,Follow-up on Math quiz
+S0614,T016,2025-04-18,Noted improvement
+S0615,T008,2025-05-13,Discussed weak area
+S0615,T008,2025-04-18,Discussed weak area
+S0616,T027,2025-03-25,Motivational session
+S0616,T027,2025-03-21,Follow-up on Math quiz
+S0616,T027,2024-12-02,Motivational session
+S0617,T015,2025-05-01,Discussed weak area
+S0617,T015,2025-04-09,Suggested extra reading
+S0618,T004,2024-12-20,Discussed weak area
+S0618,T004,2025-01-22,Suggested extra reading
+S0619,T015,2024-12-10,Motivational session
+S0619,T015,2025-05-17,Suggested extra reading
+S0620,T008,2024-11-27,Motivational session
+S0621,T024,2025-04-04,Motivational session
+S0622,T020,2024-12-24,Follow-up on Math quiz
+S0622,T020,2025-01-04,Follow-up on Math quiz
+S0623,T002,2025-05-05,Discussed weak area
+S0624,T004,2025-04-21,Noted improvement
+S0624,T004,2024-12-14,Discussed weak area
+S0625,T029,2025-02-27,Follow-up on Math quiz
+S0625,T029,2025-03-20,Suggested extra reading
+S0625,T029,2025-05-20,Discussed weak area
+S0626,T028,2025-04-15,Follow-up on Math quiz
+S0626,T028,2025-04-21,Discussed weak area
+S0626,T028,2025-04-14,Follow-up on Math quiz
+S0627,T030,2025-03-06,Discussed weak area
+S0627,T030,2025-05-06,Discussed weak area
+S0628,T030,2025-04-05,Discussed weak area
+S0629,T009,2025-04-16,Noted improvement
+S0629,T009,2025-02-11,Noted improvement
+S0630,T026,2025-02-24,Follow-up on Math quiz
+S0631,T004,2025-05-25,Suggested extra reading
+S0631,T004,2025-02-27,Noted improvement
+S0631,T004,2024-11-24,Noted improvement
+S0632,T017,2024-12-12,Discussed weak area
+S0632,T017,2024-12-28,Noted improvement
+S0632,T017,2025-02-11,Follow-up on Math quiz
+S0633,T027,2025-05-10,Suggested extra reading
+S0634,T026,2025-02-25,Motivational session
+S0634,T026,2025-02-12,Follow-up on Math quiz
+S0635,T025,2025-05-02,Suggested extra reading
+S0635,T025,2025-01-06,Discussed weak area
+S0636,T013,2025-05-23,Follow-up on Math quiz
+S0636,T013,2025-04-23,Motivational session
+S0637,T019,2025-05-17,Suggested extra reading
+S0637,T019,2025-05-12,Suggested extra reading
+S0638,T018,2025-05-17,Discussed weak area
+S0638,T018,2024-11-30,Discussed weak area
+S0639,T015,2025-01-06,Suggested extra reading
+S0640,T014,2025-01-05,Motivational session
+S0640,T014,2025-02-01,Follow-up on Math quiz
+S0640,T014,2024-12-12,Discussed weak area
+S0641,T014,2025-04-07,Discussed weak area
+S0641,T014,2025-05-09,Follow-up on Math quiz
+S0641,T014,2025-03-19,Discussed weak area
+S0642,T008,2024-11-28,Discussed weak area
+S0643,T028,2025-03-28,Suggested extra reading
+S0644,T013,2024-11-24,Suggested extra reading
+S0644,T013,2024-11-25,Motivational session
+S0644,T013,2025-05-13,Motivational session
+S0645,T016,2024-12-31,Noted improvement
+S0645,T016,2025-02-28,Noted improvement
+S0646,T010,2025-04-10,Noted improvement
+S0646,T010,2025-02-10,Noted improvement
+S0646,T010,2025-01-18,Discussed weak area
+S0647,T016,2025-01-24,Suggested extra reading
+S0647,T016,2025-01-25,Suggested extra reading
+S0647,T016,2025-01-24,Motivational session
+S0648,T021,2025-01-10,Motivational session
+S0648,T021,2025-01-24,Motivational session
+S0648,T021,2025-05-20,Noted improvement
+S0649,T008,2024-12-31,Motivational session
+S0649,T008,2025-04-06,Noted improvement
+S0650,T020,2025-02-05,Discussed weak area
+S0650,T020,2024-12-11,Motivational session
+S0650,T020,2025-01-05,Suggested extra reading
+S0651,T022,2025-03-04,Discussed weak area
+S0651,T022,2025-01-06,Discussed weak area
+S0652,T027,2025-01-26,Follow-up on Math quiz
+S0653,T025,2025-01-01,Discussed weak area
+S0653,T025,2025-01-19,Follow-up on Math quiz
+S0654,T027,2025-04-15,Suggested extra reading
+S0654,T027,2024-12-24,Suggested extra reading
+S0654,T027,2025-05-04,Motivational session
+S0655,T020,2024-12-14,Suggested extra reading
+S0655,T020,2025-05-14,Suggested extra reading
+S0656,T013,2025-02-21,Follow-up on Math quiz
+S0656,T013,2025-05-04,Discussed weak area
+S0656,T013,2025-02-05,Follow-up on Math quiz
+S0657,T016,2025-05-05,Motivational session
+S0657,T016,2025-01-07,Discussed weak area
+S0658,T025,2024-12-08,Discussed weak area
+S0658,T025,2025-03-14,Suggested extra reading
+S0658,T025,2025-01-23,Suggested extra reading
+S0659,T009,2025-01-22,Motivational session
+S0659,T009,2025-04-10,Noted improvement
+S0659,T009,2025-05-05,Motivational session
+S0660,T009,2024-11-25,Noted improvement
+S0661,T020,2025-04-03,Noted improvement
+S0661,T020,2025-05-07,Follow-up on Math quiz
+S0662,T021,2025-04-25,Noted improvement
+S0662,T021,2025-01-19,Discussed weak area
+S0663,T008,2025-04-04,Noted improvement
+S0663,T008,2025-02-24,Suggested extra reading
+S0664,T026,2024-12-23,Follow-up on Math quiz
+S0665,T011,2024-12-13,Noted improvement
+S0665,T011,2024-11-29,Motivational session
+S0666,T013,2024-12-06,Suggested extra reading
+S0667,T007,2025-04-22,Discussed weak area
+S0667,T007,2025-01-20,Noted improvement
+S0667,T007,2025-04-03,Motivational session
+S0668,T009,2025-02-25,Suggested extra reading
+S0669,T012,2024-12-01,Noted improvement
+S0669,T012,2025-04-28,Discussed weak area
+S0669,T012,2025-05-14,Motivational session
+S0670,T024,2025-05-15,Follow-up on Math quiz
+S0670,T024,2025-01-08,Noted improvement
+S0670,T024,2024-11-30,Suggested extra reading
+S0671,T019,2025-02-24,Follow-up on Math quiz
+S0672,T019,2024-12-21,Noted improvement
+S0672,T019,2024-12-11,Noted improvement
+S0673,T021,2024-12-19,Suggested extra reading
+S0673,T021,2025-04-16,Noted improvement
+S0673,T021,2025-04-21,Discussed weak area
+S0674,T026,2024-12-18,Motivational session
+S0674,T026,2025-03-20,Suggested extra reading
+S0675,T015,2025-01-21,Discussed weak area
+S0675,T015,2025-02-21,Suggested extra reading
+S0675,T015,2025-03-21,Suggested extra reading
+S0676,T013,2025-01-26,Motivational session
+S0676,T013,2025-04-05,Suggested extra reading
+S0676,T013,2025-05-24,Follow-up on Math quiz
+S0677,T017,2025-03-31,Motivational session
+S0677,T017,2024-12-02,Discussed weak area
+S0677,T017,2025-05-02,Motivational session
+S0678,T013,2025-03-07,Motivational session
+S0678,T013,2025-01-19,Suggested extra reading
+S0678,T013,2025-02-17,Follow-up on Math quiz
+S0679,T012,2024-12-15,Noted improvement
+S0679,T012,2025-01-09,Motivational session
+S0679,T012,2025-01-14,Noted improvement
+S0680,T004,2025-03-06,Motivational session
+S0680,T004,2025-05-16,Follow-up on Math quiz
+S0681,T009,2025-04-26,Follow-up on Math quiz
+S0681,T009,2025-02-23,Suggested extra reading
+S0682,T006,2025-03-03,Suggested extra reading
+S0682,T006,2025-01-25,Suggested extra reading
+S0682,T006,2024-11-27,Suggested extra reading
+S0683,T007,2025-05-09,Follow-up on Math quiz
+S0683,T007,2025-02-26,Suggested extra reading
+S0683,T007,2025-04-07,Suggested extra reading
+S0684,T025,2025-03-03,Motivational session
+S0684,T025,2025-04-06,Motivational session
+S0684,T025,2025-02-11,Suggested extra reading
+S0685,T008,2025-05-23,Follow-up on Math quiz
+S0686,T018,2025-03-04,Motivational session
+S0686,T018,2025-01-05,Noted improvement
+S0686,T018,2025-04-20,Motivational session
+S0687,T018,2025-03-25,Motivational session
+S0688,T024,2025-01-31,Motivational session
+S0689,T015,2025-04-01,Motivational session
+S0689,T015,2024-12-18,Discussed weak area
+S0690,T010,2025-04-19,Motivational session
+S0690,T010,2025-04-17,Suggested extra reading
+S0691,T007,2025-05-08,Noted improvement
+S0692,T003,2024-12-18,Follow-up on Math quiz
+S0692,T003,2025-05-10,Suggested extra reading
+S0692,T003,2025-01-06,Discussed weak area
+S0693,T004,2025-02-03,Follow-up on Math quiz
+S0693,T004,2024-12-25,Follow-up on Math quiz
+S0693,T004,2025-01-16,Suggested extra reading
+S0694,T013,2024-12-11,Follow-up on Math quiz
+S0695,T020,2025-04-30,Noted improvement
+S0695,T020,2025-03-24,Motivational session
+S0696,T029,2025-05-24,Noted improvement
+S0696,T029,2025-03-29,Follow-up on Math quiz
+S0697,T019,2024-11-25,Noted improvement
+S0698,T012,2025-03-13,Suggested extra reading
+S0698,T012,2025-02-14,Suggested extra reading
+S0698,T012,2025-02-01,Discussed weak area
+S0699,T005,2025-02-06,Follow-up on Math quiz
+S0700,T024,2025-02-18,Motivational session
+S0700,T024,2025-04-25,Discussed weak area
+S0700,T024,2025-04-22,Motivational session
+S0701,T019,2024-11-28,Suggested extra reading
+S0701,T019,2025-02-15,Noted improvement
+S0701,T019,2025-03-21,Noted improvement
+S0702,T008,2025-04-24,Discussed weak area
+S0703,T029,2025-04-27,Suggested extra reading
+S0703,T029,2025-05-11,Follow-up on Math quiz
+S0704,T016,2025-03-01,Suggested extra reading
+S0705,T025,2025-01-21,Discussed weak area
+S0705,T025,2025-01-06,Noted improvement
+S0705,T025,2025-05-22,Discussed weak area
+S0706,T005,2025-05-23,Discussed weak area
+S0707,T004,2025-05-24,Noted improvement
+S0708,T011,2025-01-24,Suggested extra reading
+S0709,T029,2025-01-17,Motivational session
+S0709,T029,2025-03-12,Suggested extra reading
+S0709,T029,2025-05-02,Suggested extra reading
+S0710,T024,2025-03-04,Noted improvement
+S0710,T024,2025-02-27,Motivational session
+S0710,T024,2025-05-14,Follow-up on Math quiz
+S0711,T016,2025-04-10,Suggested extra reading
+S0712,T001,2025-02-13,Noted improvement
+S0712,T001,2025-02-19,Discussed weak area
+S0712,T001,2025-05-23,Follow-up on Math quiz
+S0713,T001,2024-12-23,Suggested extra reading
+S0714,T025,2025-02-12,Follow-up on Math quiz
+S0714,T025,2024-12-29,Follow-up on Math quiz
+S0714,T025,2024-12-28,Discussed weak area
+S0715,T003,2024-12-17,Noted improvement
+S0715,T003,2025-05-06,Suggested extra reading
+S0715,T003,2024-12-30,Discussed weak area
+S0716,T002,2025-05-10,Motivational session
+S0716,T002,2025-01-26,Suggested extra reading
+S0717,T007,2025-03-15,Suggested extra reading
+S0717,T007,2025-05-07,Motivational session
+S0718,T006,2025-04-28,Follow-up on Math quiz
+S0718,T006,2025-05-10,Discussed weak area
+S0718,T006,2025-03-14,Noted improvement
+S0719,T026,2025-05-01,Motivational session
+S0719,T026,2025-01-29,Motivational session
+S0719,T026,2024-12-22,Noted improvement
+S0720,T007,2025-05-11,Suggested extra reading
+S0721,T030,2025-01-24,Motivational session
+S0721,T030,2025-02-13,Discussed weak area
+S0722,T010,2024-11-27,Follow-up on Math quiz
+S0723,T016,2025-01-03,Suggested extra reading
+S0723,T016,2025-03-12,Discussed weak area
+S0723,T016,2025-04-12,Follow-up on Math quiz
+S0724,T007,2024-12-28,Suggested extra reading
+S0724,T007,2025-02-10,Suggested extra reading
+S0725,T027,2025-03-15,Follow-up on Math quiz
+S0725,T027,2025-05-07,Noted improvement
+S0726,T014,2025-03-15,Motivational session
+S0726,T014,2024-12-22,Noted improvement
+S0726,T014,2025-01-14,Discussed weak area
+S0727,T027,2025-04-12,Suggested extra reading
+S0727,T027,2025-02-17,Follow-up on Math quiz
+S0728,T012,2025-05-15,Discussed weak area
+S0729,T023,2025-01-02,Discussed weak area
+S0730,T022,2024-12-24,Follow-up on Math quiz
+S0730,T022,2025-01-27,Suggested extra reading
+S0731,T023,2025-03-20,Suggested extra reading
+S0732,T020,2025-02-11,Noted improvement
+S0732,T020,2025-01-16,Suggested extra reading
+S0733,T009,2025-02-26,Motivational session
+S0734,T001,2025-03-12,Follow-up on Math quiz
+S0734,T001,2025-04-20,Follow-up on Math quiz
+S0735,T020,2025-03-16,Follow-up on Math quiz
+S0735,T020,2025-04-07,Noted improvement
+S0736,T022,2025-05-24,Follow-up on Math quiz
+S0736,T022,2025-04-09,Follow-up on Math quiz
+S0737,T022,2025-02-16,Noted improvement
+S0738,T019,2025-02-12,Motivational session
+S0738,T019,2025-01-15,Noted improvement
+S0739,T017,2025-02-12,Noted improvement
+S0740,T013,2025-04-22,Suggested extra reading
+S0741,T025,2025-02-28,Discussed weak area
+S0741,T025,2024-12-14,Suggested extra reading
+S0742,T016,2025-03-07,Suggested extra reading
+S0743,T022,2025-02-19,Discussed weak area
+S0743,T022,2025-02-23,Noted improvement
+S0744,T012,2025-03-22,Noted improvement
+S0744,T012,2024-11-29,Suggested extra reading
+S0744,T012,2024-12-18,Suggested extra reading
+S0745,T018,2025-04-10,Suggested extra reading
+S0746,T002,2025-01-15,Discussed weak area
+S0746,T002,2025-04-16,Suggested extra reading
+S0747,T008,2025-01-14,Follow-up on Math quiz
+S0747,T008,2025-02-25,Follow-up on Math quiz
+S0748,T009,2024-12-10,Follow-up on Math quiz
+S0748,T009,2024-12-28,Motivational session
+S0749,T015,2025-02-19,Discussed weak area
+S0749,T015,2025-03-14,Follow-up on Math quiz
+S0750,T020,2025-05-07,Motivational session
+S0751,T001,2025-03-10,Discussed weak area
+S0751,T001,2025-04-06,Suggested extra reading
+S0752,T008,2024-11-28,Noted improvement
+S0752,T008,2025-04-02,Discussed weak area
+S0753,T014,2025-01-17,Noted improvement
+S0753,T014,2025-04-29,Motivational session
+S0753,T014,2024-12-19,Follow-up on Math quiz
+S0754,T003,2025-01-17,Follow-up on Math quiz
+S0754,T003,2025-05-08,Noted improvement
+S0754,T003,2025-04-06,Discussed weak area
+S0755,T001,2025-04-24,Follow-up on Math quiz
+S0756,T002,2025-02-25,Discussed weak area
+S0756,T002,2025-03-20,Discussed weak area
+S0757,T014,2024-12-10,Follow-up on Math quiz
+S0757,T014,2025-01-07,Noted improvement
+S0757,T014,2024-11-24,Noted improvement
+S0758,T001,2025-03-04,Follow-up on Math quiz
+S0759,T002,2024-12-14,Suggested extra reading
+S0760,T010,2025-04-01,Suggested extra reading
+S0760,T010,2025-04-04,Motivational session
+S0760,T010,2024-12-05,Suggested extra reading
+S0761,T002,2025-02-04,Motivational session
+S0761,T002,2025-03-05,Noted improvement
+S0761,T002,2024-12-06,Suggested extra reading
+S0762,T013,2025-04-03,Motivational session
+S0762,T013,2025-02-10,Suggested extra reading
+S0763,T002,2025-04-01,Follow-up on Math quiz
+S0763,T002,2025-05-06,Motivational session
+S0764,T029,2025-02-18,Noted improvement
+S0764,T029,2024-12-09,Motivational session
+S0765,T005,2025-02-27,Discussed weak area
+S0765,T005,2025-02-19,Follow-up on Math quiz
+S0766,T002,2024-12-19,Noted improvement
+S0766,T002,2025-01-20,Suggested extra reading
+S0767,T020,2025-01-21,Discussed weak area
+S0767,T020,2025-05-20,Noted improvement
+S0768,T010,2025-01-01,Noted improvement
+S0768,T010,2025-03-14,Noted improvement
+S0769,T020,2025-03-10,Motivational session
+S0769,T020,2025-01-16,Suggested extra reading
+S0769,T020,2025-03-01,Noted improvement
+S0770,T023,2024-12-12,Suggested extra reading
+S0771,T005,2025-04-25,Suggested extra reading
+S0771,T005,2025-01-26,Noted improvement
+S0771,T005,2025-05-07,Suggested extra reading
+S0772,T021,2025-04-29,Noted improvement
+S0772,T021,2025-01-08,Noted improvement
+S0772,T021,2024-12-05,Discussed weak area
+S0773,T023,2025-02-01,Discussed weak area
+S0773,T023,2024-12-26,Motivational session
+S0773,T023,2024-12-22,Noted improvement
+S0774,T025,2025-05-15,Follow-up on Math quiz
+S0774,T025,2025-02-12,Discussed weak area
+S0775,T020,2025-05-18,Noted improvement
+S0775,T020,2025-02-23,Follow-up on Math quiz
+S0776,T030,2025-05-05,Suggested extra reading
+S0776,T030,2025-03-01,Noted improvement
+S0776,T030,2025-02-11,Follow-up on Math quiz
+S0777,T002,2025-01-14,Follow-up on Math quiz
+S0777,T002,2025-03-04,Follow-up on Math quiz
+S0777,T002,2025-03-17,Follow-up on Math quiz
+S0778,T013,2025-03-02,Discussed weak area
+S0778,T013,2025-02-20,Motivational session
+S0779,T006,2025-04-09,Discussed weak area
+S0779,T006,2025-05-16,Discussed weak area
+S0780,T004,2025-02-02,Suggested extra reading
+S0780,T004,2025-02-11,Follow-up on Math quiz
+S0781,T027,2025-05-06,Follow-up on Math quiz
+S0782,T025,2025-05-10,Noted improvement
+S0783,T028,2025-04-07,Discussed weak area
+S0784,T010,2025-01-23,Discussed weak area
+S0784,T010,2025-05-08,Follow-up on Math quiz
+S0785,T023,2024-12-10,Suggested extra reading
+S0785,T023,2025-04-06,Motivational session
+S0786,T030,2025-02-17,Follow-up on Math quiz
+S0787,T012,2025-04-14,Discussed weak area
+S0788,T024,2025-01-30,Follow-up on Math quiz
+S0788,T024,2025-02-01,Follow-up on Math quiz
+S0789,T014,2025-02-14,Noted improvement
+S0790,T008,2025-04-29,Suggested extra reading
+S0790,T008,2025-03-16,Noted improvement
+S0790,T008,2024-12-17,Motivational session
+S0791,T021,2025-02-17,Suggested extra reading
+S0791,T021,2025-03-22,Discussed weak area
+S0792,T001,2024-12-30,Discussed weak area
+S0792,T001,2025-04-08,Motivational session
+S0792,T001,2025-03-06,Noted improvement
+S0793,T015,2025-04-30,Noted improvement
+S0794,T005,2025-04-20,Suggested extra reading
+S0794,T005,2025-01-20,Follow-up on Math quiz
+S0795,T001,2025-01-07,Suggested extra reading
+S0795,T001,2025-02-22,Noted improvement
+S0796,T012,2025-05-10,Motivational session
+S0797,T029,2025-01-04,Motivational session
+S0797,T029,2025-01-18,Noted improvement
+S0797,T029,2025-04-20,Discussed weak area
+S0798,T030,2025-05-14,Suggested extra reading
+S0798,T030,2024-12-23,Motivational session
+S0798,T030,2025-02-28,Motivational session
+S0799,T022,2025-01-17,Motivational session
+S0800,T021,2025-02-09,Noted improvement
+S0800,T021,2024-11-24,Discussed weak area
+S0800,T021,2025-05-15,Follow-up on Math quiz
+S0801,T024,2024-11-30,Motivational session
+S0802,T005,2025-02-09,Motivational session
+S0803,T027,2025-02-18,Follow-up on Math quiz
+S0803,T027,2024-12-25,Noted improvement
+S0804,T028,2025-04-08,Motivational session
+S0804,T028,2025-04-06,Follow-up on Math quiz
+S0805,T011,2025-01-12,Noted improvement
+S0806,T018,2025-02-28,Discussed weak area
+S0807,T026,2025-05-23,Follow-up on Math quiz
+S0808,T005,2025-04-21,Suggested extra reading
+S0808,T005,2025-01-25,Discussed weak area
+S0808,T005,2025-05-11,Motivational session
+S0809,T008,2025-03-10,Suggested extra reading
+S0810,T012,2025-05-24,Motivational session
+S0811,T026,2025-02-02,Noted improvement
+S0812,T017,2024-12-05,Noted improvement
+S0812,T017,2025-05-25,Motivational session
+S0813,T014,2025-01-17,Discussed weak area
+S0813,T014,2025-01-11,Noted improvement
+S0813,T014,2024-11-29,Noted improvement
+S0814,T026,2025-05-09,Discussed weak area
+S0814,T026,2025-01-26,Motivational session
+S0814,T026,2025-02-04,Suggested extra reading
+S0815,T012,2024-12-30,Follow-up on Math quiz
+S0815,T012,2024-12-31,Suggested extra reading
+S0816,T025,2025-02-20,Motivational session
+S0816,T025,2025-02-19,Noted improvement
+S0816,T025,2024-12-27,Noted improvement
+S0817,T003,2025-04-15,Discussed weak area
+S0817,T003,2025-03-04,Noted improvement
+S0818,T025,2025-01-05,Motivational session
+S0818,T025,2025-02-07,Discussed weak area
+S0819,T016,2024-12-28,Motivational session
+S0819,T016,2025-02-08,Motivational session
+S0819,T016,2025-04-14,Follow-up on Math quiz
+S0820,T008,2025-01-29,Discussed weak area
+S0820,T008,2025-04-13,Noted improvement
+S0821,T009,2025-04-09,Noted improvement
+S0822,T007,2025-03-30,Follow-up on Math quiz
+S0822,T007,2025-02-01,Motivational session
+S0822,T007,2025-02-01,Follow-up on Math quiz
+S0823,T014,2025-05-10,Suggested extra reading
+S0824,T008,2025-03-23,Suggested extra reading
+S0825,T026,2025-01-12,Discussed weak area
+S0825,T026,2025-05-04,Noted improvement
+S0825,T026,2025-04-15,Motivational session
+S0826,T025,2025-05-17,Motivational session
+S0826,T025,2024-12-22,Discussed weak area
+S0826,T025,2025-01-08,Suggested extra reading
+S0827,T028,2025-01-01,Discussed weak area
+S0828,T015,2024-12-17,Follow-up on Math quiz
+S0828,T015,2025-05-18,Suggested extra reading
+S0829,T027,2024-12-26,Noted improvement
+S0829,T027,2025-03-26,Follow-up on Math quiz
+S0830,T013,2025-03-11,Discussed weak area
+S0831,T005,2025-01-22,Noted improvement
+S0831,T005,2024-12-18,Discussed weak area
+S0831,T005,2025-04-18,Motivational session
+S0832,T003,2025-02-15,Discussed weak area
+S0833,T006,2024-12-23,Discussed weak area
+S0833,T006,2025-05-25,Motivational session
+S0833,T006,2025-03-30,Suggested extra reading
+S0834,T028,2025-04-26,Motivational session
+S0834,T028,2025-05-25,Noted improvement
+S0834,T028,2025-01-10,Follow-up on Math quiz
+S0835,T022,2025-02-01,Discussed weak area
+S0835,T022,2025-03-16,Noted improvement
+S0835,T022,2025-05-07,Suggested extra reading
+S0836,T007,2024-12-15,Follow-up on Math quiz
+S0837,T003,2025-03-19,Noted improvement
+S0837,T003,2025-02-08,Suggested extra reading
+S0838,T004,2025-03-12,Discussed weak area
+S0839,T017,2025-05-13,Motivational session
+S0840,T024,2024-11-25,Follow-up on Math quiz
+S0840,T024,2025-04-14,Noted improvement
+S0840,T024,2025-04-16,Discussed weak area
+S0841,T006,2025-01-30,Motivational session
+S0841,T006,2025-04-27,Follow-up on Math quiz
+S0842,T006,2025-03-03,Noted improvement
+S0843,T006,2025-04-15,Suggested extra reading
+S0844,T018,2025-02-15,Motivational session
+S0844,T018,2025-02-10,Suggested extra reading
+S0844,T018,2024-12-06,Discussed weak area
+S0845,T013,2025-03-10,Noted improvement
+S0845,T013,2025-02-16,Follow-up on Math quiz
+S0845,T013,2025-01-24,Motivational session
+S0846,T021,2024-12-28,Follow-up on Math quiz
+S0846,T021,2025-05-11,Motivational session
+S0847,T029,2024-12-07,Suggested extra reading
+S0847,T029,2025-02-16,Follow-up on Math quiz
+S0847,T029,2024-12-06,Motivational session
+S0848,T008,2024-12-11,Discussed weak area
+S0848,T008,2025-01-01,Noted improvement
+S0849,T019,2025-04-03,Noted improvement
+S0849,T019,2025-03-17,Discussed weak area
+S0849,T019,2025-03-04,Suggested extra reading
+S0850,T020,2025-01-21,Motivational session
+S0850,T020,2025-03-14,Suggested extra reading
+S0850,T020,2025-05-19,Discussed weak area
+S0851,T027,2025-05-18,Discussed weak area
+S0851,T027,2025-04-04,Suggested extra reading
+S0851,T027,2025-02-24,Follow-up on Math quiz
+S0852,T020,2025-03-01,Motivational session
+S0853,T013,2025-03-05,Suggested extra reading
+S0854,T011,2025-04-03,Discussed weak area
+S0854,T011,2024-12-16,Motivational session
+S0855,T027,2024-12-06,Motivational session
+S0856,T029,2025-04-05,Suggested extra reading
+S0856,T029,2025-01-16,Motivational session
+S0856,T029,2025-02-14,Suggested extra reading
+S0857,T010,2024-12-13,Noted improvement
+S0857,T010,2025-02-16,Suggested extra reading
+S0857,T010,2025-04-18,Follow-up on Math quiz
+S0858,T003,2025-05-20,Noted improvement
+S0858,T003,2024-12-02,Noted improvement
+S0859,T009,2025-05-01,Discussed weak area
+S0859,T009,2025-04-18,Suggested extra reading
+S0859,T009,2025-02-01,Suggested extra reading
+S0860,T024,2025-03-17,Discussed weak area
+S0861,T018,2024-12-17,Noted improvement
+S0861,T018,2025-01-08,Motivational session
+S0861,T018,2024-11-25,Discussed weak area
+S0862,T019,2025-02-28,Noted improvement
+S0862,T019,2025-03-08,Follow-up on Math quiz
+S0862,T019,2025-05-05,Noted improvement
+S0863,T028,2025-02-28,Noted improvement
+S0864,T025,2025-04-01,Suggested extra reading
+S0864,T025,2025-04-18,Follow-up on Math quiz
+S0864,T025,2025-03-29,Suggested extra reading
+S0865,T024,2025-05-23,Noted improvement
+S0865,T024,2025-04-06,Suggested extra reading
+S0866,T016,2025-02-14,Motivational session
+S0866,T016,2025-02-05,Motivational session
+S0866,T016,2025-01-29,Discussed weak area
+S0867,T019,2024-12-21,Motivational session
+S0868,T009,2025-01-06,Discussed weak area
+S0868,T009,2025-01-20,Noted improvement
+S0868,T009,2025-02-08,Suggested extra reading
+S0869,T006,2025-02-08,Discussed weak area
+S0869,T006,2025-03-03,Motivational session
+S0870,T005,2025-01-19,Suggested extra reading
+S0871,T026,2025-04-23,Suggested extra reading
+S0871,T026,2025-01-14,Follow-up on Math quiz
+S0872,T005,2025-03-27,Discussed weak area
+S0872,T005,2025-05-12,Discussed weak area
+S0873,T027,2025-02-07,Motivational session
+S0873,T027,2025-05-09,Discussed weak area
+S0874,T025,2025-03-20,Motivational session
+S0874,T025,2024-11-26,Discussed weak area
+S0875,T014,2024-11-28,Suggested extra reading
+S0875,T014,2024-12-26,Discussed weak area
+S0875,T014,2025-01-29,Noted improvement
+S0876,T002,2025-03-14,Motivational session
+S0876,T002,2025-05-08,Discussed weak area
+S0877,T006,2025-02-24,Suggested extra reading
+S0877,T006,2025-05-09,Motivational session
+S0877,T006,2025-05-24,Discussed weak area
+S0878,T018,2025-03-30,Noted improvement
+S0878,T018,2024-12-25,Follow-up on Math quiz
+S0879,T004,2024-12-31,Discussed weak area
+S0879,T004,2025-03-17,Noted improvement
+S0880,T007,2025-04-16,Suggested extra reading
+S0881,T001,2025-03-10,Suggested extra reading
+S0882,T009,2025-03-09,Noted improvement
+S0882,T009,2025-02-14,Follow-up on Math quiz
+S0882,T009,2025-01-06,Follow-up on Math quiz
+S0883,T009,2025-01-17,Discussed weak area
+S0883,T009,2025-05-05,Motivational session
+S0883,T009,2025-03-28,Suggested extra reading
+S0884,T030,2025-02-11,Discussed weak area
+S0885,T002,2025-01-30,Noted improvement
+S0885,T002,2025-03-07,Noted improvement
+S0885,T002,2025-02-28,Motivational session
+S0886,T003,2025-04-02,Follow-up on Math quiz
+S0886,T003,2025-01-20,Follow-up on Math quiz
+S0886,T003,2025-04-21,Suggested extra reading
+S0887,T026,2025-02-16,Suggested extra reading
+S0887,T026,2025-03-16,Motivational session
+S0888,T010,2024-12-21,Noted improvement
+S0888,T010,2024-12-18,Follow-up on Math quiz
+S0889,T022,2025-04-11,Noted improvement
+S0890,T029,2025-02-22,Suggested extra reading
+S0891,T021,2025-03-17,Discussed weak area
+S0892,T030,2025-01-11,Discussed weak area
+S0892,T030,2024-12-24,Motivational session
+S0892,T030,2025-05-09,Follow-up on Math quiz
+S0893,T030,2025-01-07,Motivational session
+S0893,T030,2024-12-22,Noted improvement
+S0893,T030,2025-03-17,Follow-up on Math quiz
+S0894,T005,2025-05-18,Discussed weak area
+S0894,T005,2024-12-20,Suggested extra reading
+S0894,T005,2025-01-05,Motivational session
+S0895,T007,2025-05-06,Noted improvement
+S0896,T009,2025-05-25,Suggested extra reading
+S0896,T009,2025-03-28,Motivational session
+S0897,T019,2025-04-21,Discussed weak area
+S0897,T019,2025-05-16,Suggested extra reading
+S0897,T019,2025-02-08,Discussed weak area
+S0898,T009,2025-05-02,Discussed weak area
+S0898,T009,2025-05-21,Suggested extra reading
+S0899,T020,2025-03-11,Follow-up on Math quiz
+S0899,T020,2025-01-30,Suggested extra reading
+S0900,T014,2025-05-01,Noted improvement
+S0901,T013,2025-01-20,Motivational session
+S0901,T013,2024-12-06,Noted improvement
+S0901,T013,2025-01-01,Discussed weak area
+S0902,T019,2025-05-22,Suggested extra reading
+S0902,T019,2024-12-07,Follow-up on Math quiz
+S0902,T019,2025-03-13,Suggested extra reading
+S0903,T004,2025-01-19,Discussed weak area
+S0904,T010,2024-12-18,Discussed weak area
+S0904,T010,2024-12-25,Motivational session
+S0904,T010,2025-01-02,Follow-up on Math quiz
+S0905,T018,2025-02-04,Discussed weak area
+S0906,T009,2025-02-10,Motivational session
+S0907,T027,2025-04-04,Discussed weak area
+S0907,T027,2024-12-26,Motivational session
+S0908,T021,2025-03-08,Suggested extra reading
+S0908,T021,2024-12-08,Noted improvement
+S0909,T008,2025-04-12,Motivational session
+S0909,T008,2025-03-08,Follow-up on Math quiz
+S0910,T013,2025-01-20,Noted improvement
+S0910,T013,2024-12-23,Follow-up on Math quiz
+S0911,T024,2025-01-31,Follow-up on Math quiz
+S0912,T018,2025-04-04,Motivational session
+S0912,T018,2025-01-04,Noted improvement
+S0913,T017,2025-05-04,Noted improvement
+S0913,T017,2024-11-27,Motivational session
+S0913,T017,2025-01-30,Suggested extra reading
+S0914,T003,2024-12-31,Follow-up on Math quiz
+S0914,T003,2025-02-22,Noted improvement
+S0915,T006,2025-03-25,Motivational session
+S0916,T014,2025-03-13,Suggested extra reading
+S0917,T030,2024-12-02,Motivational session
+S0918,T025,2025-01-20,Motivational session
+S0918,T025,2025-04-20,Follow-up on Math quiz
+S0919,T003,2025-01-31,Suggested extra reading
+S0920,T012,2025-04-16,Discussed weak area
+S0920,T012,2025-03-20,Follow-up on Math quiz
+S0920,T012,2025-04-10,Noted improvement
+S0921,T017,2025-04-06,Suggested extra reading
+S0921,T017,2025-02-22,Follow-up on Math quiz
+S0922,T005,2025-01-14,Follow-up on Math quiz
+S0923,T004,2025-02-21,Follow-up on Math quiz
+S0923,T004,2025-04-03,Follow-up on Math quiz
+S0923,T004,2024-12-04,Noted improvement
+S0924,T005,2024-11-30,Discussed weak area
+S0925,T027,2024-12-30,Noted improvement
+S0925,T027,2024-12-20,Noted improvement
+S0926,T015,2025-03-13,Motivational session
+S0926,T015,2025-01-22,Motivational session
+S0926,T015,2025-04-01,Discussed weak area
+S0927,T008,2025-02-02,Follow-up on Math quiz
+S0927,T008,2025-04-18,Suggested extra reading
+S0928,T020,2025-05-04,Motivational session
+S0928,T020,2025-04-25,Follow-up on Math quiz
+S0928,T020,2025-05-22,Discussed weak area
+S0929,T022,2025-04-30,Suggested extra reading
+S0929,T022,2024-12-18,Suggested extra reading
+S0929,T022,2025-05-12,Discussed weak area
+S0930,T007,2025-03-20,Suggested extra reading
+S0931,T002,2025-01-16,Noted improvement
+S0931,T002,2024-12-01,Follow-up on Math quiz
+S0931,T002,2025-03-06,Discussed weak area
+S0932,T030,2025-04-20,Motivational session
+S0933,T011,2025-03-25,Discussed weak area
+S0933,T011,2025-05-18,Discussed weak area
+S0933,T011,2025-03-14,Follow-up on Math quiz
+S0934,T013,2025-03-10,Motivational session
+S0934,T013,2025-02-08,Discussed weak area
+S0935,T013,2025-03-14,Suggested extra reading
+S0936,T030,2025-02-10,Suggested extra reading
+S0936,T030,2024-12-02,Noted improvement
+S0937,T024,2025-05-16,Noted improvement
+S0938,T022,2025-01-11,Suggested extra reading
+S0938,T022,2025-04-04,Discussed weak area
+S0939,T014,2025-04-28,Discussed weak area
+S0939,T014,2025-04-05,Follow-up on Math quiz
+S0940,T005,2024-12-02,Suggested extra reading
+S0941,T015,2025-05-02,Follow-up on Math quiz
+S0941,T015,2025-02-23,Follow-up on Math quiz
+S0941,T015,2025-03-03,Motivational session
+S0942,T025,2024-12-11,Suggested extra reading
+S0942,T025,2025-01-17,Discussed weak area
+S0942,T025,2025-03-31,Noted improvement
+S0943,T009,2025-03-03,Noted improvement
+S0944,T018,2025-03-18,Noted improvement
+S0944,T018,2025-05-10,Follow-up on Math quiz
+S0945,T019,2025-05-15,Noted improvement
+S0946,T006,2025-05-03,Discussed weak area
+S0946,T006,2025-02-16,Motivational session
+S0946,T006,2025-02-02,Motivational session
+S0947,T026,2025-03-08,Suggested extra reading
+S0948,T019,2025-03-01,Follow-up on Math quiz
+S0948,T019,2025-01-09,Suggested extra reading
+S0948,T019,2024-12-30,Noted improvement
+S0949,T005,2024-12-12,Follow-up on Math quiz
+S0949,T005,2025-04-08,Discussed weak area
+S0949,T005,2025-03-15,Follow-up on Math quiz
+S0950,T005,2025-04-22,Motivational session
+S0950,T005,2025-01-07,Discussed weak area
+S0951,T005,2024-12-16,Follow-up on Math quiz
+S0951,T005,2025-04-22,Suggested extra reading
+S0951,T005,2025-02-17,Motivational session
+S0952,T014,2024-12-15,Discussed weak area
+S0952,T014,2024-12-12,Suggested extra reading
+S0953,T025,2025-04-25,Motivational session
+S0953,T025,2025-05-03,Follow-up on Math quiz
+S0953,T025,2025-03-04,Follow-up on Math quiz
+S0954,T009,2024-12-11,Motivational session
+S0954,T009,2024-12-27,Motivational session
+S0955,T023,2024-11-30,Discussed weak area
+S0956,T019,2025-05-10,Motivational session
+S0956,T019,2025-02-25,Motivational session
+S0956,T019,2024-12-24,Discussed weak area
+S0957,T030,2025-04-01,Motivational session
+S0957,T030,2025-04-17,Suggested extra reading
+S0958,T023,2025-04-21,Follow-up on Math quiz
+S0958,T023,2025-02-11,Noted improvement
+S0959,T002,2024-12-24,Discussed weak area
+S0959,T002,2025-01-13,Noted improvement
+S0959,T002,2025-01-31,Motivational session
+S0960,T024,2025-01-21,Follow-up on Math quiz
+S0960,T024,2024-12-16,Noted improvement
+S0960,T024,2025-05-10,Motivational session
+S0961,T012,2025-03-31,Noted improvement
+S0962,T028,2025-02-01,Motivational session
+S0962,T028,2025-01-12,Noted improvement
+S0962,T028,2025-03-27,Follow-up on Math quiz
+S0963,T011,2025-04-09,Motivational session
+S0963,T011,2025-01-10,Motivational session
+S0964,T003,2025-02-11,Discussed weak area
+S0965,T022,2025-05-02,Noted improvement
+S0965,T022,2025-05-22,Suggested extra reading
+S0965,T022,2025-03-05,Follow-up on Math quiz
+S0966,T007,2025-04-28,Motivational session
+S0966,T007,2025-04-19,Suggested extra reading
+S0966,T007,2025-05-06,Suggested extra reading
+S0967,T002,2025-05-07,Motivational session
+S0967,T002,2025-05-02,Noted improvement
+S0967,T002,2024-12-09,Follow-up on Math quiz
+S0968,T025,2024-12-27,Noted improvement
+S0969,T024,2024-12-05,Suggested extra reading
+S0969,T024,2025-05-06,Follow-up on Math quiz
+S0969,T024,2024-12-12,Discussed weak area
+S0970,T016,2025-04-24,Follow-up on Math quiz
+S0970,T016,2025-02-15,Motivational session
+S0971,T004,2025-05-03,Suggested extra reading
+S0971,T004,2025-03-27,Discussed weak area
+S0972,T016,2025-02-04,Follow-up on Math quiz
+S0972,T016,2025-05-18,Motivational session
+S0973,T010,2025-04-24,Follow-up on Math quiz
+S0974,T016,2025-04-10,Discussed weak area
+S0974,T016,2025-04-23,Discussed weak area
+S0974,T016,2025-03-24,Motivational session
+S0975,T001,2025-04-07,Motivational session
+S0975,T001,2025-05-04,Noted improvement
+S0975,T001,2025-02-04,Motivational session
+S0976,T011,2025-01-30,Motivational session
+S0977,T007,2025-05-01,Discussed weak area
+S0978,T005,2024-12-03,Suggested extra reading
+S0979,T026,2025-04-25,Motivational session
+S0979,T026,2025-03-20,Suggested extra reading
+S0980,T021,2025-04-22,Noted improvement
+S0981,T016,2025-04-21,Noted improvement
+S0982,T015,2024-12-15,Suggested extra reading
+S0983,T013,2025-02-03,Suggested extra reading
+S0983,T013,2024-12-27,Noted improvement
+S0983,T013,2025-03-05,Follow-up on Math quiz
+S0984,T015,2024-12-18,Suggested extra reading
+S0984,T015,2024-12-18,Follow-up on Math quiz
+S0985,T010,2025-01-29,Discussed weak area
+S0986,T009,2025-02-25,Follow-up on Math quiz
+S0986,T009,2025-03-11,Noted improvement
+S0986,T009,2025-01-06,Suggested extra reading
+S0987,T024,2025-03-07,Follow-up on Math quiz
+S0988,T017,2025-02-02,Suggested extra reading
+S0988,T017,2025-02-03,Discussed weak area
+S0988,T017,2025-01-30,Motivational session
+S0989,T020,2025-02-14,Noted improvement
+S0989,T020,2025-03-05,Suggested extra reading
+S0990,T022,2025-05-16,Suggested extra reading
+S0990,T022,2025-04-10,Follow-up on Math quiz
+S0991,T018,2025-01-04,Discussed weak area
+S0991,T018,2024-12-24,Follow-up on Math quiz
+S0992,T008,2024-11-28,Suggested extra reading
+S0993,T022,2024-12-27,Suggested extra reading
+S0993,T022,2025-02-25,Noted improvement
+S0994,T009,2025-02-12,Discussed weak area
+S0995,T004,2025-03-25,Suggested extra reading
+S0995,T004,2025-04-19,Noted improvement
+S0995,T004,2025-03-08,Suggested extra reading
+S0996,T014,2025-05-01,Suggested extra reading
+S0996,T014,2024-11-26,Motivational session
+S0996,T014,2025-05-06,Discussed weak area
+S0997,T001,2025-05-20,Suggested extra reading
+S0997,T001,2025-01-08,Noted improvement
+S0998,T029,2025-03-04,Follow-up on Math quiz
+S0999,T022,2025-05-02,Motivational session
+S1000,T007,2025-05-23,Follow-up on Math quiz

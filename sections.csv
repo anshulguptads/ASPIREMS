@@ -1,0 +1,11 @@
+section,avg_score,students_count,at_risk_students,top_aspirations
+1,78.31,96,52,"['Scientist', 'Artist', 'Engineer']"
+2,77.64,115,57,"['Data Scientist', 'Writer', 'Artist']"
+3,78.62,97,46,"['Doctor', 'Engineer', 'Data Scientist']"
+4,76.44,87,35,"['Data Scientist', 'Doctor', 'Pilot']"
+5,76.88,95,46,"['Artist', 'Engineer', 'Pilot']"
+6,75.85,107,44,"['Entrepreneur', 'Engineer', 'Teacher']"
+7,77.34,104,60,"['Data Scientist', 'Lawyer', 'Entrepreneur']"
+8,77.17,100,53,"['Doctor', 'Data Scientist', 'Engineer']"
+9,77.14,105,53,"['Data Scientist', 'Teacher', 'Entrepreneur']"
+10,78.27,94,42,"['Teacher', 'Data Scientist', 'Entrepreneur']"

@@ -1,0 +1,746 @@
+flashcard_id,student_id,subject,topic,question,answer,is_known
+f69a48fd-8e79-4fc4-8219-bd252c7d54e7,S0682,Math,Algebra,Why is Algebra important?,Algebra is important because ...,True
+1029fcbc-920d-4bba-b781-2ab8a5e422e5,S0682,English,Grammar,Explain Grammar in brief.,Grammar is important because ...,True
+d3f4e74a-68e0-4da1-9fe2-7af52a6ea26b,S0682,Social Science,Economics,Explain Economics in brief.,The key concept of Economics is ...,True
+0e82e6e8-4da3-4c5b-9ef6-aae7e945df82,S0682,English,Writing Skills,Explain Writing Skills in brief.,An example of Writing Skills: ...,True
+a21003a6-004a-4d21-b5b6-7a64aa86a56b,S0682,English,Poetry,Give an example of Poetry.,Poetry is important because ...,False
+1c7db7e5-bac2-4883-a289-d3d7e0db25ee,S0682,Math,Algebra,Explain Algebra in brief.,An example of Algebra: ...,True
+ff5aaf7d-b35f-473d-85bc-dca82903d4ac,S0682,Math,Trigonometry,What is the key concept of Trigonometry?,Trigonometry is important because ...,False
+18ff0683-27a8-4d7f-8366-7b4e478aef33,S0682,Science,Genetics,Explain Genetics in brief.,Genetics can be explained as ...,False
+072415f3-c5c2-48d5-988c-b347f8ad2ed1,S0974,Science,Genetics,What is the key concept of Genetics?,The key concept of Genetics is ...,False
+10da410f-fe41-4499-96aa-3821cb01ab1c,S0974,Social Science,Economics,Why is Economics important?,Economics can be explained as ...,False
+bb923c49-efc9-43b7-a600-7fec1316e7cd,S0974,Math,Calculus,Give an example of Calculus.,Calculus is important because ...,True
+3678f69b-cc90-4e5b-a31b-c2a1a479dbb5,S0974,English,Grammar,Explain Grammar in brief.,Grammar is important because ...,False
+f571bc5b-8aa3-41c7-bad2-c403cc7d313a,S0974,Computer Science,Programming,Why is Programming important?,Programming can be explained as ...,False
+da7adb95-db94-46db-b0ef-dc4c3fd517a3,S0974,Science,Chemistry,Give an example of Chemistry.,The key concept of Chemistry is ...,True
+3b881575-8662-4ca2-b414-8d01ed3e83e1,S0974,Math,Algebra,Give an example of Algebra.,An example of Algebra: ...,False
+575dda2e-1e44-46fc-976a-31c22f7b0c2e,S0974,Computer Science,Algorithms,Explain Algorithms in brief.,Algorithms can be explained as ...,True
+db7511c2-822b-432b-a2f4-b497cc2c2ec4,S0383,Science,Physics,Give an example of Physics.,Physics is defined as ...,False
+daf7fd6c-f188-47b5-8eeb-5116e97b5b57,S0383,Economics,Micro,Define Micro.,The key concept of Micro is ...,True
+2746b5cf-12e9-4f6a-a771-998b0c52cb49,S0383,Social Science,Economics,Why is Economics important?,The key concept of Economics is ...,True
+b6458384-04c2-4157-8342-cd07ad855e7b,S0383,Computer Science,AI,Give an example of AI.,AI can be explained as ...,False
+818d5b47-c02c-4281-b3d8-66217453a3b5,S0383,History,World Wars,Why is World Wars important?,World Wars is important because ...,True
+ccdc9c54-5109-49dc-ac99-9db6cbd12faa,S0383,Science,Physics,Explain Physics in brief.,Physics is defined as ...,True
+4977cc6d-90b0-453b-828c-59765cf62d1d,S0383,Social Science,Geography,Explain Geography in brief.,Geography is defined as ...,True
+1eab8d54-bb74-4470-a2c7-8a185849a4d1,S0383,Economics,Micro,Why is Micro important?,Micro is important because ...,False
+077d76b8-7ad8-4067-81a2-b3b2f2dd9d26,S0760,Social Science,Sociology,Why is Sociology important?,The key concept of Sociology is ...,False
+a76e7e07-2e7f-472c-8abc-636619533f81,S0760,History,Medieval,Why is Medieval important?,Medieval can be explained as ...,True
+4bab4dd7-dbde-4637-8148-a838bb9e69fb,S0760,Computer Science,Databases,Give an example of Databases.,Databases is important because ...,False
+38efb4e7-9af1-40a1-8124-bc294cd20613,S0760,Social Science,Civics,Explain Civics in brief.,An example of Civics: ...,False
+f273a431-710a-4543-801c-030fa5b80ca2,S0760,Economics,Macro,Explain Macro in brief.,Macro is important because ...,True
+9f41dca2-3ef1-4258-9dac-c505ad77f32b,S0760,Economics,Macro,Give an example of Macro.,An example of Macro: ...,True
+ed314fa0-a565-4a5e-b5e4-892c7923f663,S0760,Economics,Trade,Define Trade.,Trade can be explained as ...,False
+c2149d5a-6d0b-4bbd-a82c-1a61b40c9b1a,S0760,Science,Biology,What is the key concept of Biology?,The key concept of Biology is ...,False
+db9882b3-7fd0-4eee-b351-f422364fd37a,S0662,English,Grammar,Why is Grammar important?,Grammar is important because ...,True
+999e1734-c648-47cd-8652-8c2fbc67c3c9,S0662,Math,Trigonometry,Give an example of Trigonometry.,Trigonometry is important because ...,True
+aee00f5f-61d2-464a-8830-2407f8eeb5c0,S0662,Science,Physics,Why is Physics important?,An example of Physics: ...,False
+44f959f3-6fd8-45cd-a3fa-16457611fc5b,S0662,History,Modern,Define Modern.,An example of Modern: ...,False
+fdef76a3-e73d-4ef8-b709-1e13fe09024d,S0662,Math,Probability,Why is Probability important?,The key concept of Probability is ...,False
+d5bc3381-e49a-4b8b-947e-9daa1046e8ae,S0662,Science,Biology,Give an example of Biology.,Biology can be explained as ...,False
+2e5da5f9-c3ff-44e3-8b76-6a0a0efa6797,S0662,Economics,Micro,Define Micro.,Micro can be explained as ...,True
+ee7ce504-08a6-4d58-8b8a-eea470b01658,S0662,Computer Science,Algorithms,Why is Algorithms important?,The key concept of Algorithms is ...,False
+f04f8699-52f5-4841-ad1c-a799f046bcd1,S0358,Social Science,History,Define History.,History is defined as ...,True
+d9949ffe-f401-4d59-84e4-404af7933b35,S0358,Science,Biology,Define Biology.,The key concept of Biology is ...,True
+06fe0368-945f-4776-8219-4e68797b0a33,S0358,History,Revolutions,Give an example of Revolutions.,An example of Revolutions: ...,False
+f421ca8c-f3b1-44d5-8b3e-83a8906fa265,S0358,English,Literature,Define Literature.,An example of Literature: ...,False
+429392b6-3a0b-4813-af8f-fbeb62cb238d,S0358,Math,Trigonometry,Why is Trigonometry important?,Trigonometry is important because ...,True
+ec661fc2-0ff9-4aad-89e3-8dda1326a137,S0358,English,Writing Skills,Explain Writing Skills in brief.,An example of Writing Skills: ...,True
+0f0ed75b-0beb-472f-8466-a416b8621fbc,S0358,Economics,Macro,What is the key concept of Macro?,Macro is important because ...,True
+628a94b9-5408-4ea0-9638-baa4e1adcee1,S0358,Economics,Micro,Explain Micro in brief.,Micro can be explained as ...,True
+fd5007b2-1f3c-4f80-ab88-0e5ccdf467a2,S0696,Science,Ecology,Define Ecology.,The key concept of Ecology is ...,False
+d49bfe78-55ab-4467-9c63-b5c93140b934,S0696,Math,Calculus,Why is Calculus important?,An example of Calculus: ...,True
+da5392b6-b4a1-41e9-82b8-755bd4b1ec19,S0696,Math,Calculus,Define Calculus.,Calculus is important because ...,False
+8701cc19-df00-4db0-af44-2f7a5a8449e6,S0696,English,Literature,Give an example of Literature.,Literature is important because ...,True
+af5e630c-6d7d-47fc-b06b-ccab6c509c9b,S0696,Computer Science,AI,What is the key concept of AI?,AI is important because ...,True
+2b804b00-3a40-48ae-beca-995f16a3e6aa,S0696,History,Ancient,What is the key concept of Ancient?,An example of Ancient: ...,True
+e060b6d3-16bb-4a4e-b918-268b17aa72ae,S0696,Math,Algebra,Give an example of Algebra.,The key concept of Algebra is ...,True
+a6487424-c11d-4209-b2cb-90ed53728120,S0696,Math,Trigonometry,What is the key concept of Trigonometry?,The key concept of Trigonometry is ...,True
+6f3204b4-2d08-4836-8040-74ec74e07fe5,S0091,Computer Science,Programming,Why is Programming important?,Programming is defined as ...,False
+d106da9d-b6a4-4556-9c02-a29b9f09a678,S0091,Social Science,Geography,Give an example of Geography.,Geography is important because ...,True
+9ef0ca29-d9c0-4b2a-b84d-ad2a4094629c,S0091,History,Revolutions,What is the key concept of Revolutions?,Revolutions can be explained as ...,True
+17df41e7-6ef5-406a-8245-02e2fc51cd37,S0091,Economics,Micro,Give an example of Micro.,An example of Micro: ...,False
+cf128cab-f9ad-4fbc-bce9-b20beb838144,S0091,English,Literature,Explain Literature in brief.,An example of Literature: ...,False
+39d68fed-9747-47c8-abb8-155b38f36209,S0091,Social Science,Civics,What is the key concept of Civics?,Civics can be explained as ...,True
+13f92261-c69f-416b-8b1e-270492b89b38,S0091,Economics,Micro,Give an example of Micro.,Micro can be explained as ...,True
+4c406311-38e8-478f-98b1-4f927d8f8e0a,S0091,History,Medieval,Give an example of Medieval.,The key concept of Medieval is ...,False
+0ea52b18-1dad-47ff-a466-ca085d652a5a,S0686,Economics,Micro,Why is Micro important?,Micro is important because ...,True
+5402b738-0b01-463a-8ca2-65dc1fccd62c,S0686,Computer Science,Programming,Explain Programming in brief.,Programming is important because ...,False
+aa2b8b0f-75b4-49c0-be49-0c039fc0c47f,S0686,History,Revolutions,Give an example of Revolutions.,Revolutions is defined as ...,False
+a48beaf9-b0aa-473a-a6ab-1c888bedfdf3,S0686,History,Medieval,What is the key concept of Medieval?,An example of Medieval: ...,True
+c5b8ead2-debf-49ae-97be-dba545b3ea5c,S0686,History,Ancient,What is the key concept of Ancient?,Ancient is defined as ...,False
+931e3450-c1ec-4da1-97ce-46fd36b1524d,S0686,Social Science,History,Define History.,History is defined as ...,False
+35f1c7e2-5e04-4e65-999e-6d89a9709251,S0686,Science,Chemistry,Give an example of Chemistry.,The key concept of Chemistry is ...,False
+dd8d4374-6b8c-4dba-9aac-dfa731ee0fa8,S0686,Math,Trigonometry,Give an example of Trigonometry.,The key concept of Trigonometry is ...,True
+095c0f9d-e96a-4bd5-a40f-6df6c08987ec,S0678,Economics,Micro,Give an example of Micro.,Micro is important because ...,False
+9a84d8ab-3942-42c0-aacf-9c6001d9cd0b,S0678,Social Science,Geography,Give an example of Geography.,Geography is important because ...,True
+f76d0146-72da-4357-82b6-3d61c4438077,S0678,Economics,Development,Give an example of Development.,The key concept of Development is ...,False
+ebecab7c-fbf9-4018-8a1f-633e105d08b3,S0678,Social Science,Geography,Define Geography.,The key concept of Geography is ...,True
+3ec68a4e-61d7-4911-9616-ffe85ccf83d5,S0678,Computer Science,Networking,Define Networking.,An example of Networking: ...,True
+4abdfe02-13dc-411b-aca4-56707b111d59,S0678,Social Science,Economics,Explain Economics in brief.,Economics is defined as ...,True
+27d862c8-4ea2-4de3-88eb-f3ab7591106a,S0678,Math,Probability,Give an example of Probability.,Probability can be explained as ...,False
+c4af3a05-942a-4725-8804-2a7384b416d5,S0678,History,Revolutions,What is the key concept of Revolutions?,Revolutions is defined as ...,False
+350017b8-cccb-4d34-a640-b28f178403ec,S0724,Science,Biology,What is the key concept of Biology?,The key concept of Biology is ...,False
+f934af39-d0b2-451b-9663-fb4842556719,S0724,Science,Physics,Why is Physics important?,An example of Physics: ...,False
+0b15c970-870e-42f5-831a-0d7e9a8f5039,S0724,Science,Genetics,Explain Genetics in brief.,An example of Genetics: ...,True
+b9d30b92-f0e2-4cab-9415-dab5df182009,S0724,Science,Ecology,Why is Ecology important?,Ecology is important because ...,True
+e4ce58e0-cd6a-43c4-a070-b4e73f161dd7,S0724,History,World Wars,What is the key concept of World Wars?,An example of World Wars: ...,True
+9fa63e0a-1658-4580-868c-449c0c25c45e,S0724,Science,Biology,Give an example of Biology.,Biology can be explained as ...,True
+eec8fa1b-2438-43f0-b617-beb0d2e7ed1f,S0724,Math,Geometry,What is the key concept of Geometry?,The key concept of Geometry is ...,True
+2b1b63bf-11cb-49bb-962f-507d22022ca5,S0724,Computer Science,Databases,Give an example of Databases.,The key concept of Databases is ...,True
+93c61945-df87-46db-8203-f9ffc85802f8,S0381,Social Science,Economics,Explain Economics in brief.,Economics is important because ...,False
+3e3a64f1-e176-419a-9f64-d0ab258850b2,S0381,Computer Science,Algorithms,What is the key concept of Algorithms?,Algorithms is important because ...,True
+9d5f03ac-2f26-4eee-9270-e27d4efd62fd,S0381,English,Literature,Define Literature.,An example of Literature: ...,True
+1fab2a34-4d49-4c67-bea9-064af6da5e99,S0381,English,Writing Skills,Explain Writing Skills in brief.,Writing Skills can be explained as ...,False
+9f0ec74e-412b-4b93-bc5d-ae84c7d225c8,S0381,Science,Genetics,What is the key concept of Genetics?,The key concept of Genetics is ...,True
+9cbcb1aa-a6bd-49eb-b830-b07d57b69fa5,S0381,English,Writing Skills,Define Writing Skills.,Writing Skills is defined as ...,False
+49edb1c1-e66e-494f-89ce-e28db7120865,S0381,English,Literature,Explain Literature in brief.,Literature is defined as ...,False
+cac395ff-a2c0-4474-9243-c7f24c3f36fd,S0381,English,Poetry,What is the key concept of Poetry?,An example of Poetry: ...,True
+cd94007f-bd0b-4d56-bf9b-34f98f8fc9b5,S0054,Science,Physics,What is the key concept of Physics?,Physics is important because ...,True
+27ba65aa-03b3-487b-bad2-f0f2aed97b93,S0054,Economics,Development,What is the key concept of Development?,The key concept of Development is ...,False
+ce8cf3e7-2ebe-420d-88d0-29d61f49fdb5,S0054,Social Science,Sociology,Explain Sociology in brief.,Sociology is important because ...,True
+01c4e7e9-89d3-43bd-b066-6b42fd656188,S0054,Computer Science,Programming,Define Programming.,The key concept of Programming is ...,False
+6ad80f94-2250-48af-b64f-ce741aa45766,S0054,Science,Genetics,Define Genetics.,An example of Genetics: ...,True
+2718a232-e710-41b8-8261-f589a7bcafe7,S0054,Social Science,Economics,Explain Economics in brief.,The key concept of Economics is ...,True
+b0337422-0bf2-4eda-af6b-71fbc3557dc3,S0054,Computer Science,AI,Explain AI in brief.,An example of AI: ...,True
+c21f51f1-7518-4d53-ac43-c5d61a20af5c,S0054,Science,Physics,Define Physics.,Physics can be explained as ...,True
+26b72d8a-5da1-4e48-8b57-a4a70fb7a624,S0507,Computer Science,AI,Define AI.,AI can be explained as ...,True
+a8195028-5119-4103-b9e2-718856f0c6eb,S0507,Social Science,Economics,Define Economics.,Economics is defined as ...,True
+c3615695-4d9e-48ef-aeb5-7d6a7b5f6684,S0507,Math,Algebra,Give an example of Algebra.,Algebra is important because ...,True
+1e22c587-9e22-4d42-8924-b0a80cab12d1,S0507,Social Science,Sociology,Define Sociology.,The key concept of Sociology is ...,False
+15bf6c13-fd53-43c3-ad89-a91132fb5fe1,S0507,History,Ancient,Define Ancient.,Ancient can be explained as ...,True
+4f6038ed-fa08-4e1e-8da0-c5263dcba1c9,S0507,History,World Wars,Explain World Wars in brief.,An example of World Wars: ...,True
+5282f740-c619-44cf-a548-9789e34f0133,S0507,Economics,Micro,Define Micro.,Micro is important because ...,False
+d39591d9-6ed0-4b77-a856-2bf1ad870852,S0507,Computer Science,Networking,Define Networking.,Networking is important because ...,False
+3e9a67f8-4844-4169-a797-5e7cfa4b9600,S0371,Economics,Macro,Give an example of Macro.,The key concept of Macro is ...,True
+6c8f8895-c631-4e72-85ee-be0541924d18,S0371,Computer Science,AI,Give an example of AI.,AI is important because ...,True
+9ca90377-ef73-4cf9-89cc-a804117d97ea,S0371,Economics,Micro,Explain Micro in brief.,Micro is defined as ...,False
+e3294169-1dc8-4f48-92b1-11291398f0e4,S0371,History,Medieval,Explain Medieval in brief.,Medieval can be explained as ...,True
+4c53ad00-c0a6-4c99-a19e-c3eccae00b03,S0371,Computer Science,AI,Give an example of AI.,An example of AI: ...,True
+66c1fdef-37f1-4dc5-9d84-813553eca7b9,S0371,Social Science,Economics,What is the key concept of Economics?,The key concept of Economics is ...,True
+2c98166c-a8f6-44ef-a53c-58d302188c8b,S0371,English,Grammar,Why is Grammar important?,Grammar is defined as ...,True
+47998fbc-6b41-4b42-b6c2-9ae5786df295,S0371,Science,Ecology,What is the key concept of Ecology?,The key concept of Ecology is ...,True
+b4a95e79-7a75-4bd7-9f0c-fb5a8c96c182,S0780,History,Ancient,Explain Ancient in brief.,Ancient is defined as ...,False
+59655a9a-39f4-4556-912e-9d001dae9cbe,S0780,English,Comprehension,Explain Comprehension in brief.,An example of Comprehension: ...,True
+f9777454-31d4-4e00-ac4c-fc7dbca63a84,S0780,History,Modern,What is the key concept of Modern?,Modern is important because ...,True
+3d2ccf49-2b7d-4577-9afc-c75cf6d5688f,S0780,Computer Science,Networking,Explain Networking in brief.,Networking is defined as ...,False
+45992526-12ac-4c9d-85d4-331558efcb5f,S0780,Math,Calculus,Give an example of Calculus.,Calculus is important because ...,True
+d9163b16-c37e-4ad9-bd52-df996fd2992e,S0780,Economics,Macro,What is the key concept of Macro?,Macro is defined as ...,True
+7f2595d6-500c-4147-b974-7cedfc4d3954,S0780,English,Literature,What is the key concept of Literature?,The key concept of Literature is ...,True
+445633c8-12c9-4d7e-bfe1-b146243b4018,S0780,English,Poetry,Give an example of Poetry.,An example of Poetry: ...,True
+430de143-d47a-4bbd-904e-d8360cb57b58,S0395,English,Literature,What is the key concept of Literature?,Literature can be explained as ...,False
+8d251422-dc65-4532-8859-3554349b4548,S0395,Math,Probability,Explain Probability in brief.,The key concept of Probability is ...,False
+a307067e-24ea-440a-9e5b-5f23e3f3a6fa,S0395,Economics,Micro,Give an example of Micro.,An example of Micro: ...,False
+636cf2d8-2de9-4d64-996f-435b4ab4857e,S0395,Math,Calculus,What is the key concept of Calculus?,An example of Calculus: ...,False
+4c2e33eb-ae95-47b3-92a7-d9848aa13b05,S0395,Computer Science,Networking,Explain Networking in brief.,An example of Networking: ...,True
+001715c3-c1bf-4737-bb49-d2d7493e8c5b,S0395,Math,Probability,Explain Probability in brief.,Probability can be explained as ...,True
+92da08f9-76c0-4e4c-91ed-9775c544f2e9,S0395,Economics,Finance,Give an example of Finance.,Finance is important because ...,False
+401608cd-7053-4b97-b18a-8e51e6f71e2b,S0395,Science,Chemistry,What is the key concept of Chemistry?,Chemistry can be explained as ...,False
+80455839-62df-4cad-8219-9636428f11c1,S0088,Social Science,Civics,Give an example of Civics.,Civics is defined as ...,False
+bfc522cb-2332-49a3-990f-a222070649d8,S0088,Math,Algebra,Why is Algebra important?,The key concept of Algebra is ...,False
+b50688c8-91c5-430b-9d4b-6c9f92bc0042,S0088,Social Science,Geography,Give an example of Geography.,Geography is defined as ...,True
+94c2d83e-ebde-4a3d-b2c5-40f3f11e7015,S0088,Science,Genetics,Explain Genetics in brief.,An example of Genetics: ...,True
+93e25f80-f351-4c82-b156-9d8546ba738d,S0088,English,Writing Skills,What is the key concept of Writing Skills?,An example of Writing Skills: ...,True
+513e89ee-6825-4ea6-908b-bbd69477dfdf,S0088,Social Science,Geography,Explain Geography in brief.,The key concept of Geography is ...,True
+c53c44ad-67c7-4a61-9ac1-fe47fef1d1ed,S0088,Math,Trigonometry,Give an example of Trigonometry.,An example of Trigonometry: ...,False
+45589e12-2d8b-40a0-ae40-39c40cd89e98,S0088,Economics,Development,What is the key concept of Development?,The key concept of Development is ...,True
+3757dc22-81ee-4e47-b4df-288f8afdb5a3,S0712,Social Science,Economics,Define Economics.,An example of Economics: ...,True
+741f3e4c-73e6-4cd4-9a6a-a2de100038aa,S0712,Math,Trigonometry,What is the key concept of Trigonometry?,An example of Trigonometry: ...,True
+8dc34713-fc56-4d74-88f9-163d4cd33671,S0712,English,Literature,Why is Literature important?,Literature can be explained as ...,False
+2d475dde-18b3-4f3e-a682-a0546202fd3b,S0712,Math,Probability,Give an example of Probability.,Probability is defined as ...,True
+7af54c12-28b4-4b2f-8a5e-fd3a0c8ce63d,S0712,Social Science,Geography,Why is Geography important?,Geography is defined as ...,True
+824d562d-f6b7-48d8-b9e5-a17d1575c366,S0712,Economics,Micro,Why is Micro important?,Micro is defined as ...,False
+debba86e-c3a8-4f5a-b616-67c4e2916ba2,S0712,Math,Probability,Define Probability.,Probability is defined as ...,True
+ddf388ca-6ebc-4850-8c90-589ae614d581,S0712,Social Science,Civics,Define Civics.,The key concept of Civics is ...,False
+e38d925d-80d2-4dc5-a1c8-19d6a95e3ef1,S0129,Computer Science,Programming,What is the key concept of Programming?,Programming can be explained as ...,True
+2f495932-86e1-4d87-8b97-e40fec5cfa76,S0129,Science,Biology,Explain Biology in brief.,Biology is defined as ...,False
+e76b187c-9a8a-4c28-91b5-39a001a168e5,S0129,English,Writing Skills,Give an example of Writing Skills.,Writing Skills is important because ...,False
+583e5eda-4d2f-4750-94b7-f4e03eeeabfd,S0129,Social Science,Sociology,Explain Sociology in brief.,Sociology can be explained as ...,True
+a675bef6-d417-400a-880e-a744950a76bc,S0129,Math,Geometry,Explain Geometry in brief.,An example of Geometry: ...,True
+eafde57b-c707-41f6-9d23-5e2666872afe,S0129,Computer Science,Databases,Explain Databases in brief.,An example of Databases: ...,True
+17361081-0b36-4fcb-a0ab-7715bc23c988,S0129,Math,Probability,Why is Probability important?,An example of Probability: ...,True
+9d3a7575-4f57-43a9-80fd-f26802c6871e,S0129,English,Comprehension,Explain Comprehension in brief.,Comprehension is defined as ...,False
+3f61100f-1924-4f22-893a-571077d21c45,S0015,History,Ancient,Define Ancient.,An example of Ancient: ...,True
+4abc5997-1d01-4355-9de3-f1f0429f0e03,S0015,History,Ancient,Why is Ancient important?,Ancient is important because ...,False
+1cad61e6-17be-4189-ad8f-7bb1f8f3036e,S0015,English,Literature,What is the key concept of Literature?,An example of Literature: ...,False
+245665bf-90fa-4d40-8ffa-adc74cc23435,S0015,Economics,Trade,Explain Trade in brief.,Trade is important because ...,False
+43117841-e51f-45ce-9da2-5d42537b76ef,S0015,Science,Biology,What is the key concept of Biology?,The key concept of Biology is ...,True
+61cef396-b64a-4304-8b53-d5057367cf41,S0015,Science,Chemistry,Give an example of Chemistry.,Chemistry is important because ...,True
+44c5439c-a619-440c-be11-6e45159ccaed,S0015,Computer Science,Databases,Define Databases.,Databases can be explained as ...,False
+cb75b32a-3bb0-459a-9e84-d7a97999550e,S0015,History,Revolutions,Give an example of Revolutions.,An example of Revolutions: ...,False
+b33833cc-dca7-4ab2-a484-2b4f6767ef1e,S0292,English,Poetry,Why is Poetry important?,An example of Poetry: ...,True
+7a8a3130-3275-4564-b568-6fa609edfd06,S0292,Economics,Trade,Give an example of Trade.,An example of Trade: ...,False
+85a0a391-32f2-4e0c-9bdd-c24883b38497,S0292,History,Revolutions,Define Revolutions.,Revolutions is defined as ...,False
+00575319-af21-4fc2-87cf-e8439fea9065,S0292,Social Science,History,Explain History in brief.,History can be explained as ...,False
+4c213de0-1f49-4e36-9171-4480283e7ea5,S0292,Science,Biology,Why is Biology important?,Biology is important because ...,False
+994b014b-c6f7-41c7-b68b-86445bb50be2,S0292,Social Science,Geography,Why is Geography important?,Geography is important because ...,True
+db290936-9b60-46cb-93fc-78217794286c,S0292,History,Medieval,Why is Medieval important?,Medieval is defined as ...,False
+d5b224ae-fc54-4f4f-90cf-30121b140634,S0292,English,Literature,What is the key concept of Literature?,Literature is defined as ...,False
+5b080755-8c12-4caa-be28-5a945135361b,S0745,History,Medieval,Define Medieval.,Medieval is defined as ...,False
+00189456-4bbb-498c-baf0-141626de30d1,S0745,Computer Science,Databases,Why is Databases important?,An example of Databases: ...,True
+4ed7b17e-3afb-42cf-96b0-d9cca8497ce5,S0745,Social Science,History,Why is History important?,History is defined as ...,True
+46dc58bd-fcb4-4787-b756-603bf7f93293,S0745,Economics,Micro,Why is Micro important?,The key concept of Micro is ...,False
+292f77b5-b1de-4e54-83dd-02f6fa37a95a,S0745,Science,Physics,Define Physics.,The key concept of Physics is ...,True
+d6ab6f33-9c3a-4ca3-85c5-a14bcfc5a81a,S0745,Economics,Trade,Define Trade.,Trade is defined as ...,False
+ec0dbf10-6a79-4636-91a8-33eb76b25763,S0745,Math,Algebra,What is the key concept of Algebra?,An example of Algebra: ...,False
+f1103910-1307-4858-bf9c-4857531fab2c,S0745,Science,Ecology,Why is Ecology important?,Ecology can be explained as ...,False
+fbda9e24-cbb1-4134-82b0-763b9bd481f1,S0744,Math,Trigonometry,What is the key concept of Trigonometry?,The key concept of Trigonometry is ...,True
+0231b0d1-b855-4ac2-9a6a-74fa90cbcb45,S0744,Computer Science,AI,Why is AI important?,AI can be explained as ...,False
+f54eb00f-2daf-42e9-84fc-a0fb4cff97fc,S0744,Computer Science,Databases,Explain Databases in brief.,Databases can be explained as ...,False
+99279e59-57b0-4256-8dff-09ae3e0d7e84,S0744,Computer Science,Networking,Give an example of Networking.,Networking is defined as ...,True
+82563685-8735-442c-a397-9d74903324e6,S0744,English,Poetry,Why is Poetry important?,An example of Poetry: ...,False
+32df8b26-5ff1-4b28-b7ac-3dcddc939436,S0744,Economics,Development,Why is Development important?,Development can be explained as ...,True
+aa3b3290-c5c2-46d2-aed4-07975d8fa0c2,S0744,Computer Science,Databases,Explain Databases in brief.,An example of Databases: ...,True
+fcb1cc9c-388e-4249-9b1b-6834cc9957a7,S0744,History,World Wars,Give an example of World Wars.,The key concept of World Wars is ...,True
+861da626-843d-46df-b11a-53733e8e7f6a,S0473,Computer Science,AI,Explain AI in brief.,AI is defined as ...,True
+b366a605-5c21-46fa-bc3f-2665b50d1b96,S0473,Social Science,Economics,What is the key concept of Economics?,Economics can be explained as ...,True
+71ae7e56-560e-420f-ba5f-632e7bc8071d,S0473,History,Medieval,Why is Medieval important?,The key concept of Medieval is ...,True
+313584ea-31f9-4eb5-afad-dcd8805df53a,S0473,Math,Trigonometry,Define Trigonometry.,Trigonometry is important because ...,False
+167a0b4f-00a5-408a-8ec7-c6859a6e1215,S0473,Math,Probability,Define Probability.,The key concept of Probability is ...,True
+a1d0d680-c293-467e-a5f9-aab209c8a8bd,S0473,Computer Science,Networking,Define Networking.,Networking is defined as ...,True
+2b61bfb8-f8d9-4fcc-abad-e95ecd5eb197,S0473,Economics,Development,Explain Development in brief.,The key concept of Development is ...,False
+4a8176a2-e161-4d6b-b440-94cf536fdb03,S0473,Computer Science,Networking,What is the key concept of Networking?,Networking is important because ...,True
+d362f7b2-a72a-496e-8b33-d13b26289fef,S0399,English,Writing Skills,What is the key concept of Writing Skills?,The key concept of Writing Skills is ...,True
+619c140f-8e71-4b85-9ef4-7822ab56e789,S0399,Science,Genetics,Explain Genetics in brief.,Genetics is important because ...,True
+037cf35a-937d-4095-bccb-ab15fe84078c,S0399,Computer Science,Databases,Give an example of Databases.,Databases can be explained as ...,False
+566f4670-a911-423e-87a9-7cbc7925809c,S0399,Science,Biology,Why is Biology important?,Biology can be explained as ...,False
+6faf4b2d-3fd3-49f0-8872-61b5c2f166e4,S0399,Social Science,Economics,Give an example of Economics.,Economics is defined as ...,False
+e5bd1962-369e-4ce4-85de-a855fa182c1f,S0399,English,Literature,What is the key concept of Literature?,The key concept of Literature is ...,True
+402301fb-ca0b-4d18-b2df-19a3f1270959,S0399,English,Writing Skills,Explain Writing Skills in brief.,Writing Skills is defined as ...,False
+4e99e00f-c2d5-44ef-b96a-1e3eeb3c1929,S0399,Math,Probability,Give an example of Probability.,Probability is important because ...,False
+c25852d1-9d2e-4a20-9616-0117e9390c77,S0555,Social Science,History,What is the key concept of History?,History is defined as ...,True
+433981e7-7fed-4c0f-99f0-35df576564b8,S0555,Math,Probability,Give an example of Probability.,Probability is important because ...,False
+7a72c3e2-ab1f-490d-be17-455c9d3c3895,S0555,History,Medieval,Define Medieval.,The key concept of Medieval is ...,True
+010a039f-86c1-4faa-a032-e6bfc8513776,S0555,English,Grammar,What is the key concept of Grammar?,Grammar can be explained as ...,False
+6bf0edd2-0633-4945-b9e7-2a0406f45a0f,S0555,Economics,Finance,Why is Finance important?,An example of Finance: ...,True
+7c3a7ce8-2469-4d69-923a-063186ea2c21,S0555,Social Science,Economics,Define Economics.,Economics is defined as ...,True
+db63d457-a589-4113-947b-43d2ad48ac68,S0555,Economics,Trade,Why is Trade important?,Trade is defined as ...,True
+d7d1dfdd-e22c-4cec-97e2-a8a1738ef535,S0555,Social Science,Sociology,Why is Sociology important?,Sociology is defined as ...,False
+bba3cfdf-6e0b-441e-b3e3-90d660ad59c1,S0919,History,World Wars,Why is World Wars important?,World Wars can be explained as ...,False
+35ed2530-e40a-466b-9bf4-83fb07ad7181,S0919,History,Modern,Give an example of Modern.,An example of Modern: ...,False
+82c62bf1-2e83-4070-8107-3103b36191a8,S0919,Computer Science,Algorithms,Give an example of Algorithms.,Algorithms is important because ...,False
+d8f3d21c-1343-4abb-8ccc-41206e8886f5,S0919,Science,Physics,Explain Physics in brief.,An example of Physics: ...,False
+01da4def-26f5-4ee4-a55a-e811a9984a9d,S0919,Computer Science,Algorithms,Give an example of Algorithms.,Algorithms is important because ...,True
+15038f03-7723-467f-a155-9a1a145def55,S0919,Science,Chemistry,What is the key concept of Chemistry?,The key concept of Chemistry is ...,False
+c85ae878-9407-42cd-9d5d-09e7c40fcf8a,S0919,History,Modern,Give an example of Modern.,The key concept of Modern is ...,True
+5a5d9436-6aeb-4cee-9f93-19bd744df3f4,S0919,Economics,Micro,Define Micro.,Micro is defined as ...,True
+f05e8a54-f689-4364-babb-aa9426181e00,S0391,Computer Science,Networking,Give an example of Networking.,An example of Networking: ...,False
+1c5b8b62-12ac-4fe5-adc6-e79f5cb55895,S0391,Computer Science,Programming,Why is Programming important?,An example of Programming: ...,False
+180168aa-ac67-4b84-9dcc-a1e478fadffa,S0391,English,Comprehension,Explain Comprehension in brief.,The key concept of Comprehension is ...,True
+5e300fcf-c291-4eba-b2ea-450b730a08bd,S0391,English,Writing Skills,Why is Writing Skills important?,An example of Writing Skills: ...,True
+aee2d359-3223-4f31-90c0-68a88e962cba,S0391,English,Writing Skills,What is the key concept of Writing Skills?,The key concept of Writing Skills is ...,True
+cd66fcbf-3f7f-4d39-88f6-80c2ec65d451,S0391,Math,Geometry,Give an example of Geometry.,Geometry can be explained as ...,True
+c6ab3fb6-d11e-49e6-b29b-2eeee523bd11,S0391,Math,Probability,What is the key concept of Probability?,An example of Probability: ...,True
+a8bc7a6e-c691-4319-a1c6-f7d3b54e2f99,S0391,Math,Probability,What is the key concept of Probability?,Probability can be explained as ...,False
+79a400d4-7d0d-4ba5-8688-625bb1b313c7,S0400,English,Poetry,Give an example of Poetry.,Poetry is defined as ...,True
+ab3afe68-e965-4246-8ffa-698a9786aef6,S0400,Science,Biology,Why is Biology important?,Biology is important because ...,False
+663f3e35-281f-4ca4-b816-c14595696f90,S0400,Social Science,Economics,Give an example of Economics.,An example of Economics: ...,True
+bfb5775f-ae4c-4340-a014-aad30bae26c1,S0400,Social Science,Sociology,Give an example of Sociology.,An example of Sociology: ...,True
+3c6b7288-636e-4df1-956e-cb1e5bf0946a,S0400,Economics,Macro,Explain Macro in brief.,An example of Macro: ...,True
+38396f24-25c8-4e78-bbc2-5b1662c388bd,S0400,Science,Genetics,Give an example of Genetics.,Genetics can be explained as ...,True
+211b2da3-1471-469c-9d96-d6d017b0b433,S0400,Math,Probability,What is the key concept of Probability?,The key concept of Probability is ...,True
+901dc91e-d10b-4c72-b297-2bbfa6cb2604,S0400,Social Science,Civics,Why is Civics important?,Civics can be explained as ...,True
+75dceeff-a650-4758-b407-0d0ad95f302c,S0796,Computer Science,Programming,Why is Programming important?,Programming can be explained as ...,False
+f92942f8-09cd-438b-a6f5-3bbbeacf6062,S0796,History,Medieval,Give an example of Medieval.,Medieval is important because ...,False
+f43f5964-ce67-49a9-9676-cb1dd6ef7c57,S0796,History,Ancient,Explain Ancient in brief.,Ancient is defined as ...,False
+31a63ea3-53a1-427f-8889-4364d18d521f,S0796,Computer Science,Programming,Define Programming.,Programming is defined as ...,True
+fca245bb-cf1a-41d0-892c-acf5ed970e19,S0796,English,Writing Skills,Define Writing Skills.,Writing Skills can be explained as ...,False
+01aed000-832f-4e15-a4c0-86ebfbafdde7,S0796,Math,Trigonometry,What is the key concept of Trigonometry?,An example of Trigonometry: ...,True
+298203e1-4cab-426f-a219-fd6a1fd4e1f1,S0796,History,Ancient,What is the key concept of Ancient?,An example of Ancient: ...,False
+f3d56d9a-984f-4cfb-a77f-67a8c062377c,S0796,English,Comprehension,Why is Comprehension important?,The key concept of Comprehension is ...,False
+9f46d881-de1a-4e04-b24d-b27120b9c243,S0315,Computer Science,Networking,Define Networking.,The key concept of Networking is ...,False
+29e9884e-d84b-4906-bd6f-f38444c817b7,S0315,Science,Chemistry,Explain Chemistry in brief.,Chemistry is important because ...,True
+2d3ec9cf-f477-4392-b85f-a1f12ed86fe3,S0315,Economics,Development,What is the key concept of Development?,Development is important because ...,False
+aae291d8-7f27-439c-9707-7f278980d046,S0315,Economics,Micro,Define Micro.,Micro is defined as ...,True
+bd4d73e5-a443-42bc-b9c2-7e44d7f21486,S0315,Science,Chemistry,Why is Chemistry important?,Chemistry is important because ...,False
+71099e61-cb66-452b-9050-65dbd2b8d030,S0315,History,Medieval,Define Medieval.,Medieval is important because ...,False
+041f3eb0-4587-4842-ad38-2b1c731c9bdd,S0315,English,Poetry,Explain Poetry in brief.,Poetry is defined as ...,False
+d9fd2668-c84c-4be4-b184-4dbd4b76f42c,S0315,Economics,Trade,Give an example of Trade.,Trade is important because ...,True
+94079998-a8dc-4b94-be69-237b45729ff2,S0577,Computer Science,AI,Why is AI important?,AI is defined as ...,False
+639d5fe6-9f86-4373-9438-ecdead30524e,S0577,Computer Science,AI,Explain AI in brief.,The key concept of AI is ...,False
+2345493d-44f2-4cd2-b7e8-abee0c2bcc98,S0577,Science,Genetics,What is the key concept of Genetics?,The key concept of Genetics is ...,True
+60a485a6-ece5-4447-93fd-581fbd574c20,S0577,Computer Science,AI,What is the key concept of AI?,The key concept of AI is ...,False
+bc554c66-fefa-47ea-82d7-d053816ea344,S0577,English,Writing Skills,Define Writing Skills.,Writing Skills can be explained as ...,True
+e36dfed8-3597-48b7-88c3-fae9f9a906d6,S0577,Economics,Macro,Define Macro.,An example of Macro: ...,False
+d2a4847e-2acc-42df-ba77-3e0ad3ce97b5,S0577,English,Literature,Explain Literature in brief.,Literature can be explained as ...,True
+e73fcfb2-0ebd-4dd2-92c0-238a6ed85728,S0577,Computer Science,AI,Explain AI in brief.,AI is important because ...,True
+2b1d8570-0c0c-45d8-9062-8cc9460c49ca,S0326,English,Comprehension,Explain Comprehension in brief.,Comprehension is important because ...,False
+37623e20-d929-42d7-8f4f-3afce0362c1e,S0326,Science,Genetics,Explain Genetics in brief.,Genetics is important because ...,True
+cecf556e-23ee-4fa2-b2fd-734cba634d28,S0326,Science,Biology,Give an example of Biology.,Biology is defined as ...,False
+ca94c466-c073-4e3f-858f-2a6816a0f8f6,S0326,Science,Biology,Why is Biology important?,Biology is defined as ...,True
+c0100cda-bc2f-4be4-8ad7-66c292c7ce2c,S0326,History,Revolutions,What is the key concept of Revolutions?,The key concept of Revolutions is ...,False
+6fb6e8fc-7d04-41b4-bd1a-9a9841019cf9,S0326,Math,Algebra,Explain Algebra in brief.,Algebra is important because ...,True
+304e0e31-9875-4306-891a-fd84af68bfce,S0326,Economics,Trade,Define Trade.,Trade is defined as ...,True
+a5c5aa11-4a8d-4907-b694-0f8a2f421f1b,S0326,Math,Geometry,Explain Geometry in brief.,Geometry is defined as ...,False
+28600f35-b968-4f13-a8f4-55429addeca2,S0782,Computer Science,Databases,Define Databases.,Databases is important because ...,False
+1ba950bc-d446-4427-9679-001b9894a1c9,S0782,Computer Science,Networking,Explain Networking in brief.,The key concept of Networking is ...,True
+a772d88b-6537-4050-9e01-7901c0411010,S0782,Social Science,Geography,Give an example of Geography.,The key concept of Geography is ...,False
+6eba0405-2441-4c38-859f-b72192381267,S0782,History,Medieval,Define Medieval.,Medieval is important because ...,True
+2f140b40-cdbe-4bb5-a8fb-92c7509ac5e4,S0782,Economics,Finance,Explain Finance in brief.,Finance is important because ...,True
+de31e80d-81dd-400d-904f-11e1adf91ebf,S0782,Science,Chemistry,What is the key concept of Chemistry?,An example of Chemistry: ...,False
+12ec860a-7d2e-4d1f-adbd-3684d9f7dae6,S0782,Science,Chemistry,Explain Chemistry in brief.,Chemistry is important because ...,True
+424722b6-1bc7-4be6-b3cc-defb85eb4b07,S0782,History,World Wars,What is the key concept of World Wars?,World Wars is defined as ...,False
+3445649f-05a9-4d3f-aae8-cabe8171640e,S0984,Economics,Micro,Give an example of Micro.,Micro is important because ...,True
+edba6de8-b1d2-465f-94bc-8946f9a0d776,S0984,Social Science,Civics,Explain Civics in brief.,The key concept of Civics is ...,False
+450897f9-01bb-49a4-8ec8-43c99126232a,S0984,Science,Genetics,Define Genetics.,Genetics is important because ...,False
+a7cd6132-d902-4924-b121-b5e5a1dc6fd8,S0984,English,Literature,Explain Literature in brief.,Literature is defined as ...,True
+25e80bce-2c78-4121-8d41-4bccbc597b67,S0984,Economics,Macro,Give an example of Macro.,An example of Macro: ...,True
+e94573c3-20b2-4279-b083-8a9336338675,S0984,Math,Probability,What is the key concept of Probability?,Probability can be explained as ...,True
+6b1004e7-f12a-41a2-8f5b-f15317510c15,S0984,English,Writing Skills,Give an example of Writing Skills.,Writing Skills is defined as ...,True
+34a1a6e0-1ef9-4abc-a84a-0b7efb6615ac,S0984,Computer Science,AI,Explain AI in brief.,An example of AI: ...,False
+5277ad95-5958-4813-8148-9ca91af09cb8,S0738,Science,Chemistry,Give an example of Chemistry.,The key concept of Chemistry is ...,True
+f41e3906-5865-4eae-a435-33dcb77f58d6,S0738,English,Writing Skills,Why is Writing Skills important?,Writing Skills is important because ...,True
+a906b0c8-e991-4484-894e-41f30770dfa1,S0738,English,Comprehension,Define Comprehension.,Comprehension is important because ...,True
+c7cc4741-f637-4740-b3f5-1028460414b6,S0738,Science,Ecology,Why is Ecology important?,The key concept of Ecology is ...,False
+401dd05c-1df2-42f2-8ecc-1d5d5360e868,S0738,English,Writing Skills,Why is Writing Skills important?,Writing Skills is important because ...,False
+0e1ba1d2-3f5d-4586-bfe1-fd68057ac488,S0738,Math,Trigonometry,Explain Trigonometry in brief.,The key concept of Trigonometry is ...,True
+ad9ab1df-6135-4755-a277-298f5d0b4df5,S0738,History,Ancient,Give an example of Ancient.,The key concept of Ancient is ...,True
+f16d3e57-8910-4c8c-a820-8526adabd3ae,S0738,Math,Probability,What is the key concept of Probability?,Probability is important because ...,False
+6e36eb9e-28b0-4865-86d0-5cdcb8c998d1,S0924,Science,Chemistry,Why is Chemistry important?,Chemistry is important because ...,False
+0c1e6cb7-b6e0-428a-863a-f73aae786470,S0924,English,Literature,Explain Literature in brief.,Literature is defined as ...,False
+22f4095a-646c-42cc-b218-56b9c0e06d4a,S0924,Social Science,Economics,Why is Economics important?,Economics is defined as ...,False
+2ce52b26-2195-40d2-8b1a-be684caabbe8,S0924,Math,Calculus,Give an example of Calculus.,Calculus is important because ...,False
+90eb9b30-365c-40f4-b880-eba81741eefb,S0924,English,Grammar,Explain Grammar in brief.,Grammar is defined as ...,False
+75736b74-4288-403c-ac93-79f926166777,S0924,Math,Trigonometry,Define Trigonometry.,Trigonometry can be explained as ...,True
+dade2abf-fad6-405b-a4a6-00d5b362ff6c,S0924,Math,Geometry,Give an example of Geometry.,Geometry is important because ...,False
+84cad50e-52e1-4954-a0fb-4a2555224cb5,S0924,Computer Science,Programming,What is the key concept of Programming?,Programming is defined as ...,True
+ed8a181d-8b70-4c0a-b4ef-bf9c47fb9200,S0524,Science,Genetics,Explain Genetics in brief.,Genetics is defined as ...,True
+9acfac50-6a3e-470c-862a-81cc1ad59a88,S0524,History,Ancient,Explain Ancient in brief.,Ancient is defined as ...,False
+2450a1a5-74ae-4c72-8b7b-2d1d9fef317b,S0524,Science,Physics,Explain Physics in brief.,The key concept of Physics is ...,False
+56c83a29-6c9a-48bd-913f-b16c4e9ef023,S0524,History,World Wars,What is the key concept of World Wars?,World Wars is important because ...,True
+949b048b-4719-4650-8f59-d5438dfdbea2,S0524,English,Comprehension,Give an example of Comprehension.,Comprehension can be explained as ...,True
+dfa8224b-30d4-4f52-b7bc-5967795bb8ce,S0524,Science,Ecology,Define Ecology.,An example of Ecology: ...,False
+ca23c0dc-ddb4-4f94-9fe6-10eadf422b98,S0524,Social Science,Sociology,Give an example of Sociology.,An example of Sociology: ...,True
+9aa66229-0bbb-430b-972e-5619396ac556,S0524,Math,Calculus,What is the key concept of Calculus?,Calculus can be explained as ...,True
+0d6cbb6a-9b8d-4777-abf9-531006c31a1c,S0593,Computer Science,AI,Explain AI in brief.,The key concept of AI is ...,True
+08c89ffb-12f3-429c-89a0-6989f0fc7682,S0593,Math,Geometry,Why is Geometry important?,An example of Geometry: ...,True
+0a3b3f65-0893-4411-9f26-77c6ec3e8fe6,S0593,Computer Science,Databases,Explain Databases in brief.,Databases is important because ...,True
+1fc4103f-9299-42b9-a178-f0414a70511a,S0593,Social Science,History,Explain History in brief.,History is important because ...,False
+7930cb20-d310-492d-b15a-76c6b9ade921,S0593,Social Science,History,Give an example of History.,History is important because ...,False
+50f09bc9-f05c-453b-afe5-1ed40f13dc2e,S0593,History,World Wars,Define World Wars.,World Wars can be explained as ...,True
+bc129e46-dff7-416e-a11c-d131f941961c,S0593,History,Ancient,What is the key concept of Ancient?,An example of Ancient: ...,False
+9db15d0f-6cfb-46bf-827b-e08dfc4fde93,S0593,Math,Algebra,Define Algebra.,Algebra is important because ...,False
+f184d7d3-8119-47fa-83bc-7d5a76a3a875,S0039,Science,Genetics,Define Genetics.,Genetics is defined as ...,False
+2b15ccbc-453f-460e-a2dc-3e5ab1ff0e2f,S0039,Science,Ecology,Why is Ecology important?,The key concept of Ecology is ...,True
+affe3823-a5fa-414d-af66-70bb32478204,S0039,Computer Science,AI,Why is AI important?,AI is defined as ...,True
+532f62da-6fb3-41cf-b81f-63b28bc9785d,S0039,Social Science,Geography,Explain Geography in brief.,Geography is important because ...,True
+79bae1a6-e899-4407-b3bf-8071ca89b87c,S0039,Social Science,Civics,Why is Civics important?,Civics is defined as ...,False
+a3c97cf9-a6a0-4116-99ac-717d692214da,S0039,Science,Physics,What is the key concept of Physics?,Physics is important because ...,True
+5c02a785-a5e9-449f-9a12-420dadcf5329,S0039,Computer Science,AI,Give an example of AI.,AI can be explained as ...,False
+1d773e2c-434b-4dcc-87b2-20673184509b,S0039,Social Science,History,Define History.,An example of History: ...,False
+6ab404d0-bc8a-46ad-ae2d-1edef15ed59f,S0714,Computer Science,Networking,Give an example of Networking.,Networking can be explained as ...,True
+d1d013b6-4177-45df-9447-ea7f694ec67e,S0714,Economics,Micro,Explain Micro in brief.,An example of Micro: ...,True
+ef78e0fa-cc90-45cb-a602-37335d42839c,S0714,Math,Algebra,Define Algebra.,An example of Algebra: ...,False
+ec9ca3a5-e7a0-4a0b-9862-3e9e08415931,S0714,Science,Biology,Define Biology.,Biology can be explained as ...,True
+f87e3b32-2a46-42b0-9aeb-a0457a7f90e0,S0714,Economics,Macro,Define Macro.,An example of Macro: ...,False
+230d1044-d89d-48b1-9e1d-00c69f46186e,S0714,Computer Science,AI,Give an example of AI.,AI is defined as ...,True
+1077e5f2-08ba-42f3-bea4-87c3703e6f75,S0714,History,Ancient,Explain Ancient in brief.,Ancient can be explained as ...,True
+d5ee14fa-733b-4e32-ad8b-abe4e2f8097d,S0714,Science,Ecology,Explain Ecology in brief.,An example of Ecology: ...,True
+104def3e-ec32-4c4f-ba3e-229739191a1b,S0983,Science,Ecology,Why is Ecology important?,Ecology is important because ...,True
+16a07f85-95a5-40c4-a3c1-8269ec1f42f6,S0983,History,Ancient,What is the key concept of Ancient?,Ancient can be explained as ...,True
+e1a434ad-833b-4698-b6a6-7aaaa81eec7f,S0983,Computer Science,Networking,Explain Networking in brief.,Networking is important because ...,True
+ab572f2d-d261-48df-9465-94aeb6f2667c,S0983,Economics,Development,Why is Development important?,The key concept of Development is ...,False
+0e42d5ff-4510-487a-809f-84ed01aab947,S0983,History,Revolutions,Give an example of Revolutions.,Revolutions is important because ...,True
+e554867e-eae3-470d-91fb-46b3d2d57304,S0983,Science,Physics,Define Physics.,Physics is defined as ...,False
+3dad0980-2614-48d0-a95f-08bc9ffa99ab,S0983,Math,Geometry,Why is Geometry important?,Geometry can be explained as ...,True
+28cc0f49-9ea4-4d1d-80b5-37931bd4009e,S0983,Social Science,History,Define History.,History is defined as ...,True
+0ad76503-ef3c-4379-9b48-8d4ea2b4b0f1,S0114,History,Modern,What is the key concept of Modern?,Modern is important because ...,True
+4c2cce7c-3c7d-4e8d-859b-e94d9025d1da,S0114,Economics,Finance,Why is Finance important?,The key concept of Finance is ...,True
+e7857322-829e-40f4-ab14-e958cd48158c,S0114,Social Science,Economics,Define Economics.,Economics is important because ...,False
+df2712f5-d773-4d16-80f3-6616803bb22d,S0114,History,World Wars,Explain World Wars in brief.,World Wars is defined as ...,False
+ed68e972-fcef-4206-8a21-06a673a4868a,S0114,History,Medieval,What is the key concept of Medieval?,Medieval is defined as ...,False
+570cedd2-815d-4c90-90fd-2077ef86f817,S0114,Science,Ecology,What is the key concept of Ecology?,Ecology can be explained as ...,True
+b3442313-395d-4290-90f7-cae7c0db44aa,S0114,Science,Genetics,Give an example of Genetics.,The key concept of Genetics is ...,False
+0d9f85ca-4102-4543-9aa7-0bc67496c601,S0114,History,World Wars,Why is World Wars important?,The key concept of World Wars is ...,True
+60d40206-2bf2-48c9-b83f-3a534b21ee7c,S0212,Science,Biology,Define Biology.,Biology is defined as ...,True
+5bb01e2f-bd38-40a2-afb9-9e422bdb4dbc,S0212,Math,Algebra,Why is Algebra important?,Algebra is defined as ...,True
+07eb18fa-2c6a-455e-9f3e-29c3f8dde0be,S0212,Economics,Trade,Give an example of Trade.,An example of Trade: ...,False
+9cc3bb61-596c-410b-a7f6-0978e9985eb1,S0212,Science,Genetics,Explain Genetics in brief.,The key concept of Genetics is ...,True
+16657ee1-e049-49b9-bbf8-f2cfe67cb7b7,S0212,Computer Science,Programming,What is the key concept of Programming?,Programming is defined as ...,True
+ef1b9994-7013-41c8-887e-90623a396c40,S0212,Math,Algebra,Give an example of Algebra.,Algebra is important because ...,True
+89e381de-14ec-4500-a85a-e8e589dc8536,S0212,Economics,Development,Define Development.,Development can be explained as ...,True
+01bcfa6f-7947-4d0c-9165-1c6804772fd3,S0212,Economics,Trade,Explain Trade in brief.,Trade is defined as ...,True
+9ee3bf13-b4d0-47c4-96bf-160c6c6732f6,S0480,Economics,Micro,Explain Micro in brief.,The key concept of Micro is ...,False
+db6c00e2-29ca-44be-8bc0-230b3b5d3b04,S0480,English,Literature,Explain Literature in brief.,The key concept of Literature is ...,False
+a2f18a62-32af-4b68-b8eb-6c059b1d8fca,S0480,English,Grammar,What is the key concept of Grammar?,Grammar can be explained as ...,True
+f98c1b97-e77c-40ac-b6db-5ae0d153233e,S0480,Economics,Micro,Explain Micro in brief.,Micro is defined as ...,False
+5cc1a811-3cdc-415b-be79-9890ac069e76,S0480,History,Modern,What is the key concept of Modern?,An example of Modern: ...,True
+3b4f723a-89af-4fa8-a5a4-0a7e5e323a8f,S0480,Science,Chemistry,Give an example of Chemistry.,Chemistry is defined as ...,True
+21a5d11f-1e4b-46f3-81df-450c5bc8303c,S0480,Math,Algebra,Give an example of Algebra.,Algebra is important because ...,True
+eb793b83-fda7-4a0b-b2f0-42a2a17a507f,S0480,Social Science,Civics,Why is Civics important?,Civics is defined as ...,True
+fd93925d-f8b8-45bf-8abd-415765c214d8,S0409,History,Modern,Define Modern.,Modern is defined as ...,True
+f90cf7bb-4793-4b7c-b42d-85a07bebbab8,S0409,Economics,Macro,What is the key concept of Macro?,Macro is important because ...,False
+b7a50d83-1a9f-43ec-8314-8dff310dc975,S0409,English,Comprehension,Define Comprehension.,Comprehension is defined as ...,True
+f0aad0ed-0bc4-48ca-8776-ba1d8524a20b,S0409,Science,Biology,Why is Biology important?,The key concept of Biology is ...,True
+3d6e960d-03a6-4e1c-ac65-477f85875c8c,S0409,Math,Geometry,What is the key concept of Geometry?,An example of Geometry: ...,True
+eecd448b-a94a-466c-923d-017619e365cc,S0409,English,Literature,Define Literature.,The key concept of Literature is ...,False
+f16088b0-dc94-4ed3-b0a6-3254cd0f606b,S0409,Science,Physics,Define Physics.,Physics is defined as ...,True
+00cdbcc7-971a-4ae9-a173-e4210bcb20c0,S0409,Social Science,Geography,Define Geography.,Geography is defined as ...,True
+25e621a4-562c-4ffa-8d59-70abf5228886,S0811,Economics,Finance,What is the key concept of Finance?,The key concept of Finance is ...,False
+727e35b5-4f7e-4492-9625-d06ecbb61caa,S0811,History,Revolutions,Explain Revolutions in brief.,Revolutions is defined as ...,True
+12807a9b-9998-4617-8c0d-96b3aa7c5ccf,S0811,Math,Geometry,Why is Geometry important?,An example of Geometry: ...,False
+e585cf9c-5e4a-4cc8-8090-d5847098df79,S0811,Social Science,History,What is the key concept of History?,History is important because ...,False
+01562573-687d-4a15-88bb-967137e5f58d,S0811,Science,Chemistry,Define Chemistry.,Chemistry is defined as ...,True
+e8716ddf-c61b-4b76-b270-61dd8c54cf1b,S0811,Science,Genetics,Define Genetics.,An example of Genetics: ...,True
+114e658b-4827-4c7c-a402-ae7d8651e820,S0811,History,Modern,Give an example of Modern.,The key concept of Modern is ...,False
+c0ad6513-cbde-4279-a77c-e78f9850bcf2,S0811,Computer Science,Programming,Define Programming.,Programming is defined as ...,False
+a6a730ee-0879-4783-9909-e8650ad41d5a,S0598,History,World Wars,Give an example of World Wars.,World Wars can be explained as ...,False
+832dbd53-27c6-435c-9a64-0d36a862ecaf,S0598,Math,Algebra,Explain Algebra in brief.,Algebra is defined as ...,False
+54102897-50b4-414a-b26a-153fe5d84371,S0598,English,Poetry,What is the key concept of Poetry?,Poetry can be explained as ...,True
+ec9b12ac-c885-4ba0-9b11-f3e96e71fed8,S0598,Science,Chemistry,Define Chemistry.,Chemistry is defined as ...,True
+a71b28e1-3761-435a-b2d9-3134a55218f4,S0598,Economics,Finance,Why is Finance important?,An example of Finance: ...,False
+0a7fa4cf-96e0-4563-b9d5-60d30888b23e,S0598,History,Modern,Explain Modern in brief.,An example of Modern: ...,False
+aeadf13d-1c7a-4892-a7c7-d45a2623a2e9,S0598,Computer Science,Algorithms,What is the key concept of Algorithms?,The key concept of Algorithms is ...,True
+77aa9239-36f4-468f-9a0c-707e9751cea7,S0598,Social Science,Sociology,Explain Sociology in brief.,An example of Sociology: ...,True
+7286eee2-628d-4d3c-a460-7a287a99e590,S0943,Computer Science,Programming,Explain Programming in brief.,Programming is important because ...,False
+1084e8f8-4421-4776-ada3-6238b1279da0,S0943,Computer Science,Networking,Give an example of Networking.,An example of Networking: ...,True
+738a9575-1312-427d-896a-a6ad3b75cd4b,S0943,Math,Trigonometry,Why is Trigonometry important?,An example of Trigonometry: ...,False
+315ff203-3117-4dbf-8ec2-99212ea7ca6c,S0943,Computer Science,Programming,What is the key concept of Programming?,Programming can be explained as ...,False
+75f59e14-ab90-4d91-b9e4-c6ca18f2aff7,S0943,Science,Physics,Define Physics.,Physics is defined as ...,True
+6bb41fbc-69b8-4a72-bb25-5238d07f8eea,S0943,Math,Calculus,Why is Calculus important?,Calculus can be explained as ...,False
+4c7c7b2d-fc59-43b4-b473-6982b99e9dfe,S0943,Social Science,Economics,Give an example of Economics.,Economics is important because ...,False
+3dedba13-0e5f-49c6-8286-85edcdac3695,S0943,Science,Biology,Why is Biology important?,Biology is important because ...,False
+050d0eb1-f2cb-47e2-9109-ed67889a96da,S0813,Computer Science,AI,Explain AI in brief.,AI is defined as ...,True
+33935c2c-8683-47b6-93f6-ff58540c5e59,S0813,History,Revolutions,Why is Revolutions important?,An example of Revolutions: ...,False
+b91ce0b9-ba52-435a-9ef0-13e32515a85f,S0813,Computer Science,AI,Define AI.,The key concept of AI is ...,False
+edb32bf2-da64-4eec-b442-94602c2fe0e9,S0813,English,Comprehension,Explain Comprehension in brief.,Comprehension is important because ...,False
+ba5bb6b3-3e59-4d1c-88af-d656b9367508,S0813,English,Literature,What is the key concept of Literature?,An example of Literature: ...,False
+18a55b31-e308-434e-91c1-9e40b982f626,S0813,English,Poetry,What is the key concept of Poetry?,Poetry is important because ...,True
+8a5b62e2-f5d4-44d7-8b97-e510fb4919d0,S0813,Social Science,Sociology,Explain Sociology in brief.,The key concept of Sociology is ...,True
+460e1e1a-5f77-4718-b034-23953415c090,S0813,History,Ancient,Define Ancient.,The key concept of Ancient is ...,True
+d5398381-26ba-4d16-ba0a-633483d7212b,S0965,Computer Science,Databases,Define Databases.,The key concept of Databases is ...,False
+824cf6be-811c-41cf-9241-5185c4f9566d,S0965,English,Literature,Explain Literature in brief.,Literature is defined as ...,False
+5d61e3be-9dbe-4efd-b43d-89fde46a16cf,S0965,Economics,Development,Why is Development important?,The key concept of Development is ...,False
+5c6790f3-ab84-42dd-8a73-e3b22e3fa71b,S0965,Social Science,Economics,Explain Economics in brief.,An example of Economics: ...,True
+9d0399f9-37eb-45c7-a18e-178cf94d90c1,S0965,English,Poetry,Give an example of Poetry.,Poetry can be explained as ...,False
+a089babf-7ae4-4c34-9199-bc52d27f426e,S0965,English,Writing Skills,What is the key concept of Writing Skills?,Writing Skills is defined as ...,False
+35ce93b8-08b6-413d-880b-a2c84811c2e5,S0965,Math,Trigonometry,Why is Trigonometry important?,An example of Trigonometry: ...,True
+280c19cd-eb76-421c-ad1e-ae2a47d1bc58,S0965,Computer Science,Networking,Why is Networking important?,Networking can be explained as ...,False
+c1f9d06f-0f6f-45aa-b6ac-bc8e689e0941,S0259,Economics,Finance,Why is Finance important?,An example of Finance: ...,True
+5edb0789-2dae-4cad-8f09-4d6216348a35,S0259,English,Writing Skills,What is the key concept of Writing Skills?,Writing Skills can be explained as ...,False
+f17eaba9-c1b8-473d-af9a-f1165e5018f1,S0259,Math,Calculus,Explain Calculus in brief.,Calculus is defined as ...,False
+5e4225b7-31a4-48be-9d6f-ac841c974398,S0259,Social Science,Sociology,Define Sociology.,Sociology is important because ...,True
+9147eec5-b3d8-48ee-808b-bca9f20b4d5a,S0259,History,Ancient,What is the key concept of Ancient?,The key concept of Ancient is ...,True
+f244e282-aa7a-44dc-8b6c-29f7b9b50821,S0259,History,Revolutions,Define Revolutions.,Revolutions can be explained as ...,False
+3e5d41f9-2076-4c69-96ca-bb466032e248,S0259,Math,Calculus,Define Calculus.,Calculus can be explained as ...,False
+f10f23fe-251d-42e0-9f0d-3ab26ce6bc67,S0259,English,Comprehension,Define Comprehension.,The key concept of Comprehension is ...,True
+00a61153-69bf-4ba2-a662-7b50e2ff2133,S0978,Computer Science,Networking,Explain Networking in brief.,The key concept of Networking is ...,False
+e234706f-0b1b-47bb-8865-a40511931414,S0978,History,Medieval,What is the key concept of Medieval?,An example of Medieval: ...,True
+dc73a7c9-7c0a-480a-8654-1d7a6469b9c1,S0978,English,Comprehension,Why is Comprehension important?,Comprehension is important because ...,False
+2a584707-96e8-4497-8b1f-2b2234e0966d,S0978,Computer Science,Networking,What is the key concept of Networking?,The key concept of Networking is ...,True
+d9e01768-2d5c-4259-bc3e-bc7b857e9ad9,S0978,History,Ancient,What is the key concept of Ancient?,Ancient is important because ...,True
+a6e6d188-2887-4fff-9580-8983c5b452fc,S0978,Math,Calculus,Why is Calculus important?,Calculus can be explained as ...,False
+678159e8-0b06-4085-b473-8498481a843d,S0978,Math,Trigonometry,Why is Trigonometry important?,Trigonometry can be explained as ...,False
+540ad910-993e-4b74-a88a-5bb401245202,S0978,Economics,Trade,Define Trade.,Trade is important because ...,False
+0c60f161-cec0-4e5f-a21f-c7ce44e55997,S0040,Economics,Trade,Explain Trade in brief.,Trade can be explained as ...,True
+e0fee1ac-fc19-4aef-843c-d5c4418ba8f3,S0040,Economics,Development,Explain Development in brief.,Development is important because ...,False
+e5cb4dac-7028-4efd-812c-d260ac43f326,S0040,Math,Probability,What is the key concept of Probability?,Probability can be explained as ...,True
+d81fed2a-cca8-45ac-ba60-68b99a3d0574,S0040,Economics,Macro,Define Macro.,An example of Macro: ...,False
+f7b6d37d-303a-4aa2-9e13-37d001fd6b39,S0040,Science,Ecology,Give an example of Ecology.,Ecology is defined as ...,True
+dad2fca5-12f5-4fb2-8dd6-4d2b6abcedf2,S0040,Economics,Macro,What is the key concept of Macro?,Macro is defined as ...,False
+6bab654b-a4c0-4b96-8491-de3fd8d238e8,S0040,Economics,Development,Give an example of Development.,An example of Development: ...,True
+62269093-5a52-4a9f-a312-d80dea3dad0f,S0040,Math,Trigonometry,Give an example of Trigonometry.,An example of Trigonometry: ...,True
+89a861bd-3872-4a44-a1b6-232cd07e8a7e,S0865,English,Grammar,What is the key concept of Grammar?,Grammar can be explained as ...,False
+4ccc14ab-f454-468a-91e8-6f92b57d0a0f,S0865,Science,Genetics,Why is Genetics important?,Genetics is defined as ...,True
+c649fc0a-eb49-4b53-a9ed-24515c3cab4f,S0865,History,Medieval,What is the key concept of Medieval?,Medieval can be explained as ...,True
+eea4329d-19b1-43ad-bcdb-07bf6df6d7e4,S0865,Computer Science,Algorithms,Give an example of Algorithms.,Algorithms is defined as ...,False
+cb19a296-cced-4982-9af3-4044b5eed0d6,S0865,Computer Science,Algorithms,Why is Algorithms important?,An example of Algorithms: ...,False
+cde03c8d-6757-4643-b479-dd9167fd1f09,S0865,Math,Probability,Give an example of Probability.,Probability is defined as ...,False
+a46df09c-0458-4f6c-81da-3f94301a9ff2,S0865,Science,Biology,Explain Biology in brief.,Biology is important because ...,False
+6a946940-ec7d-4f98-8479-27774a71b482,S0865,Social Science,Civics,What is the key concept of Civics?,Civics is important because ...,True
+5fb31e57-e24c-4e67-aaeb-1d2d74426672,S0995,Computer Science,Networking,Give an example of Networking.,The key concept of Networking is ...,False
+928f7f3d-8ce1-43a6-a1bf-2414d1402607,S0995,History,World Wars,Give an example of World Wars.,The key concept of World Wars is ...,True
+65982af5-2bc8-44e5-93a9-cff586c1f9d1,S0995,Computer Science,Algorithms,Explain Algorithms in brief.,Algorithms is defined as ...,False
+6e5adf94-95f3-4e3d-9783-73771c485ce2,S0995,History,Modern,Give an example of Modern.,Modern can be explained as ...,False
+8d8e9900-aa82-4652-b90a-7d78afc0b8d6,S0995,Economics,Trade,What is the key concept of Trade?,Trade can be explained as ...,True
+aeee47f2-3467-4623-8dc6-9980158ebbee,S0995,History,Medieval,Why is Medieval important?,The key concept of Medieval is ...,False
+9745bcc8-0c6f-4ae1-be6c-ab70f4e09e91,S0995,English,Comprehension,Define Comprehension.,The key concept of Comprehension is ...,True
+58b075bf-f6e4-44dd-a78a-30f00a5673fa,S0995,History,Ancient,Why is Ancient important?,Ancient can be explained as ...,True
+2371031d-b6d2-464e-b0af-f45dd5f9bcb4,S0735,Social Science,Economics,Explain Economics in brief.,Economics is defined as ...,True
+736d46e3-9b15-4086-bd51-e772447a28f2,S0735,Computer Science,Programming,Explain Programming in brief.,The key concept of Programming is ...,True
+5fa9e449-428c-46e0-923c-6d4c74341529,S0735,Computer Science,Networking,Give an example of Networking.,An example of Networking: ...,False
+14a03807-c765-4fde-9c06-748cd96906ba,S0735,Science,Chemistry,Give an example of Chemistry.,An example of Chemistry: ...,False
+28c9dd11-0ca6-4c7a-a7e6-42b1cb5b8236,S0735,History,Modern,Explain Modern in brief.,Modern is defined as ...,True
+0be94cc9-b3f6-4d6b-a999-f7daf04e1076,S0735,Economics,Micro,Explain Micro in brief.,Micro is important because ...,False
+d81ed4e1-d5e4-4818-a35d-20ef9d13e4ff,S0735,Computer Science,Programming,What is the key concept of Programming?,The key concept of Programming is ...,True
+d0ed4e14-1aa8-4714-8ec6-81c0ec69dc65,S0735,Economics,Macro,Give an example of Macro.,The key concept of Macro is ...,True
+788b4393-3d4f-4d9f-a645-05b72384b18a,S0302,Computer Science,AI,Define AI.,AI can be explained as ...,False
+ffa865f7-085c-4993-8584-88636fe44123,S0302,English,Grammar,Explain Grammar in brief.,Grammar is important because ...,False
+17bc4235-30da-46eb-baba-dcaf1369f03b,S0302,Economics,Development,Explain Development in brief.,Development is defined as ...,False
+dc73a251-9ca0-4698-9117-3019e5e675a2,S0302,English,Literature,Give an example of Literature.,Literature is important because ...,True
+5519c1e6-eb89-4fd1-b647-390f88bd25a5,S0302,History,Revolutions,Give an example of Revolutions.,Revolutions is important because ...,False
+a256f4b3-f5eb-4d55-90ed-8d5ae9b71b13,S0302,History,World Wars,Give an example of World Wars.,World Wars is important because ...,True
+0d5dce56-227b-421a-85bb-f72be2e33683,S0302,Math,Algebra,Why is Algebra important?,Algebra can be explained as ...,True
+7e66ba29-08d8-49eb-8f2b-42428d89fa93,S0302,History,Medieval,Why is Medieval important?,The key concept of Medieval is ...,False
+802c5a75-f356-432b-9f7c-bb8405c6a605,S0604,Math,Geometry,Give an example of Geometry.,Geometry can be explained as ...,False
+a83a49b4-f59d-4119-984a-0bced0c04ab8,S0604,Science,Physics,Explain Physics in brief.,The key concept of Physics is ...,True
+274f887d-ea5b-45c1-9b41-10aaeb22d0f3,S0604,Science,Genetics,What is the key concept of Genetics?,Genetics is defined as ...,True
+7688de16-9ee2-495d-b6eb-57968e07e95a,S0604,Economics,Development,Give an example of Development.,Development is defined as ...,True
+4e0cd18d-e6e4-4a17-87db-e121d6534120,S0604,Science,Chemistry,Explain Chemistry in brief.,The key concept of Chemistry is ...,False
+4215ca34-3f69-4e3e-bec5-df0962d1a2ab,S0604,Science,Biology,Why is Biology important?,An example of Biology: ...,False
+ef75fc63-b64a-40a1-a18b-13f4ce01fe36,S0604,Math,Algebra,Define Algebra.,An example of Algebra: ...,False
+f4bf3bd7-b291-45e1-9a53-00092b557145,S0604,Math,Trigonometry,Explain Trigonometry in brief.,An example of Trigonometry: ...,True
+73858aa1-4699-4f24-b6ac-dcb0d9342561,S0596,Computer Science,AI,Explain AI in brief.,AI is important because ...,False
+43eba7c5-20e9-40ca-add6-a407166f5d35,S0596,Math,Geometry,Give an example of Geometry.,Geometry can be explained as ...,False
+b1ed8ef7-145e-4e47-987f-fd905e7d40b4,S0596,Social Science,Economics,Why is Economics important?,The key concept of Economics is ...,False
+5fe914db-c47f-457a-8470-fbdd02ab8fcf,S0596,History,World Wars,What is the key concept of World Wars?,World Wars can be explained as ...,True
+7f6cf5b5-ecf6-4cb1-a926-28fa4b57a0b4,S0596,Computer Science,Algorithms,Why is Algorithms important?,An example of Algorithms: ...,False
+7aedabce-2ad4-4afd-a413-d6bbcb786c57,S0596,Economics,Development,Why is Development important?,Development can be explained as ...,False
+758873cb-e230-4a90-a0a1-68d8a6bbb70b,S0596,Science,Ecology,Define Ecology.,An example of Ecology: ...,True
+e897d276-f333-4204-bf9e-924c56838c21,S0596,Math,Trigonometry,Define Trigonometry.,Trigonometry can be explained as ...,True
+f4f300f9-1b42-44af-be64-e4a8c70eeb2d,S0211,Math,Algebra,Why is Algebra important?,An example of Algebra: ...,False
+82d26cb6-9e7d-4730-b928-9b5903c97019,S0211,Math,Trigonometry,Define Trigonometry.,Trigonometry is important because ...,False
+58d26771-6ab5-42f0-98d8-ab46f08260cc,S0211,Economics,Development,What is the key concept of Development?,Development is important because ...,False
+5b04c907-9cbd-4cf1-8d03-e1f562b506fb,S0211,Economics,Finance,Why is Finance important?,An example of Finance: ...,False
+505d13a7-80f2-4c7c-9795-721ccca1652e,S0211,Economics,Development,Define Development.,An example of Development: ...,True
+ec59cb10-cdf6-4abd-8681-bdba70e5c8a1,S0211,History,Revolutions,Define Revolutions.,Revolutions is defined as ...,True
+03a71866-2fce-4ee4-a962-ea8de6f29f18,S0211,English,Grammar,What is the key concept of Grammar?,Grammar is defined as ...,True
+12a8bd80-fb71-422c-afe4-1978ffd42ccf,S0211,Social Science,Geography,Define Geography.,Geography can be explained as ...,True
+c44e3bd6-b825-4c96-aed9-16faaad816ba,S0167,Math,Trigonometry,Explain Trigonometry in brief.,Trigonometry is important because ...,True
+a707bd46-df0a-4dc5-9cfc-78547e36a28e,S0167,Computer Science,Databases,What is the key concept of Databases?,An example of Databases: ...,True
+76d4dc0c-e95d-4128-a0ac-6d85c24490fb,S0167,Computer Science,AI,Why is AI important?,AI is defined as ...,False
+050a8678-0862-4764-8f7a-a9939241d7e3,S0167,History,Medieval,Define Medieval.,Medieval can be explained as ...,True
+33537f33-79b5-49db-86c9-eea8b4b13d2f,S0167,Math,Trigonometry,Explain Trigonometry in brief.,Trigonometry is defined as ...,False
+cf02901b-c687-4bc6-b59b-54a48b0fe27e,S0167,Math,Probability,Define Probability.,The key concept of Probability is ...,True
+6c3d0c7f-aa04-4d1a-8540-ac7fdfaddc81,S0167,Economics,Finance,Give an example of Finance.,An example of Finance: ...,True
+cb9e100a-f130-4261-9c4b-029e7c02cca9,S0167,Social Science,Economics,Define Economics.,The key concept of Economics is ...,True
+c86f253b-3b34-41a8-ac42-28fe64cf19e6,S0569,Computer Science,Programming,What is the key concept of Programming?,Programming is defined as ...,True
+238b93bd-2aee-4d28-ae1b-662c1707fc0c,S0569,Science,Genetics,Give an example of Genetics.,An example of Genetics: ...,False
+9f4d833b-9280-435e-a1a8-ec824018c261,S0569,Economics,Macro,Why is Macro important?,Macro is defined as ...,False
+ca505de1-dabd-4d9b-ad08-853033e64035,S0569,Science,Physics,Give an example of Physics.,An example of Physics: ...,True
+eb0a4dca-a416-409d-8d72-1c3bd836383f,S0569,History,Ancient,Define Ancient.,Ancient is defined as ...,False
+1f54597c-c0c7-4b7a-b094-0f4f4dc43ce4,S0569,English,Poetry,Define Poetry.,Poetry can be explained as ...,False
+f3fef9d0-bad2-4329-98c3-9a293b9ab35f,S0569,Math,Algebra,Define Algebra.,The key concept of Algebra is ...,True
+31fcbf99-96b3-4fc4-bcc3-4605c293680b,S0569,Math,Geometry,Define Geometry.,An example of Geometry: ...,False
+c5fc1f66-8ea9-4ae7-b120-c9782b3ac3e8,S0633,Social Science,Civics,Give an example of Civics.,Civics is defined as ...,False
+f58d9045-6d4f-4315-a7ca-ebccbaeefd90,S0633,History,World Wars,Explain World Wars in brief.,World Wars is defined as ...,True
+e840d0f4-74bb-4320-af70-1b15b71ca0cf,S0633,English,Writing Skills,Why is Writing Skills important?,The key concept of Writing Skills is ...,False
+230ebcae-4187-48d8-b097-0c087510d512,S0633,History,Medieval,Give an example of Medieval.,Medieval can be explained as ...,True
+772838d9-bf01-4c48-8f29-e0a3cad83f06,S0633,English,Literature,Give an example of Literature.,An example of Literature: ...,False
+fea7e8e2-03cf-47af-ac92-f788ec5d5511,S0633,Economics,Finance,Explain Finance in brief.,Finance is defined as ...,True
+bf59dfc6-9650-4edf-8324-ccaf0c13509b,S0633,Science,Physics,What is the key concept of Physics?,Physics is defined as ...,True
+01aa93b8-b604-40bd-80fa-a90138402956,S0633,History,Medieval,Explain Medieval in brief.,The key concept of Medieval is ...,True
+a5fd75ec-775a-476f-99b9-10e8e29f6df0,S0768,English,Writing Skills,Give an example of Writing Skills.,The key concept of Writing Skills is ...,False
+3170ae0f-33f7-45a3-91b5-a654141fd782,S0768,Social Science,History,Give an example of History.,History can be explained as ...,False
+7df7eb66-ba17-4028-9866-a2f8e13fd0b2,S0768,Math,Trigonometry,Why is Trigonometry important?,The key concept of Trigonometry is ...,False
+f8093fa6-5ec3-48cf-9dfe-4304a484ea71,S0768,Social Science,Geography,Explain Geography in brief.,Geography is defined as ...,False
+31d6bfa1-bef4-4fa3-9702-83de4b4f530f,S0768,English,Grammar,Define Grammar.,The key concept of Grammar is ...,False
+49260c95-740a-4ea6-b385-52060113a709,S0768,Social Science,History,Why is History important?,History can be explained as ...,False
+880623fa-8a1b-4ac8-b8b9-2a5b74cfc988,S0768,Computer Science,Databases,Give an example of Databases.,An example of Databases: ...,True
+eeadd099-95f8-4eed-b84d-7da120716142,S0768,Computer Science,Databases,Explain Databases in brief.,An example of Databases: ...,True
+abab7022-5249-4345-a618-80449a8723e3,S0181,Science,Physics,Explain Physics in brief.,The key concept of Physics is ...,True
+f31c8835-c8db-4b2d-a912-1f3a136d3b37,S0181,Computer Science,AI,Define AI.,An example of AI: ...,True
+69c2d749-986b-4323-bef5-8690ac9f6c93,S0181,English,Grammar,What is the key concept of Grammar?,Grammar can be explained as ...,True
+ee5a1e98-ae09-439f-a185-11daf968247f,S0181,Economics,Finance,What is the key concept of Finance?,The key concept of Finance is ...,False
+e7470ba5-14ca-4317-8c55-901c1ef46f6a,S0181,Computer Science,Algorithms,What is the key concept of Algorithms?,An example of Algorithms: ...,False
+dd5a137f-284b-4512-b4d7-54cbe1b7b17b,S0181,Science,Physics,Define Physics.,Physics is important because ...,False
+1383af8b-05e4-48d8-8560-d8c9b4e48683,S0181,Economics,Macro,What is the key concept of Macro?,Macro can be explained as ...,True
+0499ebd0-0360-466c-aa32-191004514329,S0181,Economics,Trade,Explain Trade in brief.,Trade is important because ...,True
+59950afe-4629-48fc-9fab-8481dd8dc620,S0435,History,World Wars,Define World Wars.,An example of World Wars: ...,True
+444dd6c0-50ee-44e5-8b67-ff76d47ab553,S0435,Economics,Finance,Explain Finance in brief.,Finance can be explained as ...,True
+8f7bed32-e6c8-4a56-aac5-a71cf0d4fe86,S0435,Computer Science,Databases,Why is Databases important?,Databases is defined as ...,False
+749434e1-a661-4d18-aa67-34949b0a9835,S0435,Science,Biology,Explain Biology in brief.,Biology is defined as ...,False
+701a283f-8499-42a5-8d81-8c0ddc334e0f,S0435,Math,Probability,Define Probability.,An example of Probability: ...,False
+d0f96b55-a27a-4798-a81e-1a5cc31497f4,S0435,English,Poetry,Define Poetry.,Poetry can be explained as ...,False
+35a2c843-5acd-41f7-b2cc-f8b36d7c83ba,S0435,Math,Trigonometry,Why is Trigonometry important?,The key concept of Trigonometry is ...,True
+c38b59e8-6bf3-4840-b748-57744b75729f,S0435,English,Poetry,Explain Poetry in brief.,Poetry can be explained as ...,True
+13c59105-1650-4845-999a-daf07a72de1f,S0166,Math,Algebra,Define Algebra.,Algebra is important because ...,False
+2062722f-44a9-447c-b772-a7abdb428580,S0166,History,Revolutions,Explain Revolutions in brief.,The key concept of Revolutions is ...,True
+979092e8-61fb-4724-871a-4dd6bb5befc2,S0166,Computer Science,Networking,Why is Networking important?,Networking is defined as ...,False
+af7b8fba-d8e7-440e-9f48-dd0405c31071,S0166,Math,Probability,Define Probability.,Probability is important because ...,False
+224b0901-fb83-4920-8f43-9477d8618b32,S0166,Social Science,Civics,Give an example of Civics.,An example of Civics: ...,False
+71dffa38-aa85-4c22-bed4-753a459906b8,S0166,History,Ancient,Give an example of Ancient.,Ancient is important because ...,True
+387799ea-e29b-49d7-b38a-1de0e6718afb,S0166,Math,Calculus,Explain Calculus in brief.,Calculus can be explained as ...,True
+f12616a2-2289-4bdb-96af-dab475d7b66d,S0166,Science,Chemistry,What is the key concept of Chemistry?,Chemistry is defined as ...,True
+703f385c-ea78-4557-a7e1-f81a06e6eb70,S0304,Math,Geometry,Define Geometry.,Geometry is defined as ...,True
+aeff0c72-5151-4dee-af21-7a941431cee4,S0304,Economics,Development,Why is Development important?,The key concept of Development is ...,True
+3eb124a3-4682-4a17-bfb7-02813f1fa3cb,S0304,Math,Algebra,Explain Algebra in brief.,An example of Algebra: ...,True
+3811b7dd-8d2e-41d3-9b69-372b552722e5,S0304,Social Science,Geography,Explain Geography in brief.,Geography is defined as ...,True
+4d966c20-5634-4ad6-abb9-fc62120bb42b,S0304,English,Poetry,What is the key concept of Poetry?,Poetry is important because ...,False
+f5995cfb-0b04-4553-8bbe-7700795f7c75,S0304,Science,Physics,Explain Physics in brief.,Physics is defined as ...,False
+9e5226ef-968e-4c7e-9aa4-494b105f0fed,S0304,Math,Calculus,Give an example of Calculus.,Calculus can be explained as ...,False
+b3be6093-2b60-4b81-ad04-cba7db5d02bd,S0304,Social Science,History,Why is History important?,An example of History: ...,True
+0a9a84a6-9877-4f90-853f-7173fccbc01e,S0447,Computer Science,AI,Define AI.,AI can be explained as ...,False
+20440ec0-0af3-4e99-beb2-cb76775e330a,S0447,Math,Algebra,What is the key concept of Algebra?,An example of Algebra: ...,True
+814553d9-cd46-48bf-a77e-57fc8d1ca9f3,S0447,English,Grammar,Give an example of Grammar.,Grammar is important because ...,True
+b29fb00d-646a-4347-81e2-6dd30aab267f,S0447,Social Science,Economics,Why is Economics important?,Economics is defined as ...,False
+c92d8633-e71b-4e6b-8e6e-b75c6e269dda,S0447,Math,Algebra,What is the key concept of Algebra?,Algebra is defined as ...,False
+c3697989-a802-41ab-a4c8-401f2d143f8d,S0447,Social Science,Geography,Why is Geography important?,The key concept of Geography is ...,True
+2edd63dd-b5aa-4a21-ab9b-ec5083124420,S0447,Economics,Macro,Give an example of Macro.,The key concept of Macro is ...,False
+42e5ad25-a332-4cc2-b1da-be12e0a71bcf,S0447,Economics,Micro,Give an example of Micro.,Micro is important because ...,True
+2bab7f1b-28bb-4f76-a3c7-e9cbfc21de11,S0014,Social Science,Geography,Explain Geography in brief.,Geography is important because ...,False
+e7c7ab5e-a66c-49aa-9a6c-85094dd67f57,S0014,History,World Wars,What is the key concept of World Wars?,World Wars is defined as ...,True
+695d2d84-5c1e-437e-950a-91ba1a82ceaf,S0014,Math,Algebra,Why is Algebra important?,Algebra is defined as ...,True
+e26a148d-6e01-4788-849c-2b74e3daa570,S0014,Math,Algebra,Why is Algebra important?,Algebra can be explained as ...,True
+34d0e69a-d90e-4f1b-92b6-af1312ea19ef,S0014,English,Poetry,Why is Poetry important?,An example of Poetry: ...,False
+2e455088-95e8-4c86-8ff2-37e4d2d869e9,S0014,Science,Ecology,Why is Ecology important?,Ecology can be explained as ...,True
+6268cdf9-1919-4cf7-b084-71a9977be238,S0014,Computer Science,Networking,Explain Networking in brief.,An example of Networking: ...,True
+407b3873-b8ae-4532-bbad-72d8ca9eb002,S0014,History,Revolutions,What is the key concept of Revolutions?,The key concept of Revolutions is ...,True
+64dffea1-024b-4d7f-aef8-ded1ef7e7a94,S0067,Economics,Micro,What is the key concept of Micro?,Micro is important because ...,True
+2720b3f6-cd49-476e-9fc3-ab326757b365,S0067,Science,Chemistry,Define Chemistry.,Chemistry is defined as ...,False
+7a4e9ad9-5ef3-4a1e-b48f-210a9841baa8,S0067,Social Science,Sociology,Define Sociology.,Sociology is important because ...,False
+c7032dbb-1004-4d1c-88ab-7baeb3a0b10f,S0067,Social Science,Economics,Why is Economics important?,Economics is important because ...,False
+00d07352-33f8-4fcc-a703-1ebbd4b0ccd5,S0067,History,Revolutions,Explain Revolutions in brief.,The key concept of Revolutions is ...,False
+45b58070-2792-48f2-bedd-ac2659a9b263,S0067,Math,Geometry,Explain Geometry in brief.,Geometry is defined as ...,False
+de5cc5fa-02c7-4fbd-a897-3b4a6fdf5a4a,S0067,English,Comprehension,Why is Comprehension important?,Comprehension is important because ...,False
+6fd14ea4-94a9-41ab-8658-5db86ff80a93,S0067,Computer Science,Databases,Why is Databases important?,An example of Databases: ...,True
+49fd4b41-8cff-42bc-b839-7630722a925e,S0668,Social Science,Economics,Explain Economics in brief.,The key concept of Economics is ...,True
+266192cf-7214-4677-844f-0f716895150e,S0668,Math,Algebra,What is the key concept of Algebra?,Algebra can be explained as ...,False
+f38f2547-bc02-4d7a-9135-af1a1f7f3f33,S0668,Science,Genetics,Why is Genetics important?,The key concept of Genetics is ...,True
+b5561a03-a8f7-485b-95de-05b4b927fdb1,S0668,History,World Wars,Give an example of World Wars.,World Wars is defined as ...,True
+9d27991f-7d69-459b-b3eb-7d829c23cd17,S0668,Science,Genetics,Why is Genetics important?,Genetics is important because ...,True
+574be923-c5f2-4cee-b072-7d7b67396e7d,S0668,Computer Science,Programming,Give an example of Programming.,The key concept of Programming is ...,True
+f1b12372-d006-40cf-a7ff-0ebc9d5199bb,S0668,Science,Biology,What is the key concept of Biology?,Biology can be explained as ...,False
+81ca9887-3552-4a44-aa06-dbb257702281,S0668,History,World Wars,Define World Wars.,World Wars is defined as ...,False
+22e24b26-70ea-4da6-872a-102a485d021e,S0645,Economics,Finance,Explain Finance in brief.,Finance can be explained as ...,False
+9f30479e-29fe-4b4c-a74a-19a6037fdd29,S0645,Math,Calculus,Define Calculus.,The key concept of Calculus is ...,True
+fa673ae5-fc4c-463f-b5de-8664ca6dead3,S0645,Social Science,Geography,Give an example of Geography.,Geography can be explained as ...,False
+cac21c13-cd60-45e1-90af-dfe2def39d0e,S0645,Computer Science,AI,What is the key concept of AI?,An example of AI: ...,True
+1b3b82e3-41aa-4606-ad1c-a4aed4484395,S0645,Economics,Finance,Define Finance.,An example of Finance: ...,True
+a160430e-ff00-4dc4-a62d-56bfab589981,S0645,Science,Genetics,What is the key concept of Genetics?,The key concept of Genetics is ...,True
+57eec0c5-9698-48d7-be25-a92c473616ca,S0645,Science,Ecology,Give an example of Ecology.,The key concept of Ecology is ...,True
+0cd08816-ba77-4e13-92fe-901c68f7f110,S0645,Economics,Trade,What is the key concept of Trade?,Trade can be explained as ...,False
+fb83bade-dbe8-42ed-a3c4-fe63af571ec9,S0142,Social Science,Geography,What is the key concept of Geography?,Geography is important because ...,False
+bc3f16b7-9136-44ee-afdc-1d72733388e0,S0142,Science,Physics,Define Physics.,The key concept of Physics is ...,False
+56493d8b-0d75-4d8e-9fc9-1503dfd30697,S0142,Economics,Macro,Give an example of Macro.,Macro is important because ...,True
+622a42ba-1999-4406-8851-4235fd1e1fa2,S0142,Math,Trigonometry,Why is Trigonometry important?,The key concept of Trigonometry is ...,False
+941972a4-97e9-4e2c-868c-9e6c1a925c3a,S0142,History,Ancient,Why is Ancient important?,An example of Ancient: ...,False
+1434727b-b827-42da-b715-e12c306c4614,S0142,English,Comprehension,Explain Comprehension in brief.,The key concept of Comprehension is ...,True
+24ad0406-f0a2-47a6-9e0a-e264192eb1cf,S0142,Computer Science,Databases,Give an example of Databases.,Databases is important because ...,True
+aa67343d-9dde-4e98-8c0e-bdd31b3e26b0,S0142,Economics,Trade,Give an example of Trade.,Trade is important because ...,True
+ac008572-94f2-4175-b2c3-0409c5338150,S0952,Economics,Trade,Why is Trade important?,An example of Trade: ...,True
+a960ac85-ea94-4de2-87c7-9565a7bd8c0a,S0952,Social Science,Sociology,Define Sociology.,An example of Sociology: ...,False
+48fddb46-d9a9-419e-871d-2d0c7ca53b3e,S0952,Social Science,Economics,Define Economics.,Economics is defined as ...,False
+50bf8ca1-8ab7-4fe1-abcb-94e64cec98bb,S0952,Social Science,Geography,What is the key concept of Geography?,An example of Geography: ...,False
+d63aa453-ebe9-4b5f-a14c-cad3e69bf70a,S0952,Math,Trigonometry,Why is Trigonometry important?,An example of Trigonometry: ...,True
+07e2d6a6-fa28-4849-9c0b-946e21de1de6,S0952,Economics,Micro,Define Micro.,Micro is important because ...,True
+5126c054-2560-4159-a45a-17e354864406,S0952,Computer Science,Programming,What is the key concept of Programming?,Programming can be explained as ...,False
+8ff3943b-b106-4ac6-b52a-eae5ec2775a2,S0952,English,Writing Skills,Give an example of Writing Skills.,The key concept of Writing Skills is ...,False
+1425c3ba-20c6-4b9f-9958-9ddbd87161bb,S0224,English,Grammar,Give an example of Grammar.,Grammar can be explained as ...,False
+13b23d02-0afa-413a-9304-3e6ba32a0f0a,S0224,Science,Biology,Give an example of Biology.,Biology can be explained as ...,True
+0aa6c2b7-8cbc-4a1c-8b80-8c18ae3d0bf0,S0224,Computer Science,Algorithms,Why is Algorithms important?,The key concept of Algorithms is ...,False
+1e8f20b0-14aa-4152-896d-f7dbda351426,S0224,Science,Chemistry,What is the key concept of Chemistry?,Chemistry can be explained as ...,True
+3e3e7c85-3e6b-4bd7-be65-9ddddd5cef5d,S0224,History,Ancient,Explain Ancient in brief.,Ancient is important because ...,False
+fa0cbcbd-9e72-4722-8972-51942c473c2e,S0224,Economics,Micro,Define Micro.,An example of Micro: ...,True
+31f53768-d119-4b7e-92b3-f1bcda29f147,S0224,Computer Science,Algorithms,Why is Algorithms important?,Algorithms can be explained as ...,False
+ad0b6a35-ab6f-4253-a3fc-46933031b8fc,S0224,Science,Physics,Define Physics.,The key concept of Physics is ...,False
+d136148f-df38-4425-8236-c7d6d07d5b31,S0855,Social Science,Economics,What is the key concept of Economics?,The key concept of Economics is ...,False
+3a16f640-08fd-4e1a-b167-4631c92c6246,S0855,Social Science,History,What is the key concept of History?,History is important because ...,False
+20b61fca-6d80-4dcf-b440-4dc518f6f19f,S0855,Computer Science,Databases,Give an example of Databases.,Databases is important because ...,True
+d5ded122-b48a-4b7a-a778-e0fb65d407d4,S0855,History,World Wars,What is the key concept of World Wars?,World Wars can be explained as ...,False
+30da0baa-efff-46e3-895a-0e9db39f2f72,S0855,Computer Science,Databases,Why is Databases important?,Databases can be explained as ...,False
+6bc42ae5-531a-4198-9b50-4e1755b97ad5,S0855,Economics,Finance,What is the key concept of Finance?,Finance can be explained as ...,False
+6f983c9b-bdf2-47c0-9779-91aa732b55d3,S0855,English,Literature,Why is Literature important?,An example of Literature: ...,True
+e215f02c-b724-4cd6-8b9a-1cde16cfd7bc,S0855,Computer Science,Programming,Explain Programming in brief.,Programming is defined as ...,True
+8b35f918-12bf-4ebf-99e3-9441a0280eff,S0318,Math,Algebra,Why is Algebra important?,Algebra is important because ...,False
+2ee0a1f4-e716-4c29-8473-664f71af4b9f,S0318,Computer Science,AI,What is the key concept of AI?,AI is important because ...,False
+f2c4973f-b208-4c33-95f1-d5ccfdbe478a,S0318,Social Science,History,Why is History important?,History is important because ...,False
+fe639aea-43ff-49f3-a81d-8ccc0c78f072,S0318,Social Science,Civics,Why is Civics important?,Civics is defined as ...,False
+d14ad5c5-3c2c-4c38-bf3b-8dc89f885b18,S0318,Computer Science,Databases,Why is Databases important?,Databases is important because ...,True
+8a0d3c7d-e9c6-42e4-9bdb-52cd7e49a651,S0318,History,Ancient,Give an example of Ancient.,The key concept of Ancient is ...,True
+bb341a26-8c78-4a83-ada1-5cf4176a2cf7,S0318,History,Medieval,Explain Medieval in brief.,An example of Medieval: ...,False
+e27a9b44-88f1-4e96-a0fa-4f5541cab70a,S0318,Social Science,Sociology,Explain Sociology in brief.,Sociology is important because ...,True
+a0cabc62-770f-4b0b-abae-744df1f6a279,ALL,Math,Algebra,Give an example of Algebra.,Algebra is defined as ...,False
+4e9cc533-451e-48ad-aed1-4fd57c3d9756,ALL,Math,Algebra,Define Algebra.,Algebra is important because ...,True
+dbc6e5d6-e915-4201-98d1-abbbf10cf0f3,ALL,Math,Algebra,What is the key concept of Algebra?,Algebra is defined as ...,False
+e19eef37-a462-4e60-bffd-4243076fefd3,ALL,Math,Geometry,Define Geometry.,An example of Geometry: ...,False
+ff582eb0-b43f-4131-9e5c-2ed39ba8a697,ALL,Math,Geometry,Give an example of Geometry.,An example of Geometry: ...,True
+daa9d8e2-ac86-49f9-b0d7-cb90579cdd4f,ALL,Math,Geometry,Define Geometry.,Geometry is important because ...,True
+91c7f96b-e565-4bb2-8ad2-3dcf0adad832,ALL,Math,Probability,What is the key concept of Probability?,An example of Probability: ...,False
+e46ed49f-a079-472c-892a-018d47c79309,ALL,Math,Probability,Give an example of Probability.,An example of Probability: ...,True
+bbadd45b-59cf-4933-8bf0-dcc24744cf41,ALL,Math,Probability,Why is Probability important?,Probability is important because ...,False
+783e3c23-2e65-4eab-9a1f-91e4c2309486,ALL,Math,Trigonometry,Why is Trigonometry important?,Trigonometry can be explained as ...,True
+1976a735-d82b-4bab-b92e-7d94aea6431b,ALL,Math,Trigonometry,Give an example of Trigonometry.,An example of Trigonometry: ...,False
+ce32fa06-44cf-4da6-826d-30c9279e6f74,ALL,Math,Trigonometry,What is the key concept of Trigonometry?,An example of Trigonometry: ...,True
+3eaadefd-ee61-442f-b145-46d41a771436,ALL,Math,Calculus,Explain Calculus in brief.,The key concept of Calculus is ...,True
+6aa1ec88-76e6-48c8-b15a-73733dcc7bc2,ALL,Math,Calculus,Explain Calculus in brief.,Calculus is defined as ...,False
+c6a24099-1870-4243-8e95-90c6d67136fb,ALL,Math,Calculus,Define Calculus.,Calculus is important because ...,False
+97f6733d-1be2-421b-aa60-a49e6cb81fad,ALL,Science,Physics,What is the key concept of Physics?,Physics can be explained as ...,False
+406aac98-1046-428e-b5c8-409b9ee8211f,ALL,Science,Physics,Explain Physics in brief.,The key concept of Physics is ...,False
+3ca7001f-c0a9-484a-a368-3f17aa4c78ae,ALL,Science,Physics,Give an example of Physics.,The key concept of Physics is ...,True
+243af7f1-e1e1-4d1d-822f-28e2d27af6d9,ALL,Science,Biology,What is the key concept of Biology?,Biology is defined as ...,True
+a04a53fc-215e-445c-9576-9ffc54440f1f,ALL,Science,Biology,Explain Biology in brief.,The key concept of Biology is ...,True
+1e3be313-0c2c-4bfe-bb6b-f3de5bbce12d,ALL,Science,Biology,Define Biology.,The key concept of Biology is ...,True
+03af7419-574c-4383-a811-f75ae2d95c33,ALL,Science,Chemistry,Give an example of Chemistry.,Chemistry is defined as ...,True
+4c7f50a0-a820-410d-80f3-167054fd9737,ALL,Science,Chemistry,Why is Chemistry important?,An example of Chemistry: ...,False
+7d7ea90f-2297-4562-ab95-c38f0c286880,ALL,Science,Chemistry,Define Chemistry.,The key concept of Chemistry is ...,True
+94ff1b37-6de9-466d-9492-8b778c4d7df1,ALL,Science,Ecology,Why is Ecology important?,Ecology is defined as ...,True
+39bf761e-4590-4330-8782-ff06b78248e4,ALL,Science,Ecology,Why is Ecology important?,An example of Ecology: ...,False
+ceb13a63-3ede-4716-b704-a046f635c0c1,ALL,Science,Ecology,Why is Ecology important?,An example of Ecology: ...,True
+60830e17-fa17-414f-9aec-d27781d14ff8,ALL,Science,Genetics,Why is Genetics important?,Genetics is important because ...,False
+a596037f-46fd-4d3e-bcef-d9f0d16589e6,ALL,Science,Genetics,Why is Genetics important?,Genetics is important because ...,False
+1ddb688c-d6e5-4c7b-b238-e0c0399360a3,ALL,Science,Genetics,Define Genetics.,The key concept of Genetics is ...,False
+d142ccab-9d1a-43e8-8a76-c86e0f414b2d,ALL,English,Grammar,Explain Grammar in brief.,Grammar is important because ...,True
+ee41f762-ada6-4cca-b849-b80f945c1499,ALL,English,Grammar,Define Grammar.,Grammar can be explained as ...,False
+88af05b1-fee2-41dd-943e-98b996fba851,ALL,English,Grammar,What is the key concept of Grammar?,The key concept of Grammar is ...,False
+f2bff990-d5e2-4924-94a4-ce5e1ccd6ad0,ALL,English,Literature,Why is Literature important?,Literature is important because ...,False
+a9b12910-dd69-4baa-ac6b-71156a6e90eb,ALL,English,Literature,Define Literature.,An example of Literature: ...,False
+c7df75fa-03ad-4939-867b-0eaf7dfe921a,ALL,English,Literature,Why is Literature important?,Literature can be explained as ...,False
+7140b5ea-fea0-418b-a3cc-ce61f572eae1,ALL,English,Writing Skills,Define Writing Skills.,Writing Skills is important because ...,True
+79f0ac59-82af-447b-8237-21c5f81cb6da,ALL,English,Writing Skills,What is the key concept of Writing Skills?,Writing Skills is defined as ...,True
+b09680e4-1dea-4c16-aa61-926811680e52,ALL,English,Writing Skills,What is the key concept of Writing Skills?,Writing Skills is important because ...,True
+7a7f83a1-338f-49ce-8fb0-71cdc75d485a,ALL,English,Poetry,Give an example of Poetry.,Poetry can be explained as ...,True
+78acf52d-3414-4f06-b541-ab4446e5acc8,ALL,English,Poetry,Give an example of Poetry.,An example of Poetry: ...,False
+9796abfe-d1ef-4b46-afda-c041cfe3cab1,ALL,English,Poetry,Give an example of Poetry.,Poetry is important because ...,False
+3eb6fd1b-1c06-4226-ad12-08bd9cd19632,ALL,English,Comprehension,Define Comprehension.,Comprehension is important because ...,True
+7bdca363-61d0-4092-a974-0652bdab1653,ALL,English,Comprehension,What is the key concept of Comprehension?,Comprehension is defined as ...,False
+e2a3c182-5998-4255-acbb-4f8caa6d1460,ALL,English,Comprehension,Explain Comprehension in brief.,Comprehension is defined as ...,False
+0203ded1-1341-4014-b804-c6633f9c7c8a,ALL,Social Science,Geography,Give an example of Geography.,Geography can be explained as ...,True
+46f7f482-e9b3-4525-a220-1e6056f50eff,ALL,Social Science,Geography,Define Geography.,Geography can be explained as ...,False
+260dd69b-cc8b-49b6-b7bf-0b8daa990780,ALL,Social Science,Geography,Explain Geography in brief.,Geography is important because ...,True
+f3736dcb-ce59-4127-81c7-ba022e079ab7,ALL,Social Science,Civics,Why is Civics important?,Civics is defined as ...,True
+87d2ca0b-fb19-46e0-8b23-c153c16d2ae5,ALL,Social Science,Civics,What is the key concept of Civics?,Civics can be explained as ...,False
+fa2e66ec-3a58-4890-85ca-2237e590a593,ALL,Social Science,Civics,Explain Civics in brief.,Civics can be explained as ...,True
+30b8aff5-80a7-44b4-b583-6d168fd2de9a,ALL,Social Science,History,Explain History in brief.,The key concept of History is ...,False
+e96ef474-d880-4c6c-8596-74aad87595ba,ALL,Social Science,History,Explain History in brief.,The key concept of History is ...,False
+8bb749a7-8cfb-4879-b11d-4be387bb4b31,ALL,Social Science,History,Explain History in brief.,History is important because ...,False
+3df0f39e-a12a-4166-856f-35031c903051,ALL,Social Science,Economics,Why is Economics important?,Economics can be explained as ...,True
+5ded2362-7b66-4ac6-b73c-b5a046cecee7,ALL,Social Science,Economics,Explain Economics in brief.,Economics can be explained as ...,True
+c0a7e063-e9c5-46fe-8210-49baab9badbf,ALL,Social Science,Economics,What is the key concept of Economics?,Economics can be explained as ...,False
+4f6a5e94-7f9e-4399-83d0-6c1cf5145122,ALL,Social Science,Sociology,What is the key concept of Sociology?,Sociology is important because ...,False
+f3bbcdb0-caef-4842-a838-aa4b037cf003,ALL,Social Science,Sociology,Explain Sociology in brief.,Sociology is important because ...,True
+c71c2464-f678-402a-9893-db4a77ca7489,ALL,Social Science,Sociology,Define Sociology.,Sociology can be explained as ...,True
+ebab180e-1b29-4da6-8dfb-cd068fc7b40a,ALL,Computer Science,Programming,Why is Programming important?,Programming can be explained as ...,True
+50a3c390-ae57-47db-9968-24b3650788fc,ALL,Computer Science,Programming,What is the key concept of Programming?,The key concept of Programming is ...,True
+06e0a269-7c87-44e4-b27c-fcd492452051,ALL,Computer Science,Programming,Explain Programming in brief.,Programming can be explained as ...,True
+7f7fb283-5d0f-4a88-a3a4-15562a99c341,ALL,Computer Science,Algorithms,What is the key concept of Algorithms?,The key concept of Algorithms is ...,True
+7b5bc876-c1b7-4865-b0a3-2c90af293fdb,ALL,Computer Science,Algorithms,Give an example of Algorithms.,The key concept of Algorithms is ...,False
+e3dd609c-99a8-40cb-a463-d7485620211b,ALL,Computer Science,Algorithms,Why is Algorithms important?,Algorithms is important because ...,False
+6fe2454a-17fa-4741-877c-458afaed4489,ALL,Computer Science,Databases,Why is Databases important?,The key concept of Databases is ...,False
+1f66c3d7-d381-4f66-b271-7b691c84d3f7,ALL,Computer Science,Databases,Give an example of Databases.,An example of Databases: ...,False
+851d277c-dde0-4704-8f9a-c53a4af72f1f,ALL,Computer Science,Databases,Define Databases.,Databases can be explained as ...,False
+9b8c3951-1015-4c85-89ea-a7f4bed8ab75,ALL,Computer Science,Networking,Define Networking.,Networking can be explained as ...,True
+798c1797-4348-458c-a6f7-bf70cee29725,ALL,Computer Science,Networking,Why is Networking important?,Networking is defined as ...,False
+e4e550b0-7851-4003-9c90-1a132d417e99,ALL,Computer Science,Networking,Why is Networking important?,Networking can be explained as ...,True
+a1234138-f15f-4127-9c8c-deb078c93a02,ALL,Computer Science,AI,Define AI.,AI is important because ...,True
+d5f2e32d-c2e8-482d-aff7-f1b03561a577,ALL,Computer Science,AI,Define AI.,AI is defined as ...,False
+97312e47-a076-46e4-9afb-60f980663c55,ALL,Computer Science,AI,Explain AI in brief.,AI is important because ...,False
+19ea9ee1-c2ee-46a4-8984-f3cde3c47359,ALL,Economics,Micro,What is the key concept of Micro?,The key concept of Micro is ...,True
+957486d6-ee9a-4b62-844f-48eedd5482d3,ALL,Economics,Micro,Explain Micro in brief.,Micro is important because ...,True
+41dadd4c-f876-4226-8645-25032dcef20c,ALL,Economics,Micro,What is the key concept of Micro?,Micro is important because ...,True
+b190a4be-5627-430d-8375-fcd5c39b7170,ALL,Economics,Macro,Define Macro.,Macro is important because ...,False
+968114be-8b74-44c2-a26d-9cba628ac6f9,ALL,Economics,Macro,Give an example of Macro.,An example of Macro: ...,True
+9be233ae-f36b-408e-9454-2d15904324bc,ALL,Economics,Macro,Give an example of Macro.,Macro is defined as ...,True
+10f272dd-a815-497f-8d5c-fa0878617907,ALL,Economics,Finance,What is the key concept of Finance?,The key concept of Finance is ...,False
+eee3a9f5-8054-411f-ac10-b8be5342d640,ALL,Economics,Finance,Give an example of Finance.,Finance is defined as ...,False
+a0865a4d-4f49-4692-9e7d-b89f1cc941ef,ALL,Economics,Finance,Why is Finance important?,The key concept of Finance is ...,False
+971b9c20-74da-4d80-af60-a015840fe2c8,ALL,Economics,Trade,Explain Trade in brief.,Trade is defined as ...,False
+737d5120-c20e-4ec5-b313-f27630bc5299,ALL,Economics,Trade,Define Trade.,An example of Trade: ...,True
+7aeb709d-13e0-46bc-9b97-dcabe35e9eb2,ALL,Economics,Trade,Define Trade.,Trade is important because ...,True
+ee774ac0-3628-4b51-91a3-11f731cf9206,ALL,Economics,Development,Explain Development in brief.,Development can be explained as ...,True
+526fb271-ed64-444a-9caf-a291241e490c,ALL,Economics,Development,Why is Development important?,Development is important because ...,True
+a3ef0985-3ad6-4c83-a65a-947cee9b0ba3,ALL,Economics,Development,Define Development.,Development is important because ...,True
+4fd39b2d-0e0f-4aae-84b9-65ee00c9db37,ALL,History,Ancient,Define Ancient.,The key concept of Ancient is ...,True
+5cd91203-1568-414d-9d6c-1ecb49f37e5e,ALL,History,Ancient,Explain Ancient in brief.,Ancient is important because ...,False
+b8ad215c-bf6f-4673-a3b8-762b3fe0b584,ALL,History,Ancient,Define Ancient.,The key concept of Ancient is ...,True
+707d8600-f528-45e7-9536-3540917beb07,ALL,History,Medieval,Give an example of Medieval.,Medieval is important because ...,False
+df2a3c90-8b36-4d6e-85d5-324a4220ef61,ALL,History,Medieval,Why is Medieval important?,Medieval is defined as ...,False
+e0f3558d-ebb1-42fe-a26b-675c925fd131,ALL,History,Medieval,Give an example of Medieval.,Medieval can be explained as ...,True
+9efdb8e9-0b70-4fed-9dd8-9ff21f5bcf90,ALL,History,Modern,Why is Modern important?,An example of Modern: ...,True
+3e7447fe-5c5a-4f32-8b18-c93af5d0b9a8,ALL,History,Modern,Explain Modern in brief.,Modern can be explained as ...,True
+200b2afc-5c74-45b4-865a-ec39f9176c0b,ALL,History,Modern,Give an example of Modern.,Modern is defined as ...,True
+eadc6d74-8a11-42ac-94d3-23b04228c940,ALL,History,World Wars,What is the key concept of World Wars?,World Wars is defined as ...,False
+06f71d35-007d-415a-afcd-2f14146e97e0,ALL,History,World Wars,Define World Wars.,An example of World Wars: ...,False
+d12a3c9e-11ec-4958-abd7-8a31e715ff7a,ALL,History,World Wars,Explain World Wars in brief.,World Wars can be explained as ...,False
+58d211b8-b4ea-4f76-ae44-35bea6844ffb,ALL,History,Revolutions,Give an example of Revolutions.,Revolutions is defined as ...,True
+a8fe02f9-db0b-46c8-acdc-8ad027c047f6,ALL,History,Revolutions,Give an example of Revolutions.,Revolutions can be explained as ...,False
+da892ca1-b812-4aaf-863a-1641ae1ea826,ALL,History,Revolutions,Define Revolutions.,An example of Revolutions: ...,True

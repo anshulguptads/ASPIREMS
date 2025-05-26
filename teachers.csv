@@ -1,0 +1,31 @@
+teacher_id,name,assigned_sections,email
+T001,Patricia Mata,"[10, 2]",susanthompson@example.com
+T002,Alan Nunez,[2],cynthia16@example.com
+T003,Calvin Gonzalez,[2],markcordova@example.com
+T004,Jeffrey Fischer,[1],randallperez@example.com
+T005,Patricia Franklin,[9],robertblackburn@example.org
+T006,Timothy Ruiz,"[9, 1]",lawrencedouglas@example.net
+T007,Ronald Warren,[6],lindapatterson@example.com
+T008,Dr. Bruce Ramirez,"[9, 7, 1]",squinn@example.com
+T009,Peter Howard,"[2, 8, 1]",russellprice@example.net
+T010,Nicholas Hardy,"[5, 1]",sandy03@example.net
+T011,Jeremiah Reyes,"[4, 3, 6]",mprice@example.net
+T012,Maria Maxwell,[10],malonewilliam@example.net
+T013,Joshua Zuniga,"[10, 5, 6]",echoi@example.org
+T014,Victoria Patton,[10],emelton@example.net
+T015,Angel Zavala,"[2, 8]",scampbell@example.net
+T016,Amy Long,[3],bgray@example.com
+T017,Mrs. Lisa Rodriguez,[3],tracyhansen@example.com
+T018,Jamie Gonzalez,"[7, 5]",gregorymyers@example.org
+T019,Ashley Robinson,[4],travis21@example.org
+T020,Christina Vargas,"[8, 3, 9]",acevedotimothy@example.net
+T021,Thomas Erickson,[6],fclay@example.net
+T022,Sandra Smith,"[3, 10]",kelsey68@example.org
+T023,Michael Scott,[7],vmurray@example.org
+T024,Kristine Cole,[7],margaret40@example.com
+T025,Haley Murray,"[6, 5, 7]",lpatterson@example.com
+T026,Dean Moreno,[4],icarlson@example.org
+T027,Anne Wright,"[1, 9, 4]",hannamatthew@example.net
+T028,Teresa Carrillo,[5],along@example.net
+T029,John Cabrera,"[5, 8]",alicia89@example.net
+T030,David Williams,[5],browndenise@example.net
